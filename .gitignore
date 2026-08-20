@@ -1,0 +1,9 @@
+Todas las que se ven desde FZ/
+.mysql_backup/
+.cphorde/
+.cpanel/
+etc/
+*.sql.gz
+error_log
+node_modules/
+.env

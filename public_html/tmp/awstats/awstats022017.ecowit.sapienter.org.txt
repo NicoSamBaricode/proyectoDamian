@@ -1,0 +1,388 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201702 will be lost/reset.
+# Last config file used to build this data file was /home/simubari17/tmp/awstats/awstats.ecowit.sapienter.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2019                
+POS_TIME 2697                
+POS_VISITOR 8360                
+POS_DAY 9866                
+POS_DOMAIN 3376                
+POS_LOGIN 3756                
+POS_ROBOT 3911                
+POS_WORMS 4378                
+POS_EMAILSENDER 4509                
+POS_EMAILRECEIVER 4652                
+POS_SESSION 10354               
+POS_SIDER 10501               
+POS_FILETYPES 4787                
+POS_DOWNLOADS 4918                
+POS_OS 5070                
+POS_BROWSER 5306                
+POS_SCREENSIZE 5869                
+POS_UNKNOWNREFERER 5943                
+POS_UNKNOWNREFERERBROWSER 6356                
+POS_ORIGIN 6700                
+POS_SEREFERRALS 6832                
+POS_PAGEREFS 6987                
+POS_SEARCHWORDS 7203                
+POS_KEYWORDS 7355                
+POS_MISC 2361                
+POS_ERRORS 7414                
+POS_CLUSTER 3612                
+POS_SIDER_404 7500                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170301011136 18 3260 16149898386357
+FirstTime 20170201041058
+LastTime 20170228021447
+LastUpdate 20170301051403 18 0 17 0 0
+TotalVisits 40                  
+TotalUnique 37                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 38                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+AddToFavourites 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 9886 13 33 507331
+1 2 2 6314 8 18 260138
+2 6 8 613994 21 23 173961
+3 1 1 3157 10 19 25671
+4 2 2 6314 11 18 36120
+5 1 1 3157 3 8 7068
+6 1 1 9886 5 6 9471
+7 1 1 9886 9 16 22353
+8 1 1 9886 12 16 25256
+9 3 3 9471 5 6 6412
+10 1 1 3157 5 7 12628
+11 5 6 41395 11 22 940135
+12 1 1 9886 6 12 257122
+13 0 0 0 6 11 49920
+14 7 7 59772 9 16 24794
+15 0 0 0 14 28 263257
+16 1 1 3157 6 10 3911
+17 3 3 16200 13 23 14865
+18 2 2 13043 5 9 16162
+19 9 9 72815 7 17 14400
+20 1 1 9886 20 34 712133
+21 1 2 38767 9 17 262880
+22 1 1 3157 6 8 6314
+23 4 4 26086 9 19 267885
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 13
+us 24 25 172696
+nl 6 6 18942
+ca 6 6 56615
+fr 4 4 26086
+ua 4 6 600951
+ru 3 3 22929
+it 3 3 16200
+cn 1 1 3157
+de 1 1 3157
+cz 1 1 3157
+md 1 1 9886
+ro 1 1 9886
+ar 0 1 35610
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+googlebot 96 1685373 20170228210839 0
+bot[\s_+:,\.\;\/\\-] 90 230078 20170228231235 0
+bingpreview 33 1907477 20170228232810 0
+spider 16 0 20170227082820 0
+no_user_agent 6 59316 20170228041020 0
+checker 3 8594 20170226222938 0
+netcraft 2 19772 20170208021415 0
+slurp 2 5437 20170207030705 0
+[\s_+:,\.\;\/\\-]bot 2 4140 20170212125037 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+jpg 1 35610 0 0
+pdf 2 583768 0 0
+css 1 1395 0 0
+html 55 358499 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/varios/guiadesimulaciondenegocios.pdf 3 0 1926486
+/varios/programadesimulaciondenegocios.pdf 2 0 82652
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 14
+Unknown 19 19
+win2003 5 4
+macosx7 1 1
+macosx8 1 1
+macosx9 1 1
+winnt 5 4
+linux 4 4
+linuxandroid 1 1
+macosx6 1 1
+winlong 3 3
+ios_iphone 1 1
+win8.1 5 3
+win7 11 11
+winxp 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 27
+firefox43.0 1 1
+chrome36.0.2004.58 1 1
+mozilla 10 10
+safari6.0 1 1
+chrome15.0.861.0 1 1
+msie7.0 5 4
+firefox48.0 1 1
+chrome34.0.1847.116 1 1
+firefox47.0 1 1
+chrome56.0.2975.46 1 1
+chrome45.0.2454.94 1 1
+chrome13.0.782.20 1 1
+chrome44.0.2403.125 2 2
+firefox28.0 1 1
+msie8.0 1 1
+chrome40.0.2214.115 3 3
+msie11.0 3 3
+netscape5.0 1 1
+chrome56.0.2924.87 1 0
+chrome54.0.2840.99 1 1
+firefox50.0 1 1
+chrome27.0.1453.90 3 3
+firefox3.6.3 1 1
+Unknown 9 9
+chrome55.0.2883.87 5 3
+chrome37.0.2062.120 1 1
+opera36.0.2130.32 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+SalesIntelligent_(_https://www.salesintelligent.com) 20170215214330
+python-requests/2.13.0 20170204180119
+Mozilla/5.0_(compatible;_ips-agent) 20170203191242
+Mozilla/5.0_zgrab/0.x 20170222224839
+Mozilla/5.0_(compatible;_Dataprovider.com;) 20170204140639
+Mnogosearch-3.1.21 20170228021447
+redback/v0-570-g26f8c96 20170201094413
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+redback/v0-570-g26f8c96 20170201094413
+Mnogosearch-3.1.21 20170228021447
+python-requests/2.13.0 20170204180119
+python-requests/2.3.0_CPython/3.4.0_Linux/4.4.35-33.55.amzn1.x86_64 20170220035049
+SalesIntelligent_(_https://www.salesintelligent.com) 20170215214330
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 45 47
+From1 0 0
+From2 1 1
+From3 2 2
+From4 7 9
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://anonymizeme.pro/go/hide.cgi 1 1
+http://pizza-imperia.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 140 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 23
+/wordpress/ 1 -
+/wp/ 1 -
+/javascripts/logo_img.php 1 http://ecowit.org/javascripts/logo_img.php
+/blog/ 1 -
+/wp-login.php 3 -
+/user 1 -
+/logs/logo_img.php 1 http://ecowit.org/logs/logo_img.php
+/blog 1 -
+/joomla/administrator/index.php 1 -
+/administrator 1 -
+/administrator/index.php 1 -
+/blog/administrator/index.php 1 -
+/admin.php 1 -
+/blog/robots.txt 2 -
+/sitemap.xml 1 -
+/joomla/robots.txt 1 -
+/admin 1 -
+/index.php 3 -
+/robots.txt 112 -
+/xmlrpc.php 1 -
+/update.php 1 -
+//wp-login.php 2 -
+/media/logo_img.php 1 http://ecowit.org/media/logo_img.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 38
+192.99.44.141 6 6 56615 20170204140640
+69.58.178.59 5 5 46729 20170203191242
+38.100.21.61 4 5 38238 20170205113456
+194.247.13.9 3 5 591065 20170206025654
+195.154.191.62 2 2 13043 20170215191619
+54.144.56.180 2 2 6314 20170211053950
+54.89.73.221 2 2 6314 20170215214330
+109.236.8.8 2 2 6314 20170201094413
+13.74.30.35 1 1 3157 20170204180119
+45.32.129.200 1 1 9886 20170215123145
+109.236.86.17 1 1 3157 20170213171023
+95.211.216.24 1 1 3157 20170201041058
+35.163.134.164 1 1 3157 20170203235819
+185.188.182.33 1 1 3157 20170221094113
+109.87.36.111 1 1 9886 20170206173305
+54.85.165.200 1 1 3157 20170220035049
+90.182.52.72 1 1 3157 20170206024254
+46.101.2.35 1 1 3157 20170227101533
+54.162.157.194 1 1 9886 20170212023210
+195.154.181.168 1 1 3157 20170201115532
+46.166.148.152 1 1 3157 20170227041321
+62.212.68.156 1 1 3157 20170209173711
+62.212.73.49 1 1 3157 20170225145215
+178.17.170.164 1 1 9886 20170207191409
+176.9.50.43 1 1 3157 20170211013353
+190.172.3.25 0 1 35610 
+79.137.85.189 1 1 9886 20170218005641
+45.32.131.61 1 1 9886 20170207081012
+109.163.234.5 1 1 9886 20170221192914
+62.210.69.79 1 1 9886 20170214185613
+104.207.150.177 1 1 9886 20170223233823
+130.211.63.54 1 1 3157 20170222224839
+158.85.184.106 1 1 3157 20170208165635
+106.38.241.140 1 1 3157 20170227232855
+173.49.24.118 1 1 9886 20170228021447
+146.185.223.146 1 1 9886 20170221235901
+216.69.191.98 1 1 9886 20170203062640
+5.188.211.23 1 1 9886 20170225072251
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 21
+20170201 4 4 12628 3
+20170203 8 8 69658 4
+20170204 7 7 59772 2
+20170205 4 5 38238 1
+20170206 5 7 604108 3
+20170207 2 2 19772 2
+20170208 1 1 3157 1
+20170209 1 1 3157 1
+20170211 3 3 9471 3
+20170212 1 1 9886 1
+20170213 1 1 3157 1
+20170214 1 1 9886 1
+20170215 4 4 19357 4
+20170218 1 1 9886 1
+20170220 1 1 3157 1
+20170221 3 3 22929 3
+20170222 1 2 38767 1
+20170223 1 1 9886 1
+20170225 2 2 13043 2
+20170227 3 3 9471 3
+20170228 1 1 9886 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 40
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 3
+/ 47 303146 40 39
+/enlacesrelacionados.html 4 21933 0 1
+/accesoaempresas.html 4 33420 0 0
+END_SIDER

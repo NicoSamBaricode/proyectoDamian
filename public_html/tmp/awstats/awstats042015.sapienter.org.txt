@@ -1,0 +1,600 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201504 will be lost/reset.
+# Last config file used to build this data file was /home/simubari17/tmp/awstats/awstats.sapienter.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2684                
+POS_VISITOR 16663               
+POS_DAY 20101               
+POS_DOMAIN 3424                
+POS_LOGIN 3800                
+POS_ROBOT 3955                
+POS_WORMS 4438                
+POS_EMAILSENDER 4569                
+POS_EMAILRECEIVER 4712                
+POS_SESSION 20820               
+POS_SIDER 21021               
+POS_FILETYPES 4847                
+POS_DOWNLOADS 5038                
+POS_OS 5131                
+POS_BROWSER 5369                
+POS_SCREENSIZE 5943                
+POS_UNKNOWNREFERER 6017                
+POS_UNKNOWNREFERERBROWSER 6163                
+POS_ORIGIN 6492                
+POS_SEREFERRALS 6632                
+POS_PAGEREFS 6789                
+POS_SEARCHWORDS 8305                
+POS_KEYWORDS 8457                
+POS_MISC 2348                
+POS_ERRORS 8516                
+POS_CLUSTER 3656                
+POS_SIDER_404 8627                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150501054518 1 0 14028353840655
+FirstTime 20150401015031
+LastTime 20150430120903
+LastUpdate 20150502052547 1 0 0 0 0
+TotalVisits 94                  
+TotalUnique 83                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 87                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 9 13 18486
+1 5 5 8848 6 17 104953
+2 3 3 4263 10 19 103805
+3 1 1 1421 6 9 16534
+4 1 1 1421 22 32 171825
+5 3 6 135312 15 26 113146
+6 11 21 817639 16 57 237036
+7 15 29 969122 65 102 244354
+8 7 13 273788 10 39 61220
+9 11 25 808039 8 14 91344
+10 23 53 1900540 17 32 43730
+11 26 44 1004222 14 26 36100
+12 43 68 2510889 6 23 27877
+13 16 28 956412 2 10 81031
+14 0 0 0 11 22 183540
+15 4 4 9170 11 18 99832
+16 9 22 942360 23 41 190510
+17 10 21 815599 14 22 33555
+18 27 50 1775175 11 33 679457
+19 3 3 7749 6 12 141299
+20 6 11 407787 8 20 108711
+21 1 2 74235 10 23 173318
+22 0 0 0 11 20 40182
+23 1 1 1421 7 14 101688
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 12
+ar 171 339 11838408
+us 24 32 1200089
+cn 14 15 94926
+fr 4 4 5684
+de 3 4 7130
+ru 2 2 2842
+zz 2 2 2842
+ec 2 5 133891
+jp 1 1 1421
+es 1 4 132470
+ro 1 2 4288
+at 1 1 1421
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+googlebot 103 191525 20150430204734 0
+bot[\s_+:,\.\;\/\\-] 80 586977 20150430151146 0
+spider 72 644333 20150430130853 0
+php 13 865023 20150430075732 0
+bingpreview 6 262098 20150423214725 0
+slurp 3 6006 20150416074349 0
+crawl 2 2842 20150429092605 0
+no_user_agent 1 1421 20150426210835 0
+netcraft 1 1421 20150408151848 0
+robot 1 1421 20150403051134 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+css 44 117547 0 0
+php 119 369858 0 0
+png 52 6882876 0 0
+html 106 150626 0 0
+jpg 87 4998722 0 0
+cgi 1 3639 0 0
+xls 2 902144 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/ejersicios/Decisiones_Ej._2.xls 3 0 1353216
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 14
+linuxandroid 45 21
+winxp 83 57
+winlong 2 2
+ios_iphone 4 1
+winnt 1 1
+java 1 1
+linux 8 6
+win7 181 98
+macosx 16 6
+macosx9 1 1
+win8 32 13
+win8.1 27 14
+Unknown 2 2
+ios_ipad 8 3
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 27
+msie6.0 7 7
+firefox28.0 1 1
+chrome40.0.2214.115 1 1
+chrome42.0.2311.108 2 2
+chrome41.0.2272.96 5 2
+safari8.0.5 8 3
+firefox21.0 2 2
+chrome39.0.2171.95 5 2
+chrome41.0.2272.118 46 26
+msie8.0 15 9
+chrome33.0.0.0 4 1
+chrome42.0.2311.90 154 66
+firefox6.0.2 12 11
+chrome39.0.2171.65 1 1
+chrome41.0.2272.101 29 18
+chrome42.0.2311.135 40 28
+firefox14.0.1 4 4
+msie7.0 10 10
+chrome37.0.2062.120 5 3
+philips 14 9
+chrome42.0.2311.109 20 7
+firefox23.0 2 2
+firefox6.0 1 1
+safari8.0 12 4
+Unknown 6 4
+firefox27.0 1 1
+chrome40.0.2214.93 4 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Mnogosearch-3.1.21 20150424010415
+the_beast 20150418070537
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+python-requests/2.3.0_CPython/2.6.9_Linux/3.14.27-25.47.amzn1.x86_64 20150421123042
+Mnogosearch-3.1.21 20150424010415
+python-requests/2.6.0_CPython/2.7.8_Linux/3.16.0-30-generic 20150428150010
+the_beast 20150418070537
+Java/1.7.0_09 20150417054708
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 72 75
+From1 0 0
+From2 12 12
+From3 31 33
+From4 111 291
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 12 12
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 26
+http://sapienter.mailrelay-ii.com/newslink/91499/1.html 4 4
+https://www.facebook.com 2 2
+http://sapienter.mailrelay-ii.com/newslink/91961/1.html 2 2
+http://sapienter.mailrelay-ii.com/newslink/92093/1.html 1 1
+http://sapienter.mailrelay-ii.com/newslink/91711/1.html 1 1
+http://blogs.forum69.info 1 2
+http://hvd-store.com 1 1
+http://lm.facebook.com/l.php 1 1
+http://sapienter.mailrelay-ii.com/newslink/91915/1.html 1 1
+http://sapienter.mailrelay-ii.com/newslink/91655/1.html 1 1
+http://sapienter.mailrelay-ii.com/newslink/91237/1.html 1 1
+http://sapienter.mailrelay-ii.com/newslink/91586/1.html 1 1
+http://forum69.info 1 2
+http://sapienter.mailrelay-ii.com/newslink/92072/1.html 1 1
+http://sapienter.mailrelay-ii.com/newslink/92098/1.html 1 1
+http://sapienter.mailrelay-ii.com/newslink/91415/1.html 1 1
+http://sapienter.mailrelay-ii.com/newslink/91579/1.html 1 1
+http://m.facebook.com 1 1
+http://sapienter.mailrelay-ii.com/newslink/91879/1.html 1 1
+http://sapienter.mailrelay-ii.com/newslink/91581/1.html 1 1
+http://sapienter.mailrelay-ii.com/newslink/91597/1.html 1 1
+http://sapienter.mailrelay-ii.com/newslink/91813/1.html 1 1
+http://sapienter.mailrelay-ii.com/newslink/92104/1.html 1 1
+http://sapienter.mailrelay-ii.com/newslink/91575/1.html 1 1
+http://sapienter.mailrelay-ii.com/newslink/91721/1.html 1 1
+http://sapienter.mailrelay-ii.com/newslink/91958/1.html 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+302 1 0
+206 2 44358
+404 313 496108
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 144
+/ 2 -
+/System/Plugins/elfinder/elfinder.html 1 -
+/w/elfinder-2.0-rc1/elfinder.html 1 -
+/repository/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/assets/components/elfinder/elfinder.html 1 -
+/templates/cn/template.xml 2 http://sapienter.org
+/fckeditor/fckeditor.js 2 http://sapienter.org
+/js/lib/elfinder/elfinder.html 1 -
+/media/js/plugins/elfinder2.0/elfinder.html 1 -
+/bdfiles/elfinder.html 1 -
+/finder/elfinder.html 1 -
+/xmlrpc.php 1 -
+/js/elfinder/elfinder.html 1 -
+/fckeditor/editor/filemanager/browser/default/connectors/test.html 1 -
+/resources/html_editor/ckfinder/elfinder.html 1 -
+/ckeditor/elfinder/elfinder.html 1 -
+/elfinder/elfinder.html 1 -
+/sites/all/modules/elfinder/elfinder.php.html 1 -
+/shop/yandex_market/ 1 -
+/blog/elfinder.html 1 -
+/FCKeditor/editor/filemanager/connectors/test.html 1 -
+/Administrator/fckeditor/fckeditor.js 2 http://sapienter.org
+/_fckeditor/fckeditor.js 2 http://sapienter.org
+/moadmin.php 2 http://sapienter.org
+/modules/tadtools/ckeditor/elFinder/elfinder.html 1 -
+/faq.html 1 -
+/js/transport.js 2 http://sapienter.org
+/js/plugins/elfinder2.0/elfinder.html 1 -
+/admin/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/lib/elfinder/elfinder.html 1 -
+/editor/filemanager/browser/default/connectors/test.html 1 -
+/home/assets/js/ckfinder/elfinder.html 1 -
+/servicios.html 1 -
+/elfinder.html 1 -
+/foro//new_member.jbb+[PLM=0][R]+GET+http://sapienter.org/foro//new_member.jbb+[0,10690,10288]+-%3E+[R]+POST+http://sapienter.org/foro//save_new_member.jbb+[0,0,10946]+-%3E+[L]+GET+http://sapienter.org/foro//login.jbb+[0,0,5843]+-%3E+[L]+GET+http://sapient 1 http://sapienter.org/foro//new_member.jbb+[PLM=0][R]+GET+http://sapienter.org/foro//new_member.jbb+[0,10690,10288]+-%3E+[R]+POST+http://sapienter.org/foro//save_new_member.jbb+[0,0,10946]+-%3E+[L]+GET+http://sapienter.org/foro//login.jbb+[0,0,5843]+-%3E+[L]+GET+http://sapienter.org/foro//login.jbb+[0,0,5843]+-%3E+[L]+GET+http://sapienter.org/foro//login.jbb+[0,0,5843]
+/wp-content/plugins/website-contact-form-with-file-upload/lib/wide-image/VERSION 1 -
+/editor/filemanager/upload/test.html 1 -
+/forums/chat/upload.php 1 -
+/filemanager/public/assets/javascript/ckeditor/ckeditor.js 1 -
+/sites/all/libraries/elfinder/elfinder.html 1 -
+/filemanager/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/projects/public/assets/javascript/ckeditor/ckeditor.js 1 -
+/assets/elfinder/elfinder.html 1 -
+/blog/xmlrpc.php 1 -
+/admin/js/fckeditor/fckeditor.js 2 http://sapienter.org
+/wp-includes/wlwmanifest.xml 3 -
+/wp-admin/admin-ajax.php 2 -
+/clients/public/assets/javascript/ckeditor/ckeditor.js 1 -
+/js/fckeditor/fckeditor.js 2 http://sapienter.org
+/catalog/view/javascript/common.js 2 http://sapienter.org
+/components/elfinder/files/elfinder.html 1 -
+/js/mage/cookies.js 2 http://sapienter.org
+/admin/FCKeditor/editor/filemanager/upload/test.html 1 -
+/project/public/assets/javascript/ckeditor/ckeditor.js 1 -
+/customers/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/FCKEditorV2/fckeditor.js 2 http://sapienter.org
+/admin/fckeditor/fckeditor.js 2 http://sapienter.org
+/admin/editors/fckeditor/editor/filemanager/upload/test.html 1 -
+/admin/elfinder/elfinder.php.html 1 -
+/elfinder/elfinder.php.html 1 -
+/file_server/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/fckeditor.js 2 http://sapienter.org
+/public/elfinder/elfinder.html 1 -
+/includes/general.js 4 http://sapienter.org
+/ftp/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/fckeditor/editor/filemanager/upload/test.html 1 -
+/finder/elfinder.php.html 1 -
+/themes/admin/js/plugins/elfinder/elfinder.html 1 -
+/cgi-bin/test-cgi.pl 1 -
+/robots.txt 126 -
+/admin/FCKeditor/editor/filemanager/connectors/test.html 1 -
+/public/assets/javascript/ckeditor/ckeditor.js 1 -
+/vendor/mihaildev/yii2-elfinder/assets/elfinder.html 1 -
+/files/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/foro//new_member.jbb+[plm=0][r]+get+http://sapienter.org/foro//new_member.jbb+[0,10690,10288]+-%3E+[r]+post+http://sapienter.org/foro//save_new_member.jbb+[0,0,10946]+-%3E+[l]+get+http://sapienter.org/foro//login.jbb+[0,0,5843]+-%3E+[l]+get+http://sapient 1 http://sapienter.org/foro//new_member.jbb+[plm=0][r]+get+http://sapienter.org/foro//new_member.jbb+[0,10690,10288]+-%3E+[r]+post+http://sapienter.org/foro//save_new_member.jbb+[0,0,10946]+-%3E+[l]+get+http://sapienter.org/foro//login.jbb+[0,0,5843]+-%3E+[l]+get+http://sapienter.org/foro//login.jbb+[0,0,5843]+-%3E+[l]+get+http://sapienter.org/foro//login.jbb+[0,0,5843]
+/editors/fckeditor/editor/filemanager/upload/test.html 1 -
+/ax/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/chat/upload.php 1 -
+/scripts/elfinder/elfinder.php.html 1 -
+/acceso/css/estilos.css 5 http://www.sapienter.org/acceso/login.php
+/foro/new_member.jbb 1 http://sapienter.org/foro//new_member.jbb
+/FCKeditor/editor/filemanager/browser/default/connectors/test.html 1 -
+/include/fckeditor/fckeditor.js 2 http://sapienter.org
+/admin/editor/filemanager/upload/test.html 1 -
+/admin/editor/filemanager/browser/default/connectors/test.html 1 -
+/foro/login.jbb 3 http://sapienter.org/foro//login.jbb
+/en/ckfinder/elfinder.html 1 -
+/mod_principal/estilos_relevamiento.css 1 http://sapienter.org/mod_principal/menu_principal.php
+/phpmoadmin/moadmin.php 2 http://sapienter.org
+/edit/elfinder/elfinder.html 1 -
+/FCKeditor/fckeditor.js 2 http://sapienter.org
+/upload/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/FILE/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/4dm1n/assets/js/ckfinder/elfinder.html 1 -
+/templets/default/style/dedecms.css 2 http://sapienter.org
+/admin/fckeditor/editor/filemanager/connectors/test.html 1 -
+/scripts/elfinder/elfinder.html 1 -
+/assets/lib/elfinder/elfinder.html 1 -
+/forum/chat/upload.php 1 -
+/template/default/common/footer.htm 2 http://sapienter.org
+/foro//new_member.jbb 2 -
+/fileshare/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/fckeditor/editor 1 -
+/FCKeditor/editor/filemanager/upload/test.html 1 -
+/public/scripts/elfinder/elfinder.php.html 1 -
+/admin/editor/fckeditor.js 2 http://sapienter.org
+/ajax/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/moadmin/moadmin.php 2 http://sapienter.org
+/assets/lib/elfinder-2.0-rc1/elfinder.html 1 -
+/editor/fckeditor.js 2 http://sapienter.org
+/docs/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/js/tools.js 2 http://sapienter.org
+/wp-includes/css/buttons.css 2 http://sapienter.org
+/admin/FCKeditor/editor/filemanager/browser/default/connectors/test.html 1 -
+/html/lib/elfinder/elfinder.php.html 1 -
+/sites/all/libraries/elfinder/elfinder.php.html 1 -
+/admin/assets/elfinder/elfinder.html 1 -
+/fckeditor/editor/filemanager/connectors/test.html 1 -
+/office/public/assets/javascript/ckeditor/ckeditor.js 1 -
+/login.jbb 3 http://sapienter.org/login.jbb
+/feng/public/assets/javascript/ckeditor/ckeditor.js 1 -
+/Administrator/FCKeditor/fckeditor.js 2 http://sapienter.org
+/xplorer/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/js/elfinder/elfinder.php.html 1 -
+/fck/fckeditor.js 2 http://sapienter.org
+/common/fckeditor/fckeditor.js 2 http://sapienter.org
+/explorer/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/drupal/sites/all/libraries/elfinder/elfinder.php.html 1 -
+/fengoffice/public/assets/javascript/ckeditor/ckeditor.js 1 -
+/4_demo/js/lib/elfinder/elfinder.html 1 -
+/foro.html 3 -
+/share/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/ajaxplorer/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/module-assets/admin/elfinder/elfinder.html 1 -
+/filemanager/elfinder.html 1 -
+/var/ckeditor/elfinder/elfinder.html 1 -
+/sites/all/modules/elfinder/elfinder.html 1 -
+/cgi-bin/test.cgi 1 -
+/components/elfinder/elfinder.html 1 -
+/core/ckeditor/plugins/elfinder/elfinder.html 1 -
+/lib/elfinder/elfinder.php.html 1 -
+/administrator/lib/elfinder/elfinder.php.html 1 -
+/intranet/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/elfinder.php.html 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 87
+190.103.11.218 18 27 451315 20150430111039
+186.56.88.130 16 26 828230 20150423185209
+200.107.100.3 16 22 479269 20150414125004
+190.49.24.64 14 19 301431 20150425132155
+186.61.22.52 10 15 420443 20150401125246
+190.49.18.18 10 13 292261 20150430120903
+201.212.5.80 8 14 430660 20150422122435
+201.251.10.198 6 16 807048 20150429102004
+190.185.209.244 6 16 807048 20150420093412
+190.19.111.247 5 11 422384 20150402072033
+69.58.178.57 4 4 7427 20150408183343
+190.49.32.254 4 7 273896 20150414150736
+190.139.80.2 4 4 12656 20150419105453
+190.31.49.149 3 8 403524 20150427185700
+186.125.229.78 3 8 403524 20150421061554
+186.125.216.3 3 8 403524 20150427135408
+190.172.159.251 3 8 403524 20150429073612
+190.49.192.24 3 8 403524 20150426200341
+190.139.40.232 3 8 403524 20150426184607
+190.244.237.29 3 6 135312 20150429075439
+190.225.111.75 3 8 403524 20150430064001
+190.190.99.2 3 8 403524 20150426133908
+190.136.103.106 3 8 403524 20150429164946
+190.139.50.25 3 8 403524 20150426160546
+190.16.233.158 3 5 135931 20150427132730
+52.6.34.206 0 1 451072 
+85.113.55.152 1 1 1421 20150410023058
+37.134.128.65 1 4 132470 20150414104024
+144.76.30.242 1 1 1421 20150407174156
+96.227.124.38 1 1 1421 20150410124041
+220.181.108.184 1 1 1421 20150415121149
+104.155.30.198 1 1 1421 20150425033625
+77.81.104.168 1 2 4288 20150418170742
+123.125.68.32 0 1 72814 
+220.181.108.146 1 1 1421 20150428170356
+85.113.58.36 1 1 1421 20150408111921
+66.249.83.239 0 2 58235 
+5.9.9.4 1 2 4288 20150406081556
+220.181.108.167 1 1 1421 20150411080207
+186.158.222.168 1 4 132470 20150426095404
+123.125.71.100 1 1 1421 20150411075541
+66.249.83.245 1 1 1421 20150427125817
+173.49.24.119 1 1 1421 20150424010415
+123.125.71.80 1 1 1421 20150420195737
+181.117.6.158 1 4 132470 20150420093336
+180.76.4.23 1 1 1421 20150413095027
+195.154.241.109 1 1 1421 20150430080631
+123.125.71.78 1 1 1421 20150415120349
+66.249.83.251 1 2 74235 20150429083856
+181.95.23.70 2 5 273921 20150411113609
+50.7.205.138 1 1 1421 20150412015203
+91.121.100.66 1 1 1421 20150403133350
+186.0.168.198 1 4 132470 20150426160557
+104.155.44.36 1 1 1421 20150429231342
+190.231.247.252 1 1 3164 20150429085307
+190.183.4.208 1 4 132470 20150428052822
+150.70.173.48 1 1 1421 20150412203434
+87.98.171.200 2 2 2842 20150405173048
+216.163.188.240 1 1 1421 20150402072942
+38.100.21.118 2 2 2842 20150421164531
+176.9.113.45 1 1 1421 20150424100116
+180.76.4.48 1 1 1421 20150413134243
+123.125.71.87 1 1 1421 20150412205913
+121.41.111.107 1 1 3639 20150418070537
+190.49.53.73 1 1 1421 20150402121223
+23.95.43.107 1 1 1421 20150415024846
+52.0.77.143 0 1 451072 
+38.105.109.12 2 2 2842 20150401015032
+190.31.108.244 1 4 132470 20150429083523
+186.109.233.51 1 4 132470 20150426113840
+186.60.220.15 1 4 132470 20150426183513
+213.47.217.101 1 1 1421 20150421023944
+190.152.131.61 2 5 133891 20150409094757
+54.235.62.203 1 1 1421 20150403041518
+38.100.21.113 2 2 2842 20150403091508
+186.158.140.74 2 8 133891 20150426100158
+220.181.108.79 1 1 1421 20150416070627
+190.19.234.180 1 4 132470 20150428104336
+190.244.161.170 1 3 129603 20150429084035
+64.79.100.30 2 2 2842 20150417054708
+23.99.137.116 1 1 1421 20150428150010
+123.125.71.16 1 1 1421 20150416065907
+220.181.108.176 1 1 1421 20150412210343
+181.110.41.202 3 8 403524 20150426100442
+38.100.25.115 2 2 2842 20150407110111
+64.76.21.22 1 4 132470 20150426124828
+220.181.108.113 1 1 1421 20150420200148
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20150401 12 17 423285 2
+20150402 7 13 425226 3
+20150403 5 5 8848 4
+20150404 1 1 1421 1
+20150405 2 2 4585 2
+20150406 1 2 4288 1
+20150407 3 3 4263 2
+20150408 5 5 8848 2
+20150409 2 5 133891 1
+20150410 2 3 75656 2
+20150411 4 7 276763 3
+20150412 4 4 5684 4
+20150413 5 8 275317 3
+20150414 18 27 613160 3
+20150415 3 3 4263 3
+20150416 2 2 2842 2
+20150417 2 2 2842 1
+20150418 2 3 7927 2
+20150419 7 12 416180 4
+20150420 6 14 538836 4
+20150421 6 13 1309931 3
+20150422 8 14 430660 1
+20150423 16 26 828230 1
+20150424 2 2 2842 2
+20150425 15 20 302852 3
+20150426 25 76 3217385 12
+20150427 8 23 1069121 4
+20150428 4 10 267782 4
+20150429 20 46 1889305 10
+20150430 29 43 873179 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+5mn-15mn 1
+0s-30s 77
+30s-2mn 10
+15mn-30mn 2
+2mn-5mn 3
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 8
+/ 106 150626 84 58
+/ingreso_certamen.php 91 287924 8 27
+/index.php 19 26999 1 6
+/acceso/login.php 4 14764 0 1
+/mod_principal/menu_principal.php 3 19302 0 1
+/cgi-sys/suspendedpage.cgi 1 3639 1 1
+/mod_principal/descargar_mis_desiciones.php 1 0 0 0
+/mod_principal/descargar_resultados.php 1 20869 0 0
+END_SIDER

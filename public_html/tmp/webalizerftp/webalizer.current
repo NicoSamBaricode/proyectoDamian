@@ -1,0 +1,1154 @@
+# Webalizer V2.23-05 Incremental Data - 10/26/2020 17:12:04
+2020 10 26 17 12 4
+1838 1838 5 510 0 0 30732822 0 0 1
+1 2 128 3 26
+0 0 0 0 0 0
+0 0 0 0 0 0
+279 279 4440189 2 0 0
+38 38 682234 1 0 0
+9 9 159397 1 0 0
+4 4 71231 1 0 0
+17 17 303770 1 0 0
+73 73 1304292 1 0 0
+57 57 1021591 1 0 0
+248 248 3882250 2 0 0
+15 15 271624 1 0 0
+34 34 605609 1 0 0
+7 7 123793 1 0 0
+25 25 446183 1 0 0
+58 58 1038387 1 0 0
+56 56 1008106 1 0 0
+314 314 5081928 2 0 0
+11 11 196802 1 0 0
+31 31 565310 1 0 0
+3 3 52573 1 0 0
+23 23 408862 1 0 0
+31 31 549645 1 0 0
+100 100 1791614 1 0 0
+269 269 4272657 2 0 0
+107 107 1936256 1 0 0
+29 29 518519 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+20 20 361302 0
+370 370 4401758 0
+213 213 3900631 0
+126 126 2236305 0
+166 166 2964458 0
+114 114 2033332 0
+163 163 2937967 0
+83 83 1480251 0
+73 73 1298465 0
+91 91 1623818 0
+75 75 1337491 0
+80 80 1434033 0
+70 70 1250807 0
+45 45 800869 0
+29 29 519385 0
+47 47 845197 0
+34 34 611130 0
+21 21 378372 0
+5 5 88221 0
+5 5 88192 0
+8 8 140838 0
+0 0 0 0
+0
+0
+0
+1838
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/home/simubari17/datos_sapienter/resultados/ECOCO_E5.doc
+0 1 0 18680 0 0
+/home/simubari17/datos_sapienter/resultados/ALAS_B4_E3.doc
+0 3 0 55995 0 0
+/home/simubari17/datos_sapienter/resultados/FUSION_E3.doc
+0 13 0 242580 0 0
+/home/simubari17/datos_sapienter/5/0025.xlsx
+0 1 0 6429 0 0
+/home/simubari17/datos_sapienter/resultados/KINE_E2.doc
+0 7 0 130907 0 0
+/home/simubari17/datos_sapienter/5/0005.xlsx
+0 1 0 6428 0 0
+/home/simubari17/datos_sapienter/2/0061.xlsx
+0 1 0 6423 0 0
+/home/simubari17/datos_sapienter/resultados/ISMA4117_E2.doc
+0 3 0 56040 0 0
+/home/simubari17/datos_sapienter/resultados/ISMA4113_E4.doc
+0 3 0 55938 0 0
+/home/simubari17/datos_sapienter/resultados/ARTEMISA_E3.doc
+0 3 0 56184 0 0
+/home/simubari17/datos_sapienter/resultados/CHEER_E2.doc
+0 1 0 18690 0 0
+/home/simubari17/datos_sapienter/resultados/MYSTIC_E5.doc
+0 3 0 55941 0 0
+/home/simubari17/datos_sapienter/resultados/JEMS_E5.doc
+0 8 0 149400 0 0
+/home/simubari17/datos_sapienter/resultados/MYSTIC_E4.doc
+0 6 0 111858 0 0
+/home/simubari17/datos_sapienter/resultados/LICHT_E4.doc
+0 1 0 18624 0 0
+/home/simubari17/datos_sapienter/5/0042.xlsx
+0 1 0 6424 0 0
+/home/simubari17/datos_sapienter/3/0025.xlsx
+0 1 0 6428 0 0
+/home/simubari17/datos_sapienter/resultados/InformeMercado_Z7_E5.doc
+0 11 0 187847 0 0
+/home/simubari17/datos_sapienter/5/0006.xlsx
+0 1 0 6427 0 0
+/home/simubari17/datos_sapienter/2/0015.xlsx
+0 1 0 6424 0 0
+/home/simubari17/datos_sapienter/resultados/VIERNES1_E3.doc
+0 4 0 74592 0 0
+/home/simubari17/datos_sapienter/4/0052.xlsx
+0 1 0 6429 0 0
+/home/simubari17/datos_sapienter/resultados/CMSC4114_E5.doc
+0 2 0 37346 0 0
+/home/simubari17/datos_sapienter/3/0029.xlsx
+0 1 0 6425 0 0
+/home/simubari17/datos_sapienter/resultados/SULLIVAN_E2.doc
+0 14 0 262080 0 0
+/home/simubari17/datos_sapienter/resultados/ALAS_A2_E3.doc
+0 4 0 74608 0 0
+/home/simubari17/datos_sapienter/resultados/KONSTANT_E2.doc
+0 1 0 18737 0 0
+/home/simubari17/datos_sapienter/resultados/CALABRIA_E5.doc
+0 3 0 56007 0 0
+/home/simubari17/datos_sapienter/resultados/KONSTANT_E3.doc
+0 1 0 18709 0 0
+/home/simubari17/datos_sapienter/2/0042.xlsx
+0 1 0 6423 0 0
+/home/simubari17/datos_sapienter/resultados/SAFA0220_E4.doc
+0 8 0 149112 0 0
+/home/simubari17/datos_sapienter/resultados/ALAS_B1_E3.doc
+0 3 0 56052 0 0
+/home/simubari17/datos_sapienter/resultados/OSOOOO_E2.doc
+0 1 0 18696 0 0
+/home/simubari17/datos_sapienter/resultados/PLATINUM_E4.doc
+0 5 0 93110 0 0
+/home/simubari17/datos_sapienter/4/0026.xlsx
+0 1 0 6431 0 0
+/home/simubari17/datos_sapienter/resultados/ISMA4115_E4.doc
+0 2 0 37342 0 0
+/home/simubari17/datos_sapienter/resultados/PORCLEAN_E2.doc
+0 6 0 112380 0 0
+/home/simubari17/datos_sapienter/resultados/AESTIMAR_E5.doc
+0 1 0 18691 0 0
+/home/simubari17/datos_sapienter/resultados/FONDITO_E3.doc
+0 8 0 149568 0 0
+/home/simubari17/datos_sapienter/4/0030.xlsx
+0 1 0 6424 0 0
+/home/simubari17/datos_sapienter/5/0002.xlsx
+0 1 0 6422 0 0
+/home/simubari17/datos_sapienter/resultados/ALAS_B2_E4.doc
+0 4 0 74684 0 0
+/home/simubari17/datos_sapienter/resultados/TEAM_MSL_E2.doc
+0 1 0 18690 0 0
+/home/simubari17/datos_sapienter/resultados/PORCLEAN_E3.doc
+0 7 0 130823 0 0
+/home/simubari17/datos_sapienter/5/0053.xlsx
+0 1 0 6426 0 0
+/home/simubari17/datos_sapienter/resultados/ISMA4111_E3.doc
+0 2 0 37340 0 0
+/home/simubari17/datos_sapienter/5/0016.xlsx
+0 1 0 6425 0 0
+/home/simubari17/datos_sapienter/resultados/InformeMercado_Z6_E3.doc
+0 17 0 288235 0 0
+/home/simubari17/datos_sapienter/resultados/ASM2020_E2.doc
+0 4 0 74784 0 0
+/home/simubari17/datos_sapienter/2/0018.xlsx
+0 1 0 6422 0 0
+/home/simubari17/datos_sapienter/resultados/ISMA4112_E2.doc
+0 3 0 56106 0 0
+/home/simubari17/datos_sapienter/resultados/FRIENDS2_E4.doc
+0 9 0 167859 0 0
+/home/simubari17/datos_sapienter/resultados/ALAS_B1_E2.doc
+0 4 0 74884 0 0
+/home/simubari17/datos_sapienter/3/0022.xlsx
+0 1 0 6427 0 0
+/home/simubari17/datos_sapienter/resultados/ALAS_A2_E2.doc
+0 4 0 74732 0 0
+/home/simubari17/datos_sapienter/resultados/ALAS_B1_E4.doc
+0 5 0 93410 0 0
+/home/simubari17/datos_sapienter/resultados/PIKA_E3.doc
+0 1 0 18701 0 0
+/home/simubari17/datos_sapienter/resultados/ALAS_A1_E5.doc
+0 3 0 56100 0 0
+/home/simubari17/datos_sapienter/resultados/ALAS_A4_E2.doc
+0 3 0 56055 0 0
+/home/simubari17/datos_sapienter/resultados/ARTEMISA_E5.doc
+0 2 0 37282 0 0
+/home/simubari17/datos_sapienter/resultados/CONTUTTO_E2.doc
+0 1 0 18756 0 0
+/home/simubari17/datos_sapienter/resultados/9Z_E3.doc
+0 5 0 93240 0 0
+/home/simubari17/datos_sapienter/resultados/MARRAM_E2.doc
+0 1 0 18701 0 0
+/home/simubari17/datos_sapienter/resultados/TICTAC_E3.doc
+0 1 0 18693 0 0
+/home/simubari17/datos_sapienter/5/0009.xlsx
+0 1 0 6426 0 0
+/home/simubari17/datos_sapienter/2/0065.xlsx
+0 1 0 6423 0 0
+/home/simubari17/datos_sapienter/resultados/ALAS_B3_E4.doc
+0 3 0 55977 0 0
+/home/simubari17/datos_sapienter/resultados/CONTUTTO_E4.doc
+0 1 0 18653 0 0
+/home/simubari17/datos_sapienter/resultados/CAPOITÉ_E5.doc
+0 5 0 93425 0 0
+/home/simubari17/datos_sapienter/2/0021.xlsx
+0 1 0 6428 0 0
+/home/simubari17/datos_sapienter/4/0005.xlsx
+0 1 0 6429 0 0
+/home/simubari17/datos_sapienter/resultados/ISMA4111_E2.doc
+0 5 0 93415 0 0
+/home/simubari17/datos_sapienter/resultados/InformeMercado_Z3_E3.doc
+0 46 0 779838 0 0
+/home/simubari17/datos_sapienter/resultados/InformeMercado_Z3_E4.doc
+0 43 0 729194 0 0
+/home/simubari17/datos_sapienter/2/0051.xlsx
+0 1 0 6428 0 0
+/home/simubari17/datos_sapienter/resultados/PLATINUM_E5.doc
+0 5 0 93215 0 0
+/home/simubari17/datos_sapienter/resultados/AONIKEN_E5.doc
+0 1 0 18668 0 0
+/home/simubari17/datos_sapienter/resultados/OSOOOO_E5.doc
+0 1 0 18682 0 0
+/home/simubari17/datos_sapienter/resultados/ECO_INC_E3.doc
+0 2 0 37282 0 0
+/home/simubari17/datos_sapienter/resultados/TEAM_MSL_E5.doc
+0 1 0 18643 0 0
+/home/simubari17/datos_sapienter/resultados/AESTIMAR_E4.doc
+0 1 0 18674 0 0
+/home/simubari17/datos_sapienter/4/0024.xlsx
+0 1 0 6432 0 0
+/home/simubari17/datos_sapienter/resultados/INVENCIB_E4.doc
+0 1 0 18668 0 0
+/home/simubari17/datos_sapienter/4/0029.xlsx
+0 1 0 6425 0 0
+/home/simubari17/datos_sapienter/resultados/ISMA4114_E2.doc
+0 2 0 37404 0 0
+/home/simubari17/datos_sapienter/4/0007.xlsx
+0 1 0 6423 0 0
+/home/simubari17/datos_sapienter/resultados/ISMA4115_E2.doc
+0 2 0 37388 0 0
+/home/simubari17/datos_sapienter/resultados/ALAS_A3_E4.doc
+0 6 0 111966 0 0
+/home/simubari17/datos_sapienter/4/0054.xlsx
+0 1 0 6424 0 0
+/home/simubari17/datos_sapienter/resultados/InformeMercado_Z1_E3.doc
+0 30 0 508560 0 0
+/home/simubari17/datos_sapienter/resultados/ECOFUTUR_E5.doc
+0 5 0 93460 0 0
+/home/simubari17/datos_sapienter/resultados/PMGG411_E4.doc
+0 7 0 130431 0 0
+/home/simubari17/datos_sapienter/resultados/ISMA4113_E2.doc
+0 5 0 93435 0 0
+/home/simubari17/datos_sapienter/resultados/ALAS_B4_E2.doc
+0 5 0 93540 0 0
+/home/simubari17/datos_sapienter/5/0023.xlsx
+0 1 0 6424 0 0
+/home/simubari17/datos_sapienter/resultados/ALAS_A3_E3.doc
+0 3 0 55974 0 0
+/home/simubari17/datos_sapienter/2/0019.xlsx
+0 1 0 6423 0 0
+/home/simubari17/datos_sapienter/resultados/AESTIMAR_E2.doc
+0 1 0 18731 0 0
+/home/simubari17/datos_sapienter/resultados/InformeMercado_Z4_E4.doc
+0 14 0 237510 0 0
+/home/simubari17/datos_sapienter/resultados/JEMS_E3.doc
+0 6 0 112272 0 0
+/home/simubari17/datos_sapienter/resultados/ALAS_B3_E2.doc
+0 3 0 56037 0 0
+/home/simubari17/datos_sapienter/2/0031.xlsx
+0 1 0 6424 0 0
+/home/simubari17/datos_sapienter/4/0009.xlsx
+0 1 0 6420 0 0
+/home/simubari17/datos_sapienter/4/0051.xlsx
+0 1 0 6429 0 0
+/home/simubari17/datos_sapienter/resultados/ECOCO_E3.doc
+0 1 0 18689 0 0
+/home/simubari17/datos_sapienter/resultados/FRIENDS2_E2.doc
+0 14 0 261436 0 0
+/home/simubari17/datos_sapienter/resultados/InformeMercado_Z7_E2.doc
+0 18 0 305298 0 0
+/home/simubari17/datos_sapienter/resultados/ALAS_A1_E4.doc
+0 4 0 74560 0 0
+/home/simubari17/datos_sapienter/resultados/AONIKEN_E2.doc
+0 1 0 18763 0 0
+/home/simubari17/datos_sapienter/2/0005.xlsx
+0 1 0 6429 0 0
+/home/simubari17/datos_sapienter/resultados/ECO_INC_E5.doc
+0 3 0 55887 0 0
+/home/simubari17/datos_sapienter/3/0042.xlsx
+0 1 0 6422 0 0
+/home/simubari17/datos_sapienter/resultados/TRIDENTE_E5.doc
+0 3 0 56031 0 0
+/home/simubari17/datos_sapienter/resultados/ISMA4114_E3.doc
+0 2 0 37366 0 0
+/home/simubari17/datos_sapienter/4/0037.xlsx
+0 1 0 6424 0 0
+/home/simubari17/datos_sapienter/resultados/CHATS_E4.doc
+0 1 0 18659 0 0
+/home/simubari17/datos_sapienter/resultados/CMSC4112_E5.doc
+0 2 0 37298 0 0
+/home/simubari17/datos_sapienter/resultados/TICTAC_E5.doc
+0 1 0 18659 0 0
+/home/simubari17/datos_sapienter/2/0022.xlsx
+0 1 0 6430 0 0
+/home/simubari17/datos_sapienter/resultados/ALAS_A2_E5.doc
+0 4 0 74708 0 0
+/home/simubari17/datos_sapienter/resultados/KOTRENIX_E5.doc
+0 2 0 37286 0 0
+/home/simubari17/datos_sapienter/resultados/FONDITO_E5.doc
+0 3 0 56142 0 0
+/home/simubari17/datos_sapienter/resultados/OSOOOO_E3.doc
+0 1 0 18685 0 0
+/home/simubari17/datos_sapienter/resultados/SUCCESS_E4.doc
+0 3 0 56028 0 0
+/home/simubari17/datos_sapienter/resultados/TRIDENTE_E4.doc
+0 8 0 149048 0 0
+/home/simubari17/datos_sapienter/resultados/FUSION_E2.doc
+0 7 0 130872 0 0
+/home/simubari17/datos_sapienter/3/0024.xlsx
+0 1 0 6429 0 0
+/home/simubari17/datos_sapienter/3/0001.xlsx
+0 1 0 6422 0 0
+/home/simubari17/datos_sapienter/5/0061.xlsx
+0 1 0 6426 0 0
+/home/simubari17/datos_sapienter/resultados/CMSC4111_E4.doc
+0 4 0 74724 0 0
+/home/simubari17/datos_sapienter/5/0024.xlsx
+0 1 0 6427 0 0
+/home/simubari17/datos_sapienter/5/0031.xlsx
+0 1 0 6421 0 0
+/home/simubari17/datos_sapienter/5/0037.xlsx
+0 1 0 6427 0 0
+/home/simubari17/datos_sapienter/resultados/ALAS_A2_E4.doc
+0 4 0 74508 0 0
+/home/simubari17/datos_sapienter/resultados/ISMA4111_E5.doc
+0 3 0 55935 0 0
+/home/simubari17/datos_sapienter/5/0052.xlsx
+0 1 0 6427 0 0
+/home/simubari17/datos_sapienter/3/0020.xlsx
+0 1 0 6434 0 0
+/home/simubari17/datos_sapienter/resultados/SINERGIA_E4.doc
+0 1 0 18654 0 0
+/home/simubari17/datos_sapienter/2/0007.xlsx
+0 1 0 6422 0 0
+/home/simubari17/datos_sapienter/5/0051.xlsx
+0 1 0 6429 0 0
+/home/simubari17/datos_sapienter/4/0016.xlsx
+0 1 0 6423 0 0
+/home/simubari17/datos_sapienter/resultados/VIERNES1_E4.doc
+0 10 0 186410 0 0
+/home/simubari17/datos_sapienter/2/0025.xlsx
+0 1 0 6425 0 0
+/home/simubari17/datos_sapienter/2/0043.xlsx
+0 1 0 6423 0 0
+/home/simubari17/datos_sapienter/2/0013.xlsx
+0 1 0 6425 0 0
+/home/simubari17/datos_sapienter/resultados/40TENA_E5.doc
+0 3 0 55866 0 0
+/home/simubari17/datos_sapienter/5/0044.xlsx
+0 1 0 6428 0 0
+/home/simubari17/datos_sapienter/resultados/TEAM_MSL_E3.doc
+0 1 0 18710 0 0
+/home/simubari17/datos_sapienter/5/0064.xlsx
+0 1 0 6430 0 0
+/home/simubari17/datos_sapienter/4/0011.xlsx
+0 1 0 6428 0 0
+/home/simubari17/datos_sapienter/resultados/VIERNES1_E2.doc
+0 9 0 167805 0 0
+/home/simubari17/datos_sapienter/2/0008.xlsx
+0 1 0 6428 0 0
+/home/simubari17/datos_sapienter/5/0029.xlsx
+0 1 0 6424 0 0
+/home/simubari17/datos_sapienter/resultados/CMSC4115_E2.doc
+0 2 0 37404 0 0
+/home/simubari17/datos_sapienter/3/0030.xlsx
+0 1 0 6423 0 0
+/home/simubari17/datos_sapienter/resultados/ISMA4112_E3.doc
+0 4 0 74816 0 0
+/home/simubari17/datos_sapienter/2/0004.xlsx
+0 1 0 6428 0 0
+/home/simubari17/datos_sapienter/5/0007.xlsx
+0 1 0 6422 0 0
+/home/simubari17/datos_sapienter/resultados/ASM2020_E3.doc
+0 3 0 56121 0 0
+/home/simubari17/datos_sapienter/4/0008.xlsx
+0 1 0 6430 0 0
+/home/simubari17/datos_sapienter/2/0006.xlsx
+0 1 0 6427 0 0
+/home/simubari17/datos_sapienter/resultados/RACWINNE_E4.doc
+0 3 0 55944 0 0
+/home/simubari17/datos_sapienter/resultados/CHATS_E3.doc
+0 1 0 18678 0 0
+/home/simubari17/datos_sapienter/resultados/InformeMercado_Z3_E5.doc
+0 29 0 493290 0 0
+/home/simubari17/datos_sapienter/resultados/SAFA0320_E4.doc
+0 6 0 111960 0 0
+/home/simubari17/datos_sapienter/resultados/GRU_E2.doc
+0 7 0 130599 0 0
+/home/simubari17/datos_sapienter/resultados/ALAS_A1_E3.doc
+0 4 0 74656 0 0
+/home/simubari17/datos_sapienter/4/0001.xlsx
+0 1 0 6419 0 0
+/home/simubari17/datos_sapienter/resultados/RACWINNE_E2.doc
+0 5 0 93490 0 0
+/home/simubari17/datos_sapienter/5/0032.xlsx
+0 1 0 6427 0 0
+/home/simubari17/datos_sapienter/2/0003.xlsx
+0 1 0 6429 0 0
+/home/simubari17/datos_sapienter/resultados/PIKA_E4.doc
+0 1 0 18651 0 0
+/home/simubari17/datos_sapienter/3/0041.xlsx
+0 1 0 6426 0 0
+/home/simubari17/datos_sapienter/resultados/CAPOITÉ_E3.doc
+0 8 0 149520 0 0
+/home/simubari17/datos_sapienter/resultados/ISMA4114_E4.doc
+0 3 0 56004 0 0
+/home/simubari17/datos_sapienter/resultados/ECOICR20_E5.doc
+0 7 0 130760 0 0
+/home/simubari17/datos_sapienter/2/0009.xlsx
+0 1 0 6422 0 0
+/home/simubari17/datos_sapienter/2/0049.xlsx
+0 1 0 6429 0 0
+/home/simubari17/datos_sapienter/4/0065.xlsx
+0 1 0 6425 0 0
+/home/simubari17/datos_sapienter/resultados/ISMA5111_E2.doc
+0 1 0 18740 0 0
+/home/simubari17/datos_sapienter/5/0055.xlsx
+0 1 0 6424 0 0
+/home/simubari17/datos_sapienter/resultados/CMSC4115_E5.doc
+0 2 0 37308 0 0
+/home/simubari17/datos_sapienter/3/0037.xlsx
+0 1 0 6424 0 0
+/home/simubari17/datos_sapienter/resultados/QUILI_E2.doc
+0 1 0 18707 0 0
+/home/simubari17/datos_sapienter/3/0054.xlsx
+0 1 0 6423 0 0
+/home/simubari17/datos_sapienter/resultados/KOTRENIX_E4.doc
+0 5 0 93275 0 0
+/home/simubari17/datos_sapienter/resultados/PORCLEAN_E5.doc
+0 4 0 74708 0 0
+/home/simubari17/datos_sapienter/4/0017.xlsx
+0 1 0 6427 0 0
+/home/simubari17/datos_sapienter/3/0021.xlsx
+0 1 0 6427 0 0
+/home/simubari17/datos_sapienter/resultados/FUSION_E5.doc
+0 4 0 74560 0 0
+/home/simubari17/datos_sapienter/2/0063.xlsx
+0 1 0 6427 0 0
+/home/simubari17/datos_sapienter/resultados/ISMA4113_E3.doc
+0 3 0 56058 0 0
+/home/simubari17/datos_sapienter/3/0032.xlsx
+0 1 0 6428 0 0
+/home/simubari17/datos_sapienter/resultados/ÁGIL_E4.doc
+0 1 0 18644 0 0
+/home/simubari17/datos_sapienter/resultados/KINE_E3.doc
+0 8 0 149568 0 0
+/home/simubari17/datos_sapienter/5/0045.xlsx
+0 1 0 6427 0 0
+/home/simubari17/datos_sapienter/resultados/MYSTIC_E3.doc
+0 7 0 130627 0 0
+/home/simubari17/datos_sapienter/resultados/ECOFUTUR_E3.doc
+0 8 0 149048 0 0
+/home/simubari17/datos_sapienter/resultados/9Z_E4.doc
+0 7 0 130445 0 0
+/home/simubari17/datos_sapienter/4/0019.xlsx
+0 1 0 6426 0 0
+/home/simubari17/datos_sapienter/resultados/INVENCIB_E2.doc
+0 1 0 18687 0 0
+/home/simubari17/datos_sapienter/resultados/TRIDENTE_E3.doc
+0 7 0 130634 0 0
+/home/simubari17/datos_sapienter/4/0002.xlsx
+0 1 0 6421 0 0
+/home/simubari17/datos_sapienter/resultados/SAFA0220_E3.doc
+0 4 0 74556 0 0
+/home/simubari17/datos_sapienter/3/0018.xlsx
+0 1 0 6420 0 0
+/home/simubari17/datos_sapienter/resultados/TICTAC_E4.doc
+0 1 0 18653 0 0
+/home/simubari17/datos_sapienter/resultados/CMSC4114_E3.doc
+0 3 0 55950 0 0
+/home/simubari17/datos_sapienter/resultados/ECOCO_E2.doc
+0 1 0 18722 0 0
+/home/simubari17/datos_sapienter/5/0008.xlsx
+0 1 0 6429 0 0
+/home/simubari17/datos_sapienter/3/0006.xlsx
+0 1 0 6425 0 0
+/home/simubari17/datos_sapienter/4/0055.xlsx
+0 1 0 6428 0 0
+/home/simubari17/datos_sapienter/resultados/9Z_E5.doc
+0 3 0 55842 0 0
+/home/simubari17/datos_sapienter/resultados/JEMS_E2.doc
+0 5 0 93505 0 0
+/home/simubari17/datos_sapienter/resultados/ISMA4111_E4.doc
+0 3 0 55902 0 0
+/home/simubari17/datos_sapienter/4/0012.xlsx
+0 1 0 6426 0 0
+/home/simubari17/datos_sapienter/5/0065.xlsx
+0 1 0 6424 0 0
+/home/simubari17/datos_sapienter/resultados/QUILI_E3.doc
+0 1 0 18675 0 0
+/home/simubari17/datos_sapienter/3/0002.xlsx
+0 1 0 6421 0 0
+/home/simubari17/datos_sapienter/resultados/CMSC4112_E2.doc
+0 2 0 37360 0 0
+/home/simubari17/datos_sapienter/5/0050.xlsx
+0 1 0 6428 0 0
+/home/simubari17/datos_sapienter/resultados/PMGG411_E5.doc
+0 4 0 74576 0 0
+/home/simubari17/datos_sapienter/resultados/ISMA4112_E5.doc
+0 2 0 37328 0 0
+/home/simubari17/datos_sapienter/resultados/ALAS_A4_E5.doc
+0 2 0 37292 0 0
+/home/simubari17/datos_sapienter/3/0010.xlsx
+0 1 0 6430 0 0
+/home/simubari17/datos_sapienter/resultados/SAFA0320_E2.doc
+0 6 0 112344 0 0
+/home/simubari17/datos_sapienter/3/0044.xlsx
+0 1 0 6424 0 0
+/home/simubari17/datos_sapienter/5/0043.xlsx
+0 1 0 6424 0 0
+/home/simubari17/datos_sapienter/resultados/ISMA4117_E3.doc
+0 2 0 37386 0 0
+/home/simubari17/datos_sapienter/2/0024.xlsx
+0 1 0 6428 0 0
+/home/simubari17/datos_sapienter/5/0041.xlsx
+0 1 0 6426 0 0
+/home/simubari17/datos_sapienter/3/0007.xlsx
+0 1 0 6421 0 0
+/home/simubari17/datos_sapienter/5/0020.xlsx
+0 1 0 6430 0 0
+/home/simubari17/datos_sapienter/resultados/CMSC4113_E3.doc
+0 4 0 74844 0 0
+/home/simubari17/datos_sapienter/resultados/CAPOITÉ_E4.doc
+0 7 0 130606 0 0
+/home/simubari17/datos_sapienter/resultados/SAFA0120_E4.doc
+0 6 0 111846 0 0
+/home/simubari17/datos_sapienter/3/0028.xlsx
+0 1 0 6426 0 0
+/home/simubari17/datos_sapienter/3/0045.xlsx
+0 1 0 6429 0 0
+/home/simubari17/datos_sapienter/4/0053.xlsx
+0 1 0 6424 0 0
+/home/simubari17/datos_sapienter/3/0003.xlsx
+0 1 0 6427 0 0
+/home/simubari17/datos_sapienter/resultados/RACWINNE_E5.doc
+0 2 0 37306 0 0
+/home/simubari17/datos_sapienter/4/0063.xlsx
+0 1 0 6424 0 0
+/home/simubari17/datos_sapienter/resultados/InformeMercado_Z5_E4.doc
+0 17 0 288388 0 0
+/home/simubari17/datos_sapienter/resultados/MERAKI_E4.doc
+0 5 0 93210 0 0
+/home/simubari17/datos_sapienter/5/0017.xlsx
+0 1 0 6424 0 0
+/home/simubari17/datos_sapienter/4/0003.xlsx
+0 1 0 6428 0 0
+/home/simubari17/datos_sapienter/resultados/MERAKI_E3.doc
+0 6 0 112140 0 0
+/home/simubari17/datos_sapienter/resultados/InformeMercado_Z2_E5.doc
+0 22 0 374990 0 0
+/home/simubari17/datos_sapienter/resultados/FUSION_E4.doc
+0 7 0 130606 0 0
+/home/simubari17/datos_sapienter/resultados/ISMA4113_E5.doc
+0 2 0 37302 0 0
+/home/simubari17/datos_sapienter/resultados/WXYZ_E2.doc
+0 1 0 18699 0 0
+/home/simubari17/datos_sapienter/3/0052.xlsx
+0 1 0 6426 0 0
+/home/simubari17/datos_sapienter/4/0062.xlsx
+0 1 0 6431 0 0
+/home/simubari17/datos_sapienter/resultados/ECOFUTUR_E4.doc
+0 9 0 167751 0 0
+/home/simubari17/datos_sapienter/resultados/InformeMercado_Z7_E3.doc
+0 20 0 339300 0 0
+/home/simubari17/datos_sapienter/resultados/ÁGIL_E5.doc
+0 1 0 18656 0 0
+/home/simubari17/datos_sapienter/resultados/MARRAM_E3.doc
+0 1 0 18672 0 0
+/home/simubari17/datos_sapienter/resultados/ECO_BJL_E5.doc
+0 2 0 37400 0 0
+/home/simubari17/datos_sapienter/resultados/ECO_BJL_E4.doc
+0 2 0 37330 0 0
+/home/simubari17/datos_sapienter/3/0014.xlsx
+0 1 0 6418 0 0
+/home/simubari17/datos_sapienter/5/0015.xlsx
+0 1 0 6424 0 0
+/home/simubari17/datos_sapienter/resultados/SAFA0220_E2.doc
+0 7 0 130886 0 0
+/home/simubari17/datos_sapienter/resultados/FONDITO_E2.doc
+0 9 0 168183 0 0
+/home/simubari17/datos_sapienter/resultados/ASM2020_E5.doc
+0 2 0 37332 0 0
+/home/simubari17/datos_sapienter/5/0054.xlsx
+0 1 0 6424 0 0
+/home/simubari17/datos_sapienter/resultados/WXYZ_E3.doc
+0 1 0 18668 0 0
+/home/simubari17/datos_sapienter/resultados/ECOICR20_E4.doc
+0 6 0 111840 0 0
+/home/simubari17/datos_sapienter/resultados/ISMA4116_E2.doc
+0 2 0 37416 0 0
+/home/simubari17/datos_sapienter/4/0044.xlsx
+0 1 0 6426 0 0
+/home/simubari17/datos_sapienter/resultados/ISMA4116_E4.doc
+0 3 0 56037 0 0
+/home/simubari17/datos_sapienter/resultados/ALAS_B5_E3.doc
+0 4 0 74704 0 0
+/home/simubari17/datos_sapienter/resultados/WXYZ_E5.doc
+0 1 0 18660 0 0
+/home/simubari17/datos_sapienter/resultados/KINE_E5.doc
+0 3 0 56067 0 0
+/home/simubari17/datos_sapienter/resultados/CHEER_E4.doc
+0 1 0 18657 0 0
+/home/simubari17/datos_sapienter/5/0011.xlsx
+0 1 0 6424 0 0
+/home/simubari17/datos_sapienter/3/0063.xlsx
+0 1 0 6424 0 0
+/home/simubari17/datos_sapienter/4/0041.xlsx
+0 1 0 6427 0 0
+/home/simubari17/datos_sapienter/resultados/InformeMercado_Z7_E4.doc
+0 21 0 356811 0 0
+/home/simubari17/datos_sapienter/resultados/ECOICR20_E2.doc
+0 6 0 112086 0 0
+/home/simubari17/datos_sapienter/resultados/9Z_E2.doc
+0 4 0 74720 0 0
+/home/simubari17/datos_sapienter/resultados/FRIENDS2_E3.doc
+0 5 0 93270 0 0
+/home/simubari17/datos_sapienter/resultados/InformeMercado_Z6_E4.doc
+0 17 0 288660 0 0
+/home/simubari17/datos_sapienter/resultados/ALAS_B4_E4.doc
+0 4 0 74596 0 0
+/home/simubari17/datos_sapienter/resultados/SUCCESS_E5.doc
+0 2 0 37330 0 0
+/home/simubari17/datos_sapienter/resultados/InformeMercado_Z1_E5.doc
+0 16 0 272464 0 0
+/home/simubari17/datos_sapienter/3/0011.xlsx
+0 1 0 6423 0 0
+/home/simubari17/datos_sapienter/3/0033.xlsx
+0 1 0 6420 0 0
+/home/simubari17/datos_sapienter/3/0053.xlsx
+0 1 0 6420 0 0
+/home/simubari17/datos_sapienter/resultados/ISMA5111_E3.doc
+0 1 0 18708 0 0
+/home/simubari17/datos_sapienter/resultados/CMSC4111_E2.doc
+0 2 0 37464 0 0
+/home/simubari17/datos_sapienter/2/0052.xlsx
+0 1 0 6431 0 0
+/home/simubari17/datos_sapienter/resultados/ALAS_B1_E5.doc
+0 3 0 56154 0 0
+/home/simubari17/datos_sapienter/resultados/LICHT_E2.doc
+0 1 0 18693 0 0
+/home/simubari17/datos_sapienter/2/0012.xlsx
+0 1 0 6425 0 0
+/home/simubari17/datos_sapienter/2/0041.xlsx
+0 1 0 6428 0 0
+/home/simubari17/datos_sapienter/2/0002.xlsx
+0 1 0 6422 0 0
+/home/simubari17/datos_sapienter/resultados/CHEER_E3.doc
+0 1 0 18681 0 0
+/home/simubari17/datos_sapienter/resultados/SUCCESS_E2.doc
+0 3 0 55986 0 0
+/home/simubari17/datos_sapienter/2/0014.xlsx
+0 1 0 6428 0 0
+/home/simubari17/datos_sapienter/resultados/QUILI_E5.doc
+0 1 0 18678 0 0
+/home/simubari17/datos_sapienter/resultados/InformeMercado_Z2_E4.doc
+0 37 0 629370 0 0
+/home/simubari17/datos_sapienter/resultados/ISMA5111_E5.doc
+0 1 0 18626 0 0
+/home/simubari17/datos_sapienter/resultados/InformeMercado_Z5_E3.doc
+0 7 0 118587 0 0
+/home/simubari17/datos_sapienter/resultados/MYSTIC_E2.doc
+0 7 0 130963 0 0
+/home/simubari17/datos_sapienter/3/0023.xlsx
+0 1 0 6424 0 0
+/home/simubari17/datos_sapienter/2/0020.xlsx
+0 1 0 6434 0 0
+/home/simubari17/datos_sapienter/resultados/ECO_BJL_E2.doc
+0 3 0 56079 0 0
+/home/simubari17/datos_sapienter/3/0009.xlsx
+0 1 0 6425 0 0
+/home/simubari17/datos_sapienter/5/0013.xlsx
+0 1 0 6426 0 0
+/home/simubari17/datos_sapienter/4/0006.xlsx
+0 1 0 6431 0 0
+/home/simubari17/datos_sapienter/2/0055.xlsx
+0 1 0 6427 0 0
+/home/simubari17/datos_sapienter/resultados/VIERNES1_E5.doc
+0 6 0 111990 0 0
+/home/simubari17/datos_sapienter/4/0015.xlsx
+0 1 0 6431 0 0
+/home/simubari17/datos_sapienter/3/0051.xlsx
+0 1 0 6429 0 0
+/home/simubari17/datos_sapienter/resultados/CHATS_E5.doc
+0 1 0 18660 0 0
+/home/simubari17/datos_sapienter/5/0030.xlsx
+0 1 0 6425 0 0
+/home/simubari17/datos_sapienter/resultados/CMSC4113_E2.doc
+0 5 0 93440 0 0
+/home/simubari17/datos_sapienter/resultados/CALABRIA_E3.doc
+0 7 0 130711 0 0
+/home/simubari17/datos_sapienter/5/0012.xlsx
+0 1 0 6425 0 0
+/home/simubari17/datos_sapienter/3/0008.xlsx
+0 1 0 6429 0 0
+/home/simubari17/datos_sapienter/resultados/ISMA4115_E3.doc
+0 2 0 37404 0 0
+/home/simubari17/datos_sapienter/2/0026.xlsx
+0 1 0 6429 0 0
+/home/simubari17/datos_sapienter/resultados/PIKA_E5.doc
+0 1 0 18673 0 0
+/home/simubari17/datos_sapienter/resultados/ALAS_B2_E3.doc
+0 3 0 56049 0 0
+/home/simubari17/datos_sapienter/4/0045.xlsx
+0 1 0 6427 0 0
+/home/simubari17/datos_sapienter/resultados/ALAS_A1_E2.doc
+0 5 0 93420 0 0
+/home/simubari17/datos_sapienter/resultados/InformeMercado_Z4_E3.doc
+0 19 0 322506 0 0
+/home/simubari17/datos_sapienter/3/0062.xlsx
+0 1 0 6429 0 0
+/home/simubari17/datos_sapienter/resultados/CMSC4115_E3.doc
+0 2 0 37390 0 0
+/home/simubari17/datos_sapienter/resultados/QUILI_E4.doc
+0 1 0 18659 0 0
+/home/simubari17/datos_sapienter/4/0025.xlsx
+0 1 0 6429 0 0
+/home/simubari17/datos_sapienter/resultados/CAPOITÉ_E2.doc
+0 4 0 74844 0 0
+/home/simubari17/datos_sapienter/4/0004.xlsx
+0 1 0 6427 0 0
+/home/simubari17/datos_sapienter/resultados/AONIKEN_E4.doc
+0 1 0 18666 0 0
+/home/simubari17/datos_sapienter/resultados/KINE_E4.doc
+0 3 0 56028 0 0
+/home/simubari17/datos_sapienter/resultados/FONDITO_E4.doc
+0 4 0 74760 0 0
+/home/simubari17/datos_sapienter/resultados/ALAS_B5_E4.doc
+0 5 0 93290 0 0
+/home/simubari17/datos_sapienter/4/0064.xlsx
+0 1 0 6431 0 0
+/home/simubari17/datos_sapienter/resultados/InformeMercado_Z4_E2.doc
+0 16 0 271104 0 0
+/home/simubari17/datos_sapienter/2/0029.xlsx
+0 1 0 6422 0 0
+/home/simubari17/datos_sapienter/resultados/PMGG411_E3.doc
+0 9 0 167949 0 0
+/home/simubari17/datos_sapienter/resultados/ECO_INC_E4.doc
+0 5 0 93130 0 0
+/home/simubari17/datos_sapienter/resultados/InformeMercado_Z2_E3.doc
+0 30 0 507930 0 0
+/home/simubari17/datos_sapienter/5/0027.xlsx
+0 1 0 6424 0 0
+/home/simubari17/datos_sapienter/resultados/KOTRENIX_E2.doc
+0 6 0 112074 0 0
+/home/simubari17/datos_sapienter/5/0010.xlsx
+0 1 0 6427 0 0
+/home/simubari17/datos_sapienter/resultados/SINERGIA_E5.doc
+0 1 0 18639 0 0
+/home/simubari17/datos_sapienter/2/0037.xlsx
+0 1 0 6425 0 0
+/home/simubari17/datos_sapienter/resultados/ISMA5111_E4.doc
+0 1 0 18622 0 0
+/home/simubari17/datos_sapienter/resultados/MARRAM_E5.doc
+0 1 0 18665 0 0
+/home/simubari17/datos_sapienter/2/0032.xlsx
+0 1 0 6427 0 0
+/home/simubari17/datos_sapienter/5/0056.xlsx
+0 1 0 6427 0 0
+/home/simubari17/datos_sapienter/resultados/JEMS_E4.doc
+0 3 0 56064 0 0
+/home/simubari17/datos_sapienter/2/0044.xlsx
+0 1 0 6427 0 0
+/home/simubari17/datos_sapienter/resultados/SULLIVAN_E4.doc
+0 7 0 130557 0 0
+/home/simubari17/datos_sapienter/resultados/KOTRENIX_E3.doc
+0 6 0 111876 0 0
+/home/simubari17/datos_sapienter/5/0062.xlsx
+0 1 0 6437 0 0
+/home/simubari17/datos_sapienter/resultados/MARRAM_E4.doc
+0 1 0 18650 0 0
+/home/simubari17/datos_sapienter/2/0028.xlsx
+0 1 0 6425 0 0
+/home/simubari17/datos_sapienter/2/0062.xlsx
+0 1 0 6434 0 0
+/home/simubari17/datos_sapienter/resultados/AESTIMAR_E3.doc
+0 1 0 18704 0 0
+/home/simubari17/datos_sapienter/resultados/ISMA4116_E5.doc
+0 2 0 37384 0 0
+/home/simubari17/datos_sapienter/4/0022.xlsx
+0 1 0 6433 0 0
+/home/simubari17/datos_sapienter/resultados/SAFA0120_E3.doc
+0 5 0 93375 0 0
+/home/simubari17/datos_sapienter/resultados/ALAS_B5_E5.doc
+0 2 0 37336 0 0
+/home/simubari17/datos_sapienter/resultados/ALAS_B3_E3.doc
+0 3 0 55965 0 0
+/home/simubari17/datos_sapienter/resultados/SAFA0320_E3.doc
+0 6 0 112044 0 0
+/home/simubari17/datos_sapienter/4/0031.xlsx
+0 1 0 6422 0 0
+/home/simubari17/datos_sapienter/resultados/40TENA_E2.doc
+0 4 0 74644 0 0
+/home/simubari17/datos_sapienter/3/0004.xlsx
+0 1 0 6427 0 0
+/home/simubari17/datos_sapienter/resultados/InformeMercado_Z1_E2.doc
+0 45 0 761580 0 0
+/home/simubari17/datos_sapienter/resultados/ALAS_B5_E2.doc
+0 4 0 74820 0 0
+/home/simubari17/datos_sapienter/resultados/RACWINNE_E3.doc
+0 5 0 93525 0 0
+/home/simubari17/datos_sapienter/2/0010.xlsx
+0 1 0 6430 0 0
+/home/simubari17/datos_sapienter/3/0031.xlsx
+0 1 0 6422 0 0
+/home/simubari17/datos_sapienter/resultados/ALAS_A3_E2.doc
+0 5 0 93455 0 0
+/home/simubari17/datos_sapienter/2/0064.xlsx
+0 1 0 6428 0 0
+/home/simubari17/datos_sapienter/5/0026.xlsx
+0 1 0 6428 0 0
+/home/simubari17/datos_sapienter/4/0032.xlsx
+0 1 0 6433 0 0
+/home/simubari17/datos_sapienter/resultados/TEAM_MSL_E4.doc
+0 1 0 18657 0 0
+/home/simubari17/datos_sapienter/resultados/ÁGIL_E3.doc
+0 1 0 18684 0 0
+/home/simubari17/datos_sapienter/resultados/GRU_E5.doc
+0 2 0 37232 0 0
+/home/simubari17/datos_sapienter/3/0019.xlsx
+0 1 0 6425 0 0
+/home/simubari17/datos_sapienter/resultados/CHEER_E5.doc
+0 1 0 18653 0 0
+/home/simubari17/datos_sapienter/resultados/CMSC4113_E5.doc
+0 4 0 74724 0 0
+/home/simubari17/datos_sapienter/3/0005.xlsx
+0 1 0 6425 0 0
+/home/simubari17/datos_sapienter/resultados/ECO_INC_E2.doc
+0 5 0 93260 0 0
+/home/simubari17/datos_sapienter/3/0050.xlsx
+0 1 0 6427 0 0
+/home/simubari17/datos_sapienter/3/0065.xlsx
+0 1 0 6423 0 0
+/home/simubari17/datos_sapienter/resultados/GRU_E4.doc
+0 3 0 55899 0 0
+/home/simubari17/datos_sapienter/resultados/ALAS_A3_E5.doc
+0 2 0 37270 0 0
+/home/simubari17/datos_sapienter/2/0050.xlsx
+0 1 0 6428 0 0
+/home/simubari17/datos_sapienter/3/0026.xlsx
+0 1 0 6428 0 0
+/home/simubari17/datos_sapienter/resultados/SUCCESS_E3.doc
+0 3 0 55992 0 0
+/home/simubari17/datos_sapienter/resultados/CONTUTTO_E3.doc
+0 1 0 18675 0 0
+/home/simubari17/datos_sapienter/4/0050.xlsx
+0 1 0 6429 0 0
+/home/simubari17/datos_sapienter/3/0016.xlsx
+0 1 0 6425 0 0
+/home/simubari17/datos_sapienter/resultados/PORCLEAN_E4.doc
+0 5 0 93240 0 0
+/home/simubari17/datos_sapienter/5/0001.xlsx
+0 1 0 6422 0 0
+/home/simubari17/datos_sapienter/5/0004.xlsx
+0 1 0 6428 0 0
+/home/simubari17/datos_sapienter/3/0055.xlsx
+0 1 0 6427 0 0
+/home/simubari17/datos_sapienter/resultados/SULLIVAN_E5.doc
+0 8 0 149608 0 0
+/home/simubari17/datos_sapienter/resultados/ARTEMISA_E2.doc
+0 5 0 93615 0 0
+/home/simubari17/datos_sapienter/resultados/SINERGIA_E2.doc
+0 1 0 18681 0 0
+/home/simubari17/datos_sapienter/resultados/CMSC4112_E3.doc
+0 2 0 37318 0 0
+/home/simubari17/datos_sapienter/resultados/KONSTANT_E5.doc
+0 1 0 18673 0 0
+/home/simubari17/datos_sapienter/2/0030.xlsx
+0 1 0 6424 0 0
+/home/simubari17/datos_sapienter/3/0027.xlsx
+0 1 0 6424 0 0
+/home/simubari17/datos_sapienter/resultados/WXYZ_E4.doc
+0 1 0 18650 0 0
+/home/simubari17/datos_sapienter/resultados/KONSTANT_E4.doc
+0 1 0 18659 0 0
+/home/simubari17/datos_sapienter/resultados/SAFA0120_E5.doc
+0 4 0 74556 0 0
+/home/simubari17/datos_sapienter/resultados/ARTEMISA_E4.doc
+0 4 0 74636 0 0
+/home/simubari17/datos_sapienter/5/0018.xlsx
+0 1 0 6426 0 0
+/home/simubari17/datos_sapienter/4/0056.xlsx
+0 1 0 6428 0 0
+/home/simubari17/datos_sapienter/resultados/SAFA0120_E2.doc
+0 3 0 56094 0 0
+/home/simubari17/datos_sapienter/resultados/INVENCIB_E5.doc
+0 1 0 18642 0 0
+/home/simubari17/datos_sapienter/resultados/MERAKI_E2.doc
+0 5 0 93455 0 0
+/home/simubari17/datos_sapienter/resultados/InformeMercado_Z3_E2.doc
+0 38 0 642732 0 0
+/home/simubari17/datos_sapienter/resultados/CMSC4115_E4.doc
+0 2 0 37324 0 0
+/home/simubari17/datos_sapienter/5/0063.xlsx
+0 1 0 6424 0 0
+/home/simubari17/datos_sapienter/4/0043.xlsx
+0 1 0 6424 0 0
+/home/simubari17/datos_sapienter/resultados/FRIENDS2_E5.doc
+0 3 0 55950 0 0
+/home/simubari17/datos_sapienter/resultados/CONTUTTO_E5.doc
+0 1 0 18659 0 0
+/home/simubari17/datos_sapienter/resultados/InformeMercado_Z4_E5.doc
+0 13 0 221559 0 0
+/home/simubari17/datos_sapienter/resultados/InformeMercado_Z5_E5.doc
+0 7 0 119182 0 0
+/home/simubari17/datos_sapienter/resultados/CALABRIA_E4.doc
+0 4 0 74604 0 0
+/home/simubari17/datos_sapienter/resultados/ALAS_B2_E2.doc
+0 6 0 112200 0 0
+/home/simubari17/datos_sapienter/resultados/GRU_E3.doc
+0 3 0 55884 0 0
+/home/simubari17/datos_sapienter/resultados/LICHT_E5.doc
+0 1 0 18655 0 0
+/home/simubari17/datos_sapienter/4/0028.xlsx
+0 1 0 6430 0 0
+/home/simubari17/datos_sapienter/resultados/SINERGIA_E3.doc
+0 1 0 18695 0 0
+/home/simubari17/datos_sapienter/2/0033.xlsx
+0 1 0 6425 0 0
+/home/simubari17/datos_sapienter/4/0027.xlsx
+0 1 0 6423 0 0
+/home/simubari17/datos_sapienter/resultados/ALAS_A4_E3.doc
+0 3 0 55962 0 0
+/home/simubari17/datos_sapienter/2/0054.xlsx
+0 1 0 6422 0 0
+/home/simubari17/datos_sapienter/resultados/InformeMercado_Z6_E5.doc
+0 9 0 153252 0 0
+/home/simubari17/datos_sapienter/2/0017.xlsx
+0 1 0 6422 0 0
+/home/simubari17/datos_sapienter/resultados/ÁGIL_E2.doc
+0 1 0 18758 0 0
+/home/simubari17/datos_sapienter/resultados/TICTAC_E2.doc
+0 1 0 18712 0 0
+/home/simubari17/datos_sapienter/resultados/ISMA4117_E5.doc
+0 2 0 37406 0 0
+/home/simubari17/datos_sapienter/resultados/ALAS_B3_E5.doc
+0 3 0 56067 0 0
+/home/simubari17/datos_sapienter/resultados/InformeMercado_Z1_E4.doc
+0 40 0 678960 0 0
+/home/simubari17/datos_sapienter/resultados/40TENA_E3.doc
+0 3 0 55959 0 0
+/home/simubari17/datos_sapienter/resultados/ISMA4114_E5.doc
+0 2 0 37414 0 0
+/home/simubari17/datos_sapienter/3/0061.xlsx
+0 1 0 6422 0 0
+/home/simubari17/datos_sapienter/resultados/ISMA4115_E5.doc
+0 2 0 37298 0 0
+/home/simubari17/datos_sapienter/resultados/SULLIVAN_E3.doc
+0 10 0 186780 0 0
+/home/simubari17/datos_sapienter/resultados/SAFA0320_E5.doc
+0 3 0 55995 0 0
+/home/simubari17/datos_sapienter/resultados/INVENCIB_E3.doc
+0 1 0 18696 0 0
+/home/simubari17/datos_sapienter/3/0012.xlsx
+0 1 0 6426 0 0
+/home/simubari17/datos_sapienter/resultados/ALAS_A4_E4.doc
+0 8 0 149280 0 0
+/home/simubari17/datos_sapienter/resultados/ISMA4117_E4.doc
+0 2 0 37302 0 0
+/home/simubari17/datos_sapienter/resultados/CMSC4113_E4.doc
+0 6 0 112188 0 0
+/home/simubari17/datos_sapienter/3/0017.xlsx
+0 1 0 6422 0 0
+/home/simubari17/datos_sapienter/resultados/SAFA0220_E5.doc
+0 3 0 55938 0 0
+/home/simubari17/datos_sapienter/3/0013.xlsx
+0 1 0 6424 0 0
+/home/simubari17/datos_sapienter/5/0019.xlsx
+0 1 0 6427 0 0
+/home/simubari17/datos_sapienter/2/0001.xlsx
+0 1 0 6423 0 0
+/home/simubari17/datos_sapienter/2/0023.xlsx
+0 1 0 6422 0 0
+/home/simubari17/datos_sapienter/3/0015.xlsx
+0 1 0 6425 0 0
+/home/simubari17/datos_sapienter/3/0064.xlsx
+0 1 0 6425 0 0
+/home/simubari17/datos_sapienter/5/0021.xlsx
+0 1 0 6427 0 0
+/home/simubari17/datos_sapienter/4/0020.xlsx
+0 1 0 6432 0 0
+/home/simubari17/datos_sapienter/5/0022.xlsx
+0 1 0 6428 0 0
+/home/simubari17/datos_sapienter/4/0033.xlsx
+0 1 0 6427 0 0
+/home/simubari17/datos_sapienter/resultados/OSOOOO_E4.doc
+0 1 0 18669 0 0
+/home/simubari17/datos_sapienter/resultados/ISMA4112_E4.doc
+0 6 0 111966 0 0
+/home/simubari17/datos_sapienter/5/0028.xlsx
+0 1 0 6427 0 0
+/home/simubari17/datos_sapienter/resultados/InformeMercado_Z6_E2.doc
+0 14 0 236992 0 0
+/home/simubari17/datos_sapienter/resultados/ISMA4116_E3.doc
+0 2 0 37350 0 0
+/home/simubari17/datos_sapienter/2/0056.xlsx
+0 1 0 6424 0 0
+/home/simubari17/datos_sapienter/resultados/CMSC4111_E3.doc
+0 2 0 37400 0 0
+/home/simubari17/datos_sapienter/4/0021.xlsx
+0 1 0 6429 0 0
+/home/simubari17/datos_sapienter/resultados/MERAKI_E5.doc
+0 2 0 37282 0 0
+/home/simubari17/datos_sapienter/resultados/ECO_BJL_E3.doc
+0 4 0 74828 0 0
+/home/simubari17/datos_sapienter/resultados/ALAS_B4_E5.doc
+0 3 0 56064 0 0
+/home/simubari17/datos_sapienter/resultados/AONIKEN_E3.doc
+0 1 0 18694 0 0
+/home/simubari17/datos_sapienter/2/0045.xlsx
+0 1 0 6424 0 0
+/home/simubari17/datos_sapienter/resultados/CMSC4114_E4.doc
+0 2 0 37268 0 0
+/home/simubari17/datos_sapienter/2/0011.xlsx
+0 1 0 6427 0 0
+/home/simubari17/datos_sapienter/4/0042.xlsx
+0 1 0 6424 0 0
+/home/simubari17/datos_sapienter/3/0056.xlsx
+0 1 0 6424 0 0
+/home/simubari17/datos_sapienter/4/0014.xlsx
+0 1 0 6424 0 0
+/home/simubari17/datos_sapienter/resultados/40TENA_E4.doc
+0 3 0 55836 0 0
+/home/simubari17/datos_sapienter/resultados/PMGG411_E2.doc
+0 13 0 243360 0 0
+/home/simubari17/datos_sapienter/5/0033.xlsx
+0 1 0 6425 0 0
+/home/simubari17/datos_sapienter/resultados/TRIDENTE_E2.doc
+0 6 0 112230 0 0
+/home/simubari17/datos_sapienter/resultados/PLATINUM_E2.doc
+0 6 0 112104 0 0
+/home/simubari17/datos_sapienter/resultados/ECOCO_E4.doc
+0 1 0 18662 0 0
+/home/simubari17/datos_sapienter/4/0010.xlsx
+0 1 0 6433 0 0
+/home/simubari17/datos_sapienter/resultados/ALAS_B2_E5.doc
+0 3 0 56037 0 0
+/home/simubari17/datos_sapienter/2/0053.xlsx
+0 1 0 6427 0 0
+/home/simubari17/datos_sapienter/resultados/ASM2020_E4.doc
+0 4 0 74728 0 0
+/home/simubari17/datos_sapienter/4/0061.xlsx
+0 1 0 6423 0 0
+/home/simubari17/datos_sapienter/resultados/ECOICR20_E3.doc
+0 5 0 93275 0 0
+/home/simubari17/datos_sapienter/resultados/PLATINUM_E3.doc
+0 4 0 74672 0 0
+/home/simubari17/datos_sapienter/resultados/CMSC4114_E2.doc
+0 2 0 37346 0 0
+/home/simubari17/datos_sapienter/resultados/LICHT_E3.doc
+0 1 0 18668 0 0
+/home/simubari17/datos_sapienter/resultados/PIKA_E2.doc
+0 1 0 18740 0 0
+/home/simubari17/datos_sapienter/resultados/CHATS_E2.doc
+0 1 0 18695 0 0
+/home/simubari17/datos_sapienter/resultados/CMSC4111_E5.doc
+0 2 0 37342 0 0
+/home/simubari17/datos_sapienter/5/0003.xlsx
+0 1 0 6429 0 0
+/home/simubari17/datos_sapienter/resultados/CMSC4112_E4.doc
+0 3 0 55914 0 0
+/home/simubari17/datos_sapienter/resultados/InformeMercado_Z5_E2.doc
+0 16 0 270816 0 0
+/home/simubari17/datos_sapienter/5/0014.xlsx
+0 1 0 6424 0 0
+/home/simubari17/datos_sapienter/4/0023.xlsx
+0 1 0 6431 0 0
+/home/simubari17/datos_sapienter/resultados/ECOFUTUR_E2.doc
+0 5 0 93400 0 0
+/home/simubari17/datos_sapienter/2/0016.xlsx
+0 1 0 6424 0 0
+/home/simubari17/datos_sapienter/resultados/CALABRIA_E2.doc
+0 7 0 130704 0 0
+/home/simubari17/datos_sapienter/resultados/InformeMercado_Z2_E2.doc
+0 41 0 694581 0 0
+/home/simubari17/datos_sapienter/3/0043.xlsx
+0 1 0 6430 0 0
+# End Of Table - urls
+# -sites- (monthly)
+191.80.163.95
+0 126 126 1739520 0 0
+-
+23.229.147.67
+0 1328 1328 23730854 0 0
+-
+191.80.154.42
+0 128 128 1755175 0 0
+-
+191.80.174.73
+0 128 128 1753793 0 0
+-
+191.80.182.232
+0 128 128 1753480 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+23.229.147.67
+0 29 29 518519 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+# End Of Table - referrers
+# -agents- 
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+simubari17
+0 1838 1838 30732822 1 0
+# End Of Table - usernames

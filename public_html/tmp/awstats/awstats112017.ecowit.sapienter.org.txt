@@ -1,0 +1,466 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201711 will be lost/reset.
+# Last config file used to build this data file was /home/simubari17/tmp/awstats/awstats.ecowit.sapienter.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2019                
+POS_TIME 2695                
+POS_VISITOR 11937               
+POS_DAY 14111               
+POS_DOMAIN 3418                
+POS_LOGIN 3827                
+POS_ROBOT 3982                
+POS_WORMS 4400                
+POS_EMAILSENDER 4531                
+POS_EMAILRECEIVER 4674                
+POS_SESSION 14690               
+POS_SIDER 14896               
+POS_FILETYPES 4809                
+POS_DOWNLOADS 5015                
+POS_OS 5168                
+POS_BROWSER 5383                
+POS_SCREENSIZE 6010                
+POS_UNKNOWNREFERER 6084                
+POS_UNKNOWNREFERERBROWSER 6457                
+POS_ORIGIN 6715                
+POS_SEREFERRALS 6853                
+POS_PAGEREFS 7019                
+POS_SEARCHWORDS 7167                
+POS_KEYWORDS 7319                
+POS_MISC 2359                
+POS_ERRORS 7378                
+POS_CLUSTER 3683                
+POS_SIDER_404 7485                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20171201040205 10 1734 9520147235792
+FirstTime 20171101000805
+LastTime 20171130190359
+LastUpdate 20171201051819 10 0 9 0 0
+TotalVisits 69                  
+TotalUnique 54                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 55                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 3 3 11700 7 14 9865
+1 1 1 907 8 14 16376
+2 2 2 12494 5 15 1429995
+3 1 1 3157 6 10 18307
+4 5 5 13513 10 24 1290056
+5 1 1 907 3 6 194609
+6 8 18 479498 8 22 257850
+7 14 17 72846 2 16 429983
+8 44 53 138836 13 93 243879
+9 54 57 104876 26 215 198916
+10 63 64 648811 18 106 382964
+11 10 11 18649 12 41 208482
+12 7 8 66351 5 8 5618
+13 7 7 7065 14 23 55066
+14 9 19 764441 4 14 194102
+15 15 15 66253 9 21 243613
+16 15 18 216417 7 17 263274
+17 22 30 541276 16 71 2956
+18 0 1 188355 1 2 0
+19 8 8 22457 8 11 21845
+20 6 7 58010 3 4 43139
+21 3 3 7221 5 8 1434635
+22 2 2 1814 1 4 2049
+23 2 2 1814 5 12 1438559
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 15
+ar 225 275 3150978
+us 30 31 119214
+ca 18 18 88504
+gb 13 13 18864
+fr 3 3 4971
+ua 2 2 12494
+de 2 2 19772
+ru 2 2 10793
+br 1 1 3157
+pl 1 1 9886
+kr 1 1 907
+cn 1 1 907
+no 1 1 3157
+se 1 1 3157
+nl 1 1 907
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+bot[\s_+:,\.\;\/\\-] 65 849778 20171130080829 0
+bingpreview 46 2783907 20171130103336 0
+googlebot 21 20076 20171128003744 0
+spider 21 4351406 20171126044603 0
+google[_+\s]web[_+\s]preview 3 189833 20171121041524 0
+googlebot\-image 1 188355 20171119105300 0
+crawl 1 907 20171121203058 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 9 5381 0 0
+jpg 22 1655625 0 0
+html 118 345418 0 0
+pdf 1 41326 0 0
+php 182 1337651 0 0
+Unknown 2 25065 0 0
+gif 15 21474 0 0
+js 4 15728 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/varios/guiadesimulaciondenegocios.pdf 7 0 4978155
+/varios/programadesimulaciondenegocios.pdf 3 0 123978
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 12
+win2003 5 4
+macosx 10 10
+win8 3 3
+linux 6 6
+ios_iphone 1 1
+linuxandroid 5 3
+win7 69 48
+winxp 8 8
+Unknown 18 18
+winlong 1 1
+macosx8 1 1
+winnt 226 199
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 30
+Unknown 7 7
+safari6.0 1 1
+chrome34.0.1847.116 1 1
+chrome41.0.2228.0 1 1
+chrome60.0.3112.113 39 27
+msie6.0 1 1
+firefox57.0 1 1
+firefox40.0 1 1
+msie11.0 3 3
+mozilla 12 12
+chrome10.0.634.0 1 1
+msie10.0 1 1
+chrome61.0.3163.98 3 1
+chrome58.0.3029.96 2 2
+chrome52.0.2743.116 11 11
+chrome49.0.2623.75 2 2
+chrome56.0.2924.87 1 1
+chrome26.0.1410.65 1 1
+chrome62.0.3202.94 191 175
+firefox27.0 1 1
+firefox7.0.1 4 4
+chrome45.0.2454.94 2 2
+safari10.1 1 1
+msie7.0 7 6
+firefox51.0 2 2
+firefox26.0 4 4
+chrome61.0.3163.100 49 29
+chrome58.0.3029.110 1 1
+netscape5.0 1 1
+chrome57.0.2987.133 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Mozilla/5.0_(compatible;_ips-agent) 20171106080227
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20171109073158
+Mozilla/5.0_(compatible;_Dataprovider.com;) 20171121154318
+Go-http-client/1.1 20171117223706
+python-requests/2.18.4 20171118155838
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20171109073158
+python-requests/2.18.4 20171118155838
+Go-http-client/1.1 20171117223706
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 101 102
+From1 0 0
+From2 6 7
+From3 0 0
+From4 195 244
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 5 6
+yandex 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+404 524 0
+206 1 907
+302 67 969
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 58
+/mod_administrador/cmsimages/left2.gif 23 http://www.ecowit.org/mod_administrador/empresa_listado.php
+/mod_profesores/calendar_derecha.gif 1 http://www.ecowit.org/mod_profesores/empresa_listado_prof.php
+/mod_principal/cmsimages/left2.gif 3 http://www.ecowit.org/mod_principal/decisiones_historico.php
+/dumper.php 1 -
+/mod_principal/cerrar.gif 3 http://www.ecowit.org/mod_principal/decisiones_historico.php
+/index.html 2 -
+/oFWFXBEHkE.jsp/ 1 -
+/index.php 1 -
+/mod_administrador/calendar_izquierda.gif 23 http://www.ecowit.org/mod_administrador/empresa_listado.php
+/mod_administrador/cerrar.gif 23 http://www.ecowit.org/mod_administrador/empresa_listado.php
+/mod_profesores/cmsimages/left1.gif 1 http://www.ecowit.org/mod_profesores/empresa_listado_prof.php
+/mod_administrador/mensaje_error.php 1 http://www.ecowit.org/mod_administrador/empresa_listado.php
+/xmlrpc.php 2 -
+/mod_principal/images/inicio_on.gif 1 http://www.ecowit.org/mod_principal/decisiones_historico.php
+/acceso/css/estilos.css 20 http://www.ecowit.org/acceso/login.php
+/user/register 1 -
+/mod_administrador/cmsimages/drop2.gif 23 http://www.ecowit.org/mod_administrador/empresa_listado.php
+/mod_principal/cmsimages/left1.gif 3 http://www.ecowit.org/mod_principal/decisiones_historico.php
+/mod_profesores/cmsimages/right2.gif 1 http://www.ecowit.org/mod_profesores/empresa_listado_prof.php
+/WORDPRESS 1 -
+/mod_profesores/cmsimages/left2.gif 1 http://www.ecowit.org/mod_profesores/empresa_listado_prof.php
+/mod_administrador/images/inicio_on.gif 7 http://www.ecowit.org/mod_administrador/empresa_listado.php
+/mod_principal/cmsimages/right2.gif 3 http://www.ecowit.org/mod_principal/decisiones_historico.php
+/mod_profesores/estilos_relevamiento.css 1 http://www.ecowit.org/mod_profesores/menu_principal_prof.php
+/blog/xmlrpc.php 1 -
+/modules/attributewizardpro/file_upload.php 1 -
+/mod_profesores/css/estilos.css 1 http://www.ecowit.org/mod_profesores/empresa_listado_prof.php
+/wp-login.php 2 -
+/dpanel 2 -
+/mod_principal/css/estilos.css 7 http://www.ecowit.org/mod_principal/decisiones_historico.php
+/mod_administrador/cmsimages/right2.gif 23 http://www.ecowit.org/mod_administrador/empresa_listado.php
+/mod_administrador/estilos_relevamiento.css 20 http://www.ecowit.org/mod_administrador/menu_principal_admin.php
+/mod_profesores/cmsimages/drop1.gif 1 http://www.ecowit.org/mod_profesores/empresa_listado_prof.php
+/diZPqEAuJM.jsp/ 2 -
+/sitemap.xml 3 -
+/ZqNZPiKIUA.jsp/ 1 -
+/mod_principal/cmsimages/drop2.gif 3 http://www.ecowit.org/mod_principal/decisiones_historico.php
+/mod_principal/cmsimages/right1.gif 3 http://www.ecowit.org/mod_principal/decisiones_historico.php
+/robots.txt 73 -
+/utility/convert/index.php 17 -
+/mod_principal/cmsimages/drop1.gif 3 http://www.ecowit.org/mod_principal/decisiones_historico.php
+/mod_administrador/cmsimages/drop1.gif 23 http://www.ecowit.org/mod_administrador/empresa_listado.php
+/mod_profesores/cmsimages/right1.gif 1 http://www.ecowit.org/mod_profesores/empresa_listado_prof.php
+/mod_administrador/calendar_derecha.gif 23 http://www.ecowit.org/mod_administrador/empresa_listado.php
+/mod_profesores/cmsimages/drop2.gif 1 http://www.ecowit.org/mod_profesores/empresa_listado_prof.php
+/jscripts/java.js 27 http://www.ecowit.org/mod_profesores/empresa_listado_prof.php
+/administrator/ 1 -
+/downloader/ 1 -
+/mod_profesores/cerrar.gif 1 http://www.ecowit.org/mod_profesores/empresa_listado_prof.php
+/mod_principal/calendar_izquierda.gif 3 http://www.ecowit.org/mod_principal/decisiones_historico.php
+/mod_profesores/calendar_izquierda.gif 1 http://www.ecowit.org/mod_profesores/empresa_listado_prof.php
+/mod_principal/estilos_relevamiento.css 35 http://www.ecowit.org/mod_principal/menu_principal.php
+/admin.php 1 -
+/mod_administrador/cmsimages/right1.gif 23 http://www.ecowit.org/mod_administrador/empresa_listado.php
+/mod_administrador/cmsimages/left1.gif 23 http://www.ecowit.org/mod_administrador/empresa_listado.php
+/mod_administrador/css/estilos.css 46 http://www.ecowit.org/mod_administrador/empresa_listado.php
+/dumper/dumper.php 1 -
+/mod_principal/calendar_derecha.gif 3 http://www.ecowit.org/mod_principal/decisiones_historico.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 55
+190.48.126.76 137 160 1078088 20171116102423
+190.177.188.128 44 46 1081493 20171116172419
+190.175.32.240 23 28 92951 20171116082505
+181.93.92.242 15 24 234206 20171116170908
+158.69.228.184 8 8 20908 20171111161852
+192.99.47.111 6 6 56615 20171104154728
+163.172.4.153 4 4 5878 20171129234934
+38.100.21.61 4 5 38238 20171103200653
+69.58.178.58 4 4 36843 20171106080227
+190.175.27.62 4 11 432175 20171115071519
+54.219.178.100 4 4 3628 20171126140024
+158.69.54.207 3 3 7824 20171121154319
+45.63.115.46 2 2 6314 20171109073158
+52.53.129.36 2 2 1814 20171130061202
+172.82.185.210 2 2 4064 20171121082129
+45.63.114.208 2 2 1814 20171126152839
+145.239.154.173 1 1 907 20171117223706
+155.4.230.97 1 1 3157 20171105190834
+146.185.223.146 1 1 9886 20171103024005
+171.25.193.235 1 1 3157 20171111093914
+179.218.229.247 1 1 3157 20171104210140
+144.217.161.119 1 1 3157 20171105190854
+54.160.90.154 1 1 3157 20171109145821
+85.159.212.96 1 1 0 20171118153947
+54.202.35.43 1 1 9886 20171107205138
+192.160.102.168 1 1 3157 20171105191003
+186.143.198.53 1 3 189832 20171115140740
+144.217.163.70 1 1 3157 20171113190140
+51.15.84.183 1 1 3157 20171105190940
+206.180.165.147 1 1 907 20171130055712
+156.67.106.49 1 1 9886 20171112205430
+66.249.83.85 1 1 907 20171121041523
+190.177.183.117 1 2 907 20171122165305
+66.249.83.14 1 1 906 20171116044758
+216.69.191.98 1 1 2608 20171118195525
+146.185.144.64 1 1 907 20171121233822
+194.44.247.218 1 1 2608 20171126103333
+145.239.89.18 1 1 3157 20171112194529
+138.201.60.47 1 1 9886 20171113044433
+188.165.26.121 1 1 907 20171130190359
+178.33.54.161 1 1 3157 20171112125109
+51.15.206.31 1 1 2608 20171123024744
+35.205.29.220 1 1 907 20171126220835
+195.22.127.67 1 1 9886 20171101000805
+200.59.203.214 0 1 41326 
+178.79.157.166 1 1 0 20171118155838
+178.79.163.204 1 1 0 20171118154824
+94.23.171.176 1 1 907 20171122041323
+213.183.51.170 1 1 907 20171125043940
+211.114.35.194 1 1 907 20171129211316
+218.30.103.24 1 1 907 20171118071812
+67.60.92.189 1 1 907 20171119003512
+178.79.133.239 1 1 0 20171118153133
+195.242.80.92 1 1 9886 20171111080702
+145.239.89.21 1 1 3157 20171112031016
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 25
+20171101 1 1 9886 1
+20171103 5 6 48124 2
+20171104 7 7 59772 2
+20171105 5 5 15785 5
+20171106 4 4 36843 1
+20171107 1 1 9886 1
+20171109 4 4 12628 3
+20171111 10 10 33951 3
+20171112 4 4 19357 4
+20171113 6 13 434093 3
+20171114 1 2 56135 1
+20171115 7 19 1001183 3
+20171116 213 242 1672609 9
+20171117 1 1 907 1
+20171118 6 6 3515 6
+20171119 2 2 1814 2
+20171120 1 1 907 1
+20171121 7 7 11452 5
+20171122 2 3 1814 2
+20171123 1 1 2608 1
+20171124 2 2 1814 2
+20171125 1 1 907 1
+20171126 5 5 6236 4
+20171129 3 3 2721 3
+20171130 3 3 2721 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30s-2mn 3
+5mn-15mn 2
+15mn-30mn 1
+2mn-5mn 2
+1h+ 1
+30mn-1h 1
+0s-30s 59
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 17
+/ 103 274945 67 60
+/mod_principal/menu_principal.php 48 57043 0 2
+/acceso/login.php 21 19845 0 2
+/mod_administrador/menu_principal_admin.php 20 21480 0 0
+/mod_principal/descargar_resultados.php 18 914295 0 0
+/mod_administrador/empresa_alta.php 16 28858 1 0
+/index.php 15 13600 0 2
+/mod_administrador/listado_ejercicios.php 13 23288 0 0
+/mod_administrador/empresa_listado.php 11 88757 0 1
+/mod_principal/descargar_informe.php 11 151006 0 0
+/accesoaempresas.html 9 44820 1 1
+/enlacesrelacionados.html 6 25653 0 0
+/mod_principal/decisiones.php 4 8757 0 0
+/mod_principal/decisiones_historico.php 3 7597 0 1
+/cpanel 2 25065 0 0
+/mod_profesores/empresa_listado_prof.php 1 2130 0 0
+/mod_profesores/menu_principal_prof.php 1 995 0 0
+END_SIDER

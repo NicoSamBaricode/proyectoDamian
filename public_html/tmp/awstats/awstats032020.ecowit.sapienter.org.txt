@@ -1,0 +1,584 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202003 will be lost/reset.
+# Last config file used to build this data file was /home/simubari17/tmp/awstats/awstats.ecowit.sapienter.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2019                
+POS_TIME 2695                
+POS_VISITOR 12195               
+POS_DAY 15496               
+POS_DOMAIN 3394                
+POS_LOGIN 3781                
+POS_ROBOT 3936                
+POS_WORMS 4625                
+POS_EMAILSENDER 4756                
+POS_EMAILRECEIVER 4899                
+POS_SESSION 16152               
+POS_SIDER 16305               
+POS_FILETYPES 5034                
+POS_DOWNLOADS 5217                
+POS_OS 5316                
+POS_BROWSER 5570                
+POS_SCREENSIZE 6658                
+POS_UNKNOWNREFERER 6732                
+POS_UNKNOWNREFERERBROWSER 7256                
+POS_ORIGIN 7592                
+POS_SEREFERRALS 7729                
+POS_PAGEREFS 7904                
+POS_SEARCHWORDS 8136                
+POS_KEYWORDS 8311                
+POS_MISC 2359                
+POS_ERRORS 8396                
+POS_CLUSTER 3637                
+POS_SIDER_404 8501                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200401003058 10 1483 9798339514938
+FirstTime 20200301011231
+LastTime 20200331220916
+LastUpdate 20200401050805 10 0 9 0 0
+TotalVisits 89                  
+TotalUnique 84                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 86                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 3515 4 14 5900
+1 8 10 204687 6 15 6236
+2 4 4 3628 7 13 5442
+3 2 2 1814 4 12 2721
+4 3 5 193348 13 23 12069
+5 3 3 2721 22 32 5900
+6 7 8 194630 8 20 5391
+7 8 11 200155 4 13 192777
+8 69 80 301654 25 249 8844
+9 20 20 19865 10 44 1814
+10 2 2 5216 6 18 4770
+11 2 2 1814 5 10 7937
+12 3 3 2721 5 15 194478
+13 2 2 1814 27 37 26190
+14 7 7 14854 5 13 3628
+15 3 6 887071 45 55 2721
+16 3 3 4422 5 10 195385
+17 10 10 12472 26 53 212508
+18 3 3 2721 7 15 4535
+19 3 3 2721 8 16 8957
+20 3 7 380573 5 14 3628
+21 4 4 3628 10 29 199361
+22 9 10 18064 20 26 12677
+23 3 6 885370 10 21 10658
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 13
+ar 83 99 2078348
+us 38 42 236246
+cn 22 26 406311
+ca 11 15 401437
+ru 9 9 14967
+gb 8 10 196182
+ua 3 3 6123
+se 2 2 1814
+de 2 2 1814
+fr 2 2 1814
+gr 1 1 2608
+il 1 1 907
+sa 1 1 907
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 14
+Sogou[\x20]web[\x20]spider/ 51 46257 20200331171453 0
+Googlebot/ 33 28587 20200330135605 0
+AhrefsBot/ 29 26303 20200331023623 0
+YandexBot/ 18 17279 20200328005838 0
+bot[\s_+:,\.\;\/\\-] 14 34811 20200331012304 0
+bingbot/ 8 757048 20200327123146 0
+no_user_agent 5 13040 20200328225648 0
+MJ12bot/ 4 5534 20200327212430 0
+(firefox/)([0-9]\.|[0-1][0]\.) 4 7030 20200327115629 0
+msnbot/ 3 1713 20200324001931 0
+baidu 3 189833 20200308174825 0
+DuckDuckGo\-Favicons\-Bot/ 1 907 20200306155330 0
+php 1 2608 20200310195834 0
+Python\-urllib/ 1 2608 20200321061543 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+html 104 137534 0 0
+js 2 7864 0 0
+css 10 8236 0 0
+jpg 9 1695195 0 0
+pdf 2 1384044 0 0
+php 79 107529 0 0
+gif 7 9076 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/varios/guiadesimulaciondenegocios.pdf 2 0 1384044
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 15
+macosx8 1 1
+winxp 7 7
+macosx12 5 3
+ios_iphone 4 2
+linuxandroid 8 5
+macosx10 2 2
+macosx7 1 1
+linux 11 8
+win10 116 99
+macosx 1 1
+Unknown 19 17
+macosx9 3 3
+win7 31 30
+win8.1 3 3
+macosx11 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 50
+msie7.0 4 4
+firefox63.0 1 1
+chrome16.0.912.63 2 2
+chrome60.0.3112.107 1 1
+chrome75.0.3770.142 5 4
+msie6.0 1 1
+safari11.0 3 1
+chrome66.0.3359.181 1 1
+chrome40.0.2214.115 1 1
+chrome75.0.3770.101 1 0
+opera62.0.3331.99 1 1
+chrome66.0.3359.139 2 2
+chrome51.0.2704.103 1 1
+chrome74.0.3729.131 1 1
+chrome66.0.3359.117 3 3
+chrome45.0.2454.94 1 1
+chrome34.0.1847.131 1 1
+firefox54.0 1 1
+firefox73.0 1 1
+chrome76.0.3809.132 1 1
+chrome71.0.3578.98 2 2
+firefox47.0 1 1
+chrome80.0.3987.106 1 1
+chrome73.0.3683.90 1 1
+firefox35.0 2 2
+chrome73.0.3683.86 2 1
+chrome74.0.3729.169 12 12
+chrome80.0.3987.122 1 1
+chrome80.0.3987.149 95 82
+chrome63.0.3239.26 1 1
+chrome65.0.3312.0 3 1
+mozilla 9 7
+chrome26.0.1410.65 1 1
+chrome67.0.3396.87 1 1
+firefox18.0 3 3
+chrome75.0.3770.100 1 1
+firefox57.0 5 5
+Unknown 10 10
+chrome41.0.2228.0 3 3
+chrome72.0.3626.121 1 1
+chrome74.0.3729.157 1 1
+chrome68.0.3440.84 1 1
+firefox59.0 2 2
+edge17 3 1
+chrome80.0.3987.132 10 4
+safari9.0 1 1
+chrome35.0.1916.47 3 3
+chrome58.0.3029.110 2 2
+chrome78.0.3904.70 1 1
+firefox40.1 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 8
+Mozilla/5.0_(compatible;_Dataprovider.com) 20200308011008
+Mozilla/5.0_Firefox/35.0 20200320144710
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20200331005241
+python-requests/2.23.0 20200331143643
+python-requests/2.21.0 20200312020803
+Python/3.7_aiohttp/3.0.9 20200314233351
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20200303042144
+Go-http-client/1.1 20200318211938
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20200303042144
+Go-http-client/1.1 20200318211938
+python-requests/2.21.0 20200312020803
+python-requests/2.23.0 20200331143643
+Python/3.7_aiohttp/3.0.9 20200314233351
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 76 76
+From1 0 0
+From2 16 18
+From3 2 4
+From4 89 115
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+sogou 12 12
+www_google_com 4 6
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+https://profiplast.org 1 1
+https://cabinet-pochta.ru 1 1
+http://mail.ecowit.org 0 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+site+www.ecowit.org 12
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+www.ecowit.org 12
+site 12
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+302 22 969
+404 547 0
+500 8 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 114
+/mod_principal/estilos_relevamiento.css 1 http://www.ecowit.org/mod_principal/menu_principal.php
+/dev/.env 1 -
+/reserv/license.txt 1 -
+/wordpress/wp-admin/install.php 1 -
+/src/.env 1 -
+/mod_administrador/cmsimages/drop1.gif 18 http://www.ecowit.org/mod_administrador/empresa_listado.php
+/local/.env 1 -
+/sitemap.xml 3 -
+/old/license.txt 1 -
+/admin/editor/editor/ 2 http://www.baidu.com/
+/shared/.env 1 -
+/mod_administrador/mensaje_error.php 1 -
+/mod_administrador/cerrar.gif 18 http://www.ecowit.org/mod_administrador/empresa_listado.php
+/login/.env 1 -
+/back/.env 1 -
+/humans.txt 1 -
+/cli/.env 1 -
+/home/ 1 -
+/wp/ 2 -
+/backend/.env 1 -
+/mod_administrador/cmsimages/right2.gif 18 http://www.ecowit.org/mod_administrador/empresa_listado.php
+/.env 2 -
+/site/license.txt 1 -
+/mod_administrador/css/estilos.css 32 http://www.ecowit.org/mod_administrador/empresa_listado.php
+/new/ 2 -
+/document/.env 1 -
+/main/ 2 -
+//.env 1 -
+/development/.env 1 -
+/backup/license.txt 1 -
+/laravel-artisan/.env 1 -
+/ftpsync.settings 1 -
+/core/.env 1 -
+/admin/.env 1 -
+/mod_administrador/cmsimages/drop2.gif 18 http://www.ecowit.org/mod_administrador/empresa_listado.php
+/test/license.txt 1 -
+/mod_administrador/calendar_derecha.gif 18 http://www.ecowit.org/mod_administrador/empresa_listado.php
+/sftp-config.json 1 -
+/old/ 2 -
+/system/.env 1 -
+/mod_administrador/cmsimages/left2.gif 18 http://www.ecowit.org/mod_administrador/empresa_listado.php
+/_wp/license.txt 1 -
+//wp-admin/install.php 1 -
+/rest/.env 1 -
+/.ftpconfig 1 -
+/web/.env 1 -
+/portal/ 1 -
+/.remote-sync.json 1 -
+/master/.env 1 -
+//vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/vendor/phpunit/phpunit/src/Util/PHP/Template/TestCaseMethod.tpl.dist 1 -
+/mod_administrador/cmsimages/right1.gif 18 http://www.ecowit.org/mod_administrador/empresa_listado.php
+/new/license.txt 1 -
+/private/.env 1 -
+/backup/ 2 -
+/test/web.config.txt 1 -
+/wordpress/ 2 -
+/temp/ 1 -
+/framework/.env 1 -
+/api/.env 1 -
+/ads.txt 3 -
+/frontend/.env 1 -
+/auth/.env 1 -
+/back/license.txt 1 -
+/demo/ 2 -
+/search/.env 1 -
+/laravel/.env 1 -
+/cms/ 1 -
+/personal/.env 1 -
+/deployment-config.json 1 -
+/dependencies/.env 1 -
+/deployment/.env 1 -
+/project/.env 1 -
+/dev/ 1 -
+/web/license.txt 1 -
+/wordpress/license.txt 1 -
+/cp/.env 1 -
+/wp-login.php 4 -
+/robots.txt 182 -
+/vue/.env 1 -
+/main/license.txt 1 -
+/tmp/ 1 -
+/site/.env 1 -
+/site/ 2 -
+/1/license.txt 1 -
+/config/.env 1 -
+/server/.env 1 -
+/js/editor/editor/ 1 http://www.baidu.com/
+/editor/editor/ 2 http://www.baidu.com/
+/app/.env 1 -
+/protected/.env 1 -
+/wp-json/wp/v2/users/ 1 -
+/www/license.txt 1 -
+/vod_installer/.env 1 -
+/blog/ 2 -
+/cms/license.txt 1 -
+/test/ 2 -
+/license.txt 2 -
+/mod_administrador/cmsimages/left1.gif 18 http://www.ecowit.org/mod_administrador/empresa_listado.php
+/engine/.env 1 -
+/apps/.env 1 -
+/.well-known/security.txt 1 -
+/application/.env 1 -
+/.vscode/ftp-sync.json 1 -
+/mod_administrador/images/inicio_on.gif 10 http://www.ecowit.org/mod_administrador/empresa_listado.php
+/res/license.txt 1 -
+/shop/license.txt 1 -
+/mod_administrador/calendar_izquierda.gif 18 http://www.ecowit.org/mod_administrador/empresa_listado.php
+/mod_administrador/estilos_relevamiento.css 22 http://www.ecowit.org/mod_administrador/menu_principal_admin.php
+/jscripts/java.js 18 http://www.ecowit.org/mod_administrador/empresa_listado.php
+/web.config.txt 1 -
+/docker/.env 1 -
+/.vscode/sftp.json 1 -
+/web/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 86
+190.48.109.58 80 91 314376 20200323091411
+199.244.88.131 3 3 2721 20200312223543
+3.14.143.24 3 4 3292 20200324072311
+51.77.249.202 3 3 2721 20200309220042
+142.4.218.236 3 3 7824 20200308010959
+173.82.106.236 3 3 2608 20200321083026
+47.94.102.174 2 2 5216 20200324101822
+18.130.86.21 2 2 1814 20200302020855
+142.93.186.172 2 2 5216 20200313072141
+188.143.169.29 2 2 5216 20200325221927
+142.93.87.106 2 2 5216 20200305171207
+111.201.154.248 2 4 190740 20200314233352
+69.160.160.52 2 4 190740 20200330073213
+176.100.190.11 2 2 5216 20200317145503
+190.48.103.34 2 3 190095 20200328061602
+124.206.180.178 2 2 5216 20200320144710
+34.222.208.12 1 1 907 20200325110548
+71.6.165.200 1 1 2608 20200310231949
+159.89.23.245 1 1 2608 20200310145556
+220.249.46.25 1 1 907 20200313191737
+123.126.68.123 1 1 907 20200324171903
+62.210.80.93 1 1 907 20200316084441
+106.120.188.145 1 1 907 20200315011314
+106.120.188.148 1 1 907 20200320172616
+106.120.188.143 1 1 907 20200318171647
+209.141.49.135 1 2 5705 20200319222529
+106.120.188.161 1 1 907 20200308190853
+181.91.218.152 0 1 692022 
+198.143.155.138 1 1 907 20200329032602
+216.151.20.198 1 1 0 20200318084513
+89.163.242.103 1 1 907 20200331085411
+158.222.15.166 1 1 907 20200329121321
+54.188.59.199 1 1 907 20200316222440
+69.50.235.107 1 1 907 20200310144727
+220.249.46.174 1 1 907 20200301175135
+54.36.113.241 1 1 907 20200328063622
+184.154.47.2 1 1 907 20200301183257
+190.175.44.106 0 1 692022 
+220.249.46.64 1 1 907 20200302174909
+174.138.49.134 1 1 2608 20200301011231
+206.41.185.34 1 1 907 20200321130537
+51.89.64.53 1 1 907 20200312020803
+95.216.200.208 1 1 907 20200307064432
+51.77.249.198 1 1 907 20200311082458
+51.91.218.19 1 3 189833 20200308011008
+31.184.219.72 1 1 907 20200304221732
+106.120.188.144 1 1 907 20200330171524
+190.177.181.159 1 3 189833 20200316043613
+2.56.16.72 1 1 907 20200304214624
+54.244.23.72 1 1 907 20200302213146
+93.159.230.28 1 1 907 20200306092847
+96.125.196.12 1 3 189833 20200313153520
+64.246.165.210 1 1 907 20200324223619
+35.240.13.116 1 1 2608 20200316152816
+85.208.23.32 1 1 907 20200303042144
+91.132.138.35 1 1 2608 20200331220916
+54.186.236.215 1 1 907 20200318211938
+62.210.83.78 1 1 907 20200310123332
+167.99.211.55 1 1 907 20200329162145
+60.191.38.77 1 1 2608 20200316045449
+35.226.173.228 1 1 907 20200331143643
+77.74.177.114 1 1 907 20200306092848
+192.71.8.140 1 1 907 20200311062319
+192.99.225.97 1 3 189833 20200307202435
+81.227.10.40 1 1 907 20200310034558
+220.249.46.161 1 1 907 20200305051818
+104.168.182.234 1 1 907 20200319190156
+36.110.147.96 1 1 907 20200306171837
+5.45.65.236 1 1 907 20200330004938
+212.92.114.218 1 1 907 20200307053409
+92.204.50.32 1 1 907 20200309053422
+106.12.214.204 1 3 189833 20200323204826
+123.126.68.136 1 1 907 20200326172552
+109.234.34.254 1 1 2608 20200325164111
+51.68.152.26 1 1 907 20200304023342
+51.15.109.255 1 1 907 20200302202357
+192.99.62.49 1 1 907 20200323065020
+173.249.22.173 1 1 907 20200316180442
+218.62.245.209 1 1 907 20200320134201
+94.103.80.12 1 1 2608 20200319010800
+107.22.6.20 1 1 907 20200308065546
+35.189.244.215 1 1 2608 20200316152816
+107.6.183.226 1 1 907 20200313180142
+64.246.161.30 1 1 907 20200301213527
+101.4.60.64 1 1 907 20200308074239
+138.197.106.8 1 1 2608 20200331005241
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20200301 6 6 7143 6
+20200302 4 4 3628 4
+20200303 1 1 907 1
+20200304 3 3 2721 3
+20200305 3 3 6123 2
+20200306 3 3 2721 3
+20200307 4 6 192554 4
+20200308 7 9 200378 5
+20200309 4 4 3628 4
+20200310 5 5 7937 5
+20200311 2 2 1814 2
+20200312 2 2 1814 2
+20200313 5 7 196863 4
+20200314 2 4 190740 1
+20200315 1 1 907 1
+20200316 7 9 200378 7
+20200317 2 2 5216 1
+20200318 3 3 1814 3
+20200319 3 5 701242 3
+20200320 4 4 7030 3
+20200321 4 4 3515 2
+20200323 82 95 505116 3
+20200324 7 9 702344 4
+20200325 4 4 8731 3
+20200326 1 1 907 1
+20200328 3 4 191002 2
+20200329 3 3 2721 3
+20200330 4 6 192554 3
+20200331 4 4 7030 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+1h+ 1
+0s-30s 88
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 12
+/ 104 137534 89 87
+/mod_administrador/menu_principal_admin.php 33 27489 0 2
+/mod_administrador/empresa_listado.php 17 33197 0 0
+/mod_administrador/empresa_alta.php 13 23751 0 0
+/acceso/frm_cambio_clave.php 4 6668 0 0
+/index.php 4 3628 0 0
+/mod_administrador/listado_ejercicios.php 3 5757 0 0
+/mod_principal/menu_principal.php 1 1598 0 0
+/mod_administrador/reset_decisiones.php 1 712 0 0
+/mod_administrador/parametros_alta.php 1 1847 0 0
+/mod_administrador/subir_datos.php 1 2167 0 0
+/mod_administrador/reset_equipos_profesores.php 1 715 0 0
+END_SIDER

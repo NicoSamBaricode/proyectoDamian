@@ -1,0 +1,539 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201804 will be lost/reset.
+# Last config file used to build this data file was /home/simubari17/tmp/awstats/awstats.sapienter.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2676                
+POS_VISITOR 13132               
+POS_DAY 16327               
+POS_DOMAIN 3464                
+POS_LOGIN 3853                
+POS_ROBOT 4008                
+POS_WORMS 4542                
+POS_EMAILSENDER 4673                
+POS_EMAILRECEIVER 4816                
+POS_SESSION 17062               
+POS_SIDER 17258               
+POS_FILETYPES 4951                
+POS_DOWNLOADS 5144                
+POS_OS 5280                
+POS_BROWSER 5519                
+POS_SCREENSIZE 6435                
+POS_UNKNOWNREFERER 6509                
+POS_UNKNOWNREFERERBROWSER 6989                
+POS_ORIGIN 7279                
+POS_SEREFERRALS 7419                
+POS_PAGEREFS 7585                
+POS_SEARCHWORDS 7786                
+POS_KEYWORDS 7938                
+POS_MISC 2340                
+POS_ERRORS 7997                
+POS_CLUSTER 3709                
+POS_SIDER_404 8116                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180501000150 31 5239 9644500944074
+FirstTime 0
+LastTime 20180430230822
+LastUpdate 20180501051641 31 0 30 0 0
+TotalVisits 181                 
+TotalUnique 77                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 83                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 7 7 3310 6 20 641312
+1 12 12 9148 14 34 950137
+2 10 13 785416 10 25 349894
+3 6 6 4587 6 11 566333
+4 57 68 269059 14 182 609497
+5 62 69 1385475 35 200 1114132
+6 70 71 183852 21 252 983031
+7 68 78 1664633 20 95 1017716
+8 43 53 1658448 20 98 632719
+9 42 49 1280467 17 68 824601
+10 127 135 475963 39 418 433267
+11 6 6 4587 7 12 108063
+12 33 49 2444634 22 87 524608
+13 8 11 784034 8 23 599525
+14 7 12 1102971 9 16 16018
+15 24 31 1440248 6 24 318120
+16 20 25 1254173 25 50 1293075
+17 15 15 9930 11 27 559619
+18 7 7 3972 13 27 1014755
+19 6 7 462509 16 33 1020003
+20 11 15 793532 17 38 48792
+21 16 16 11207 12 20 23070
+22 5 5 3925 5 14 106076
+23 4 4 3263 8 15 332965
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 13
+ar 472 554 13134199
+us 154 165 1998042
+ca 12 12 20468
+gb 9 9 5958
+ie 4 4 83642
+ru 3 3 2601
+vn 3 5 321525
+de 2 3 2527
+fr 2 2 2554
+es 2 4 460449
+cn 1 1 662
+cz 1 1 6054
+zz 1 1 662
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+bot[\s_+:,\.\;\/\\-] 124 5782280 20180430200306 0
+googlebot 117 96643 20180430164550 0
+spider 49 532335 20180430201440 0
+bingpreview 26 5077252 20180430090448 0
+google[_+\s]web[_+\s]preview 7 920293 20180427055127 0
+no_user_agent 2 1324 20180430231304 0
+googlebot\-image 2 145628 20180426194934 0
+[\s_+:,\.\;\/\\-]bot 1 662 20180424111932 0
+crawl 1 0 20180422013558 0
+netcraft 1 1277 20180404103647 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+html 204 145930 0 0
+js 9 37475 0 0
+jpg 38 14376251 0 0
+Unknown 3 37598 0 0
+css 25 17425 0 0
+gif 26 34494 0 0
+php 459 1390170 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/ejersicios/Decisiones_Ej._2.xls 8 0 766888
+/ejersicios/Decisiones_Ej._5.xls 1 0 301883
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 13
+ios_iphone 15 12
+winxp 26 18
+ios_ipad 4 2
+win7 458 413
+linuxandroid 32 21
+macosx9 1 1
+win2003 4 3
+Unknown 27 27
+winnt 124 97
+winlong 1 1
+linux 10 9
+macosx8 1 1
+macosx 61 61
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 43
+safari11.0 10 7
+chrome66.0.3349.0 2 1
+chrome66.0.3359.139 41 26
+chrome56.0.2924.87 1 1
+chrome5.0.375.99 1 1
+safari9.0 5 5
+firefox3.6.8 4 4
+chrome55.0.2883.75 1 1
+chrome49.0.2623.75 5 5
+chrome35.0.1916.47 1 1
+safari11.0.1 14 14
+msie9.0 1 1
+netscape 3 3
+firefox7.0.1 3 3
+firefox40.0 1 1
+chrome65.0.3325.181 417 379
+msie6.0 1 1
+chrome66.0.3359.117 26 17
+chrome19.0.1055.1 1 1
+mozilla 21 19
+chrome37.0.2062.120 1 1
+chrome55.0.2883.87 2 2
+firefox59.0 21 13
+chrome49.0.2623.112 17 9
+chrome27.0.1453.93 1 1
+wap 1 1
+chrome19.0.1062.0 1 1
+chrome58.0.3029.110 3 3
+chrome45.0.2454.94 2 2
+chrome57.0.2987.133 1 1
+chrome41.0.2228.0 2 2
+Unknown 12 12
+firefox57.0 12 12
+chrome38.0.1025.166 3 1
+chrome26.0.1410.65 1 1
+chrome61.0.3163.100 37 37
+chrome63.0.3239.111 17 14
+chrome34.0.1847.116 1 1
+chrome62.0.3202.94 51 51
+msie5.0 2 2
+msie7.0 4 3
+chrome65.0.3325.109 10 4
+msie11.0 3 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 8
+Mozilla 20180411013844
+Go-http-client/1.1 20180424175701
+Mozilla/5.0_(compatible;_Wappalyzer) 20180420210242
+Mozilla/5.0_(compatible;_ips-agent) 20180401092956
+Mozilla/5.0_(compatible;_Dataprovider.com;) 20180406201410
+Magic_Browser 20180430230822
+Python/3.6_aiohttp/2.3.10 20180402030138
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20180416133921
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+Go-http-client/1.1 20180424175701
+Magic_Browser 20180430230822
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20180416133921
+Python/3.6_aiohttp/2.3.10 20180402030138
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 294 295
+From1 2 2
+From2 14 17
+From3 3 3
+From4 353 447
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 14 16
+live 0 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://mail.sapienter.org 2 2
+http://hundejo.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+302 96 29541
+404 1299 1196601
+206 2 303492
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 71
+/mod_administrador/cmsimages/left1.gif 64 http://sapienter.org/mod_administrador/empresa_listado.php
+/mod_profesores/images/inicio_on.gif 2 http://www.sapienter.org/mod_profesores/empresa_listado_prof.php
+/apple-touch-icon-precomposed.png 18 -
+/mod_administrador/cerrar.gif 64 http://sapienter.org/mod_administrador/empresa_listado.php
+/mod_profesores/css/estilos.css 9 http://sapienter.org/mod_profesores/empresa_listado_prof.php
+/components/com_b2jcontact/router.php 1 -
+/mod_principal/css/estilos.css 6 http://www.sapienter.org/mod_principal/decisiones_historico.php
+/acceso/css/estilos.css 19 -
+/robots.txt 185 -
+/mod_principal/estilos_relevamiento.css 30 http://sapienter.org/mod_principal/menu_principal.php
+/mod_profesores/estilos_relevamiento.css 2 http://www.sapienter.org/mod_profesores/menu_principal_prof.php
+/wp-login.php 2 -
+/mod_administrador/cmsimages/drop2.gif 64 http://sapienter.org/mod_administrador/empresa_listado.php
+/mod_administrador/images/inicio_on.gif 18 http://sapienter.org/mod_administrador/empresa_listado.php
+/dpanel 1 -
+/mod_administrador/cargar_empresa_proc.php 1 -
+/mod_profesores/cerrar.gif 7 http://sapienter.org/mod_profesores/empresa_listado_prof.php
+/mod_administrador/cmsimages/drop1.gif 64 http://sapienter.org/mod_administrador/empresa_listado.php
+/.idea/WebServers.xml 1 -
+//modules/mod_simplefileuploadv1.3/elements/udd.php 8 -
+/mod_principal/mensaje_ok.php 4 -
+/mod_administrador/estilos_relevamiento.css 53 http://sapienter.org/mod_administrador/menu_principal_admin.php
+/mod_principal/calendar_izquierda.gif 5 http://www.sapienter.org/mod_principal/decisiones_historico.php
+/js/mage/cookies.js 1 sapienter.org
+/mod_administrador/calendar_izquierda.gif 64 http://sapienter.org/mod_administrador/empresa_listado.php
+/mod_principal/mensaje_error.php 1 http://www.sapienter.org/mod_principal/menu_principal.php
+/mod_administrador/calendar_derecha.gif 64 http://sapienter.org/mod_administrador/empresa_listado.php
+/.svn/wc.db 1 -
+/logo_img.php 1 -
+/mod_administrador/cmsimages/left2.gif 64 http://sapienter.org/mod_administrador/empresa_listado.php
+/ads.txt 2 -
+/mod_profesores/cmsimages/left1.gif 7 http://sapienter.org/mod_profesores/empresa_listado_prof.php
+/.ssh/id_dsa 1 -
+/mod_principal/cmsimages/left1.gif 5 http://www.sapienter.org/mod_principal/decisiones_historico.php
+/mod_profesores/cmsimages/drop2.gif 7 http://sapienter.org/mod_profesores/empresa_listado_prof.php
+/mod_profesores/cmsimages/drop1.gif 7 http://sapienter.org/mod_profesores/empresa_listado_prof.php
+/mod_administrador/css/estilos.css 118 http://sapienter.org/mod_administrador/empresa_alta.php
+/mod_administrador/mensaje_error.php 2 http://www.sapienter.org/mod_administrador/empresa_alta.php
+/mod_profesores/cmsimages/right1.gif 7 http://sapienter.org/mod_profesores/empresa_listado_prof.php
+/ckupload.php 1 -
+/mod_administrador/cargar_empresas_proc.php 2 -
+/.git/config 1 -
+/ckupload/ckupload.php 1 -
+/.ssh/id_ecdsa 1 -
+/mod_administrador/cmsimages/right2.gif 64 http://sapienter.org/mod_administrador/empresa_listado.php
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/mod_principal/cmsimages/right2.gif 5 http://www.sapienter.org/mod_principal/decisiones_historico.php
+/mod_principal/cmsimages/drop1.gif 5 http://www.sapienter.org/mod_principal/decisiones_historico.php
+/mod_profesores/cmsimages/right2.gif 7 http://sapienter.org/mod_profesores/empresa_listado_prof.php
+/apple-touch-icon.png 18 -
+/.ssh/id_rsa 1 -
+/.hg/hgrc 1 -
+/mod_principal/cerrar.gif 5 http://www.sapienter.org/mod_principal/decisiones_historico.php
+/user/register 2 -
+/sftp_config.json 1 -
+/mod_principal/cmsimages/drop2.gif 5 http://www.sapienter.org/mod_principal/decisiones_historico.php
+/mod_principal/cmsimages/left2.gif 5 http://www.sapienter.org/mod_principal/decisiones_historico.php
+/mod_profesores/calendar_derecha.gif 7 http://sapienter.org/mod_profesores/empresa_listado_prof.php
+/mod_principal/calendar_derecha.gif 5 http://www.sapienter.org/mod_principal/decisiones_historico.php
+/.ssh/id_ed25519 1 -
+/mod_administrador/cmsimages/right1.gif 64 http://sapienter.org/mod_administrador/empresa_listado.php
+/apple-touch-icon-120x120-precomposed.png 6 -
+/mod_profesores/cmsimages/left2.gif 7 http://sapienter.org/mod_profesores/empresa_listado_prof.php
+/license.txt 1 http://sapienter.org/license.txt
+/mod_principal/cmsimages/right1.gif 5 http://www.sapienter.org/mod_principal/decisiones_historico.php
+/mod_profesores/mensaje_error.php 4 -
+/jscripts/java.js 76 http://sapienter.org/mod_profesores/empresa_listado_prof.php
+/.DS_Store 1 -
+/apple-touch-icon-120x120.png 6 -
+/sitemap.xml 3 -
+/mod_profesores/calendar_izquierda.gif 7 http://sapienter.org/mod_profesores/empresa_listado_prof.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 83
+190.175.57.92 228 242 892790 20180427091658
+190.175.55.231 139 151 1778893 20180425104936
+52.165.148.51 99 99 65538 20180427122534
+190.177.142.233 17 23 837749 20180428071653
+190.48.104.50 14 17 793213 20180420152546
+54.67.59.131 11 11 7282 20180430174938
+190.177.151.89 9 12 787766 20180421164522
+201.179.120.86 9 17 828754 20180419125454
+190.177.137.181 8 15 815801 20180427100014
+190.48.100.12 8 13 805571 20180424125741
+104.192.74.39 6 6 5176 20180411013844
+201.253.201.42 5 8 802412 20180426124451
+192.99.44.141 5 5 10234 20180404074259
+158.69.26.144 5 5 10234 20180406201411
+181.24.161.131 4 7 781444 20180411021731
+190.57.222.79 4 4 2648 20180419163402
+200.123.179.253 3 6 780724 20180404135544
+138.121.228.54 3 7 790902 20180425071746
+200.82.39.156 3 4 13358 20180429094841
+35.162.70.167 3 3 1986 20180430230822
+69.58.178.59 3 3 7680 20180401092956
+190.192.183.183 3 6 780724 20180404082536
+38.100.21.78 3 4 10993 20180414062832
+163.172.4.153 3 3 1986 20180427144059
+181.177.193.20 3 3 1986 20180419093403
+181.167.138.246 2 4 321525 20180422144037
+51.15.73.150 1 1 662 20180424175701
+66.249.88.28 1 1 719 20180426054434
+59.57.37.8 1 1 662 20180404181715
+69.12.66.213 1 1 1277 20180412030827
+95.181.179.218 1 1 662 20180403065538
+45.32.151.39 2 2 1324 20180416133921
+190.226.88.7 0 1 458537 
+66.102.6.36 1 1 662 20180417202158
+195.201.94.147 1 1 1277 20180409224322
+190.13.210.238 2 2 1324 20180403051946
+190.231.13.22 2 4 321525 20180404154729
+181.224.103.135 2 2 2554 20180405040316
+52.165.166.139 2 2 1324 20180428125256
+14.176.48.139 1 1 0 20180426054115
+66.102.7.224 1 2 1852 20180415092503
+190.57.194.113 2 2 1324 20180424155716
+66.249.83.78 1 1 662 20180426055805
+66.249.88.80 1 1 662 20180426054434
+66.249.85.18 0 1 318409 
+64.246.165.170 1 1 662 20180427185217
+66.240.192.138 1 1 1277 20180411120405
+137.226.113.33 1 2 1250 20180414094813
+159.203.127.111 1 1 662 20180409015924
+52.34.24.33 1 1 662 20180429230058
+66.249.85.17 1 2 1852 20180408151033
+66.102.6.32 0 2 459125 
+51.15.67.231 1 1 662 20180422194112
+206.180.165.147 1 1 662 20180420174201
+190.7.233.236 0 1 458537 
+51.15.34.194 1 1 662 20180423150751
+46.105.30.8 1 1 1277 20180406072251
+86.47.80.148 2 2 41821 20180427094922
+159.89.122.21 2 2 0 20180414004119
+222.255.147.61 2 4 321525 20180403201749
+34.213.244.222 1 1 1277 20180402235314
+178.17.11.174 1 1 6054 20180426102556
+51.15.49.134 2 2 1324 20180406175455
+89.31.140.12 1 1 1277 20180413082213
+108.248.94.33 1 3 459787 20180430163915
+181.118.252.149 2 2 1324 20180410170729
+69.146.94.247 1 3 320261 20180410140834
+89.234.68.89 2 2 41821 20180427094929
+94.23.217.30 1 1 1277 20180420210242
+23.129.64.103 1 1 662 20180429095524
+163.172.171.163 1 1 662 20180406175450
+186.136.0.10 0 1 72814 
+52.87.86.158 1 1 662 20180410162318
+34.245.35.134 1 1 662 20180402030138
+138.68.180.18 1 1 662 20180419120432
+83.54.175.78 2 4 460449 20180404055515
+66.249.83.220 0 1 318409 
+66.249.88.3 2 2 1381 20180427050001
+54.202.185.197 1 1 1277 20180406113337
+128.177.10.252 2 2 2554 20180412074351
+64.246.165.180 1 1 662 20180409162412
+93.179.68.149 1 1 662 20180428191827
+54.208.110.85 1 1 0 20180403180724
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20180401 4 4 8342 2
+20180402 3 3 2601 3
+20180403 6 8 323511 4
+20180404 17 27 2354980 7
+20180405 2 2 2554 1
+20180406 15 15 18084 7
+20180407 6 6 3972 4
+20180408 2 4 320923 2
+20180409 4 5 76692 4
+20180410 5 7 322909 4
+20180411 18 21 792531 4
+20180412 8 8 6526 5
+20180413 8 9 464448 7
+20180414 14 16 17539 10
+20180415 9 11 325557 7
+20180416 9 9 5958 8
+20180417 6 8 463097 6
+20180418 6 6 3972 6
+20180419 19 27 835374 10
+20180420 20 23 797800 7
+20180421 13 16 790414 5
+20180422 9 11 326159 8
+20180423 6 6 3972 6
+20180424 85 93 1627612 12
+20180425 79 92 1757022 7
+20180426 225 241 1651332 13
+20180427 38 47 1418610 11
+20180428 22 28 841059 5
+20180429 5 6 14682 3
+20180430 3 5 461111 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+1h+ 8
+30mn-1h 10
+0s-30s 154
+2mn-5mn 2
+5mn-15mn 1
+30s-2mn 6
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 25
+/ 204 145930 168 148
+/ingreso_certamen.php 104 479480 9 17
+/mod_administrador/menu_principal_admin.php 67 75006 0 0
+/mod_administrador/listado_ejercicios.php 40 79412 0 1
+/mod_administrador/cargar_equipos_proc.php 37 9003 1 2
+/mod_administrador/cargar_equipos_proc_2.php 33 11516 1 2
+/mod_administrador/empresa_listado.php 28 512633 0 0
+/mod_administrador/parametros_alta.php 22 39818 0 0
+/mod_principal/menu_principal.php 18 24631 0 2
+/mod_administrador/cargar_profesores_proc.php 18 3577 0 1
+/subir/example.php 13 25 0 0
+/acceso/login.php 13 13269 0 1
+/mod_principal/decisiones.php 12 31384 0 0
+/acceso/frm_cambio_clave.php 12 20120 0 0
+/mod_administrador/empresa_alta.php 11 20164 0 1
+/index.php 10 9080 1 4
+/mod_profesores/empresa_listado_prof.php 7 15319 0 0
+/mod_principal/decisiones_historico.php 5 9608 0 0
+/cpanel 3 37598 1 1
+/mod_profesores/menu_principal_prof.php 2 1994 0 0
+/lib/mensaje.php 2 2712 0 0
+/mod_principal/descargar_informe.php 2 28167 0 1
+/mod_principal/decisiones_proc.php 1 718 0 0
+/acceso/mensaje_ok.php 1 720 0 0
+/mod_administrador/listado_ejercicios_invitado.php 1 1814 0 0
+END_SIDER

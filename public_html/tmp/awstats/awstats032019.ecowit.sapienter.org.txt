@@ -1,0 +1,658 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201903 will be lost/reset.
+# Last config file used to build this data file was /home/simubari17/tmp/awstats/awstats.ecowit.sapienter.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2019                
+POS_TIME 2696                
+POS_VISITOR 16932               
+POS_DAY 21296               
+POS_DOMAIN 3464                
+POS_LOGIN 3942                
+POS_ROBOT 4097                
+POS_WORMS 4744                
+POS_EMAILSENDER 4875                
+POS_EMAILRECEIVER 5018                
+POS_SESSION 21975               
+POS_SIDER 22172               
+POS_FILETYPES 5153                
+POS_DOWNLOADS 5362                
+POS_OS 5518                
+POS_BROWSER 5799                
+POS_SCREENSIZE 6686                
+POS_UNKNOWNREFERER 6760                
+POS_UNKNOWNREFERERBROWSER 7401                
+POS_ORIGIN 7837                
+POS_SEREFERRALS 7979                
+POS_PAGEREFS 8209                
+POS_SEARCHWORDS 8490                
+POS_KEYWORDS 8665                
+POS_MISC 2360                
+POS_ERRORS 8750                
+POS_CLUSTER 3798                
+POS_SIDER_404 8856                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190401001142 13 2067 7252208337003
+FirstTime 20190301010951
+LastTime 20190331232627
+LastUpdate 20190401051446 13 0 12 0 0
+TotalVisits 143                 
+TotalUnique 110                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 115                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 3 5 5564 4 12 277732
+1 14 20 581177 18 33 3147207
+2 2 2 1814 6 12 3292
+3 7 7 8050 15 24 1437386
+4 15 22 219192 13 23 45525
+5 3 3 2721 15 22 1436344
+6 15 22 245818 18 57 1479383
+7 10 13 18464 17 49 9590
+8 20 20 30903 18 57 2869602
+9 1 3 189833 21 28 1443791
+10 7 9 198755 8 22 391271
+11 24 29 48914 31 74 1472645
+12 53 58 269141 30 144 472812
+13 2 2 3515 43 73 265317
+14 27 31 953567 16 27 1623261
+15 11 19 1078277 13 25 1435060
+16 3 3 4422 7 19 428765
+17 13 33 1901051 59 109 259081
+18 3 5 193348 13 19 195987
+19 2 2 1814 19 23 50283
+20 4 4 5329 11 22 2923982
+21 5 6 11034 9 16 46096
+22 8 8 10658 7 17 1621265
+23 10 10 16860 14 22 1434194
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 21
+ar 117 160 3172703
+us 56 59 66938
+cn 41 67 2505132
+ru 11 11 11678
+gb 7 7 14139
+fr 4 4 5329
+sk 3 3 2721
+ca 3 3 7824
+at 3 3 2721
+se 2 2 1814
+eu 2 2 3515
+ua 2 2 907
+it 2 2 5216
+zz 2 2 1814
+ch 1 1 907
+jp 1 1 907
+gr 1 1 0
+pl 1 1 2608
+au 1 3 189833
+de 1 1 2608
+lv 1 1 907
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+Baiduspider/ 100 22098626 20190330124946 0
+Sogou[\x20]web[\x20]spider/ 62 56234 20190331173259 0
+Googlebot/ 46 42815 20190330084839 0
+bingbot/ 30 24858 20190331074135 0
+bingpreview 26 2481298 20190328003311 0
+Uptimebot/ 14 0 20190324061501 0
+MJ12bot/ 6 31192 20190326205221 0
+bot[\s_+:,\.\;\/\\-] 5 13040 20190327101330 0
+(firefox/)([0-9]\.|[0-1][0]\.) 4 8731 20190320090342 0
+SafeDNSBot 1 907 20190313135820 0
+YandexBot/ 1 907 20190317124846 0
+Python\-urllib/ 1 2608 20190331130103 0
+curl 1 2608 20190317095506 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+gif 17 22338 0 0
+js 4 19902 0 0
+pdf 3 1425370 0 0
+php 112 181786 0 0
+Unknown 3 14346 0 0
+html 147 179768 0 0
+css 25 16607 0 0
+jpg 25 4140104 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/varios/guiadesimulaciondenegocios.pdf 32 0 22814709
+/varios/programadesimulaciondenegocios.pdf 16 0 661216
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 17
+macosx10 2 2
+macosx7 1 1
+linuxandroid 1 1
+Unknown 42 42
+win2003 2 1
+win10 109 83
+macosx11 7 7
+win8 1 1
+linux 7 7
+win7 93 76
+win8.1 1 1
+winxp 34 14
+ios_ipad 1 1
+macosx12 16 16
+macosx6 4 4
+winlong 1 1
+ios_iphone 14 4
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 43
+chrome45.0.2454.94 1 1
+chrome71.0.3578.80 1 1
+safari5.1 4 4
+chrome66.0.3359.117 1 1
+msie8.0 3 1
+chrome71.0.3578.98 3 3
+chrome72.0.3626.109 1 1
+msie11.0 2 2
+chrome41.0.2272.89 22 22
+chrome5.0.375.99 3 3
+netscape5.7 1 1
+msie6.0 1 1
+firefox59.0 1 1
+chrome49.0.2623.75 2 2
+chrome72.0.3626.121 134 107
+firefox47.0 7 7
+firefox42.0 1 1
+chrome34.0.1847.116 1 1
+chrome58.0.3029.110 3 3
+chrome72.0.3626.119 8 4
+chrome70.0.3538.77 1 1
+msie9.0 1 1
+chrome65.0.3325.181 1 1
+netscape5.9 3 3
+firefox34.0 1 1
+firefox56.0 1 1
+firefox43.0 1 1
+firefox65.0 1 1
+chrome61.0.3163.100 13 13
+chrome55.0.2883.75 1 1
+safari12.0 5 1
+chrome60.0.3112.101 2 2
+chrome73.0.3683.86 3 1
+chrome45.0.2454.93 4 4
+chrome62.0.3202.94 1 1
+chrome17.0.963.66 1 1
+Unknown 35 35
+firefox29.0 1 1
+safari11.0 10 4
+opera58.0.3135.79 13 5
+chrome41.0.2227.1 1 1
+mozilla 4 4
+msie7.0 32 11
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 11
+Go-http-client/1.1 20190330235000
+Scrapy/1.6.0_(_https://scrapy.org) 20190323123051
+python-requests/2.18.4 20190321115523
+Python/3.6_aiohttp/3.4.4 20190309174320
+Scrapy/1.5.1_(_https://scrapy.org) 20190327073544
+python-requests/2.21.0 20190326053802
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20190327153649
+Mozilla/5.7 20190313232254
+Mozilla/5.0_(compatible;_Dataprovider.com) 20190311142854
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20190301165925
+Mozilla/5.9'\ 20190313232257
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 7
+Scrapy/1.5.1_(_https://scrapy.org) 20190327073544
+Python/3.6_aiohttp/3.4.4 20190309174320
+python-requests/2.18.4 20190321115523
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20190327153649
+Scrapy/1.6.0_(_https://scrapy.org) 20190323123051
+Go-http-client/1.1 20190330235000
+python-requests/2.21.0 20190326053802
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 110 111
+From1 3 3
+From2 25 36
+From3 23 23
+From4 101 163
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 5
+bing 1 1
+www_google_com_ar 1 3
+sogou 10 18
+www_google_com 12 13
+www_google_com_au 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 5
+http://pizza-imperia.com 9 9
+http://hundejo.com 6 6
+http://burger-imperia.com 4 4
+http://pizza-tycoon.com 3 3
+https://sucuri.net 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+site+www.ecowit.org 10
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+site 10
+www.ecowit.org 10
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+404 559 0
+500 2 0
+302 40 6047
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 133
+/mod_principal/mensaje_error.php 1 http://www.ecowit.org/mod_principal/menu_principal.php
+/jscripts/java.js 14 http://www.ecowit.org/mod_administrador/empresa_listado.php
+/mod_principal/cmsimages/right1.gif 3 http://www.ecowit.org/mod_principal/decisiones_historico.php
+/ads.txt 1 -
+/administrator/index.php 1 https://google.com
+/data/mysql_error_trace.inc 1 http://ecowit.org/data/mysql_error_trace.inc
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/temp.php 1 -
+/dapur/apps/app_theme/libs/save_file.php 1 http://ecowit.org/index.php
+/search.php 4 -
+/bbs/forum.php 1 -
+/mod_administrador/css/estilos.css 14 http://www.ecowit.org/mod_administrador/empresa_listado.php
+/mod_principal/cmsimages/left1.gif 3 http://www.ecowit.org/mod_principal/decisiones_historico.php
+/user.php 1 -
+/mambots/editors/fckeditor/editor/filemanager/upload/php/upload.php 1 -
+/plus/search.php 1 http://ecowit.org/plus/search.php
+/dayrui/libraries/tmp-upload-images/test5310.php 1 -
+/celive/live/header.php 1 http://ecowit.org/celive/live/header.php
+/old/wp-content/themes/AdvanceImage5/functions.php 1 -
+/install.php 1 http://ecowit.org/install.php
+/wordpress/wp-admin/install.php 1 -
+/sitemap.xml 1 -
+/content/plugins/kl_album/kl_album_ajax_do.php 1 -
+/mod_principal/cerrar.gif 3 http://www.ecowit.org/mod_principal/decisiones_historico.php
+/robots.txt 160 -
+/Uploads/show/plawlxrpftzcf.php 1 -
+/wp-content/themes/AdvanceImage5/functions.php 2 -
+/ueditor/net/controller.ashx 2 -
+/mod_administrador/cmsimages/left1.gif 11 http://www.ecowit.org/mod_administrador/empresa_listado.php
+/mod_administrador/images/inicio_on.gif 3 http://www.ecowit.org/mod_administrador/empresa_listado.php
+/new/wp-admin/install.php 1 -
+//plug/comment/commentList.asp 1 http://ecowit.org//plug/comment/commentList.asp
+/mod_administrador/cmsimages/right1.gif 11 http://www.ecowit.org/mod_administrador/empresa_listado.php
+/wp-login.php 3 -
+/4g.php 3 -
+/uploadfile/member/0/0x0.php 1 -
+/flow.php 1 http://ecowit.org/flow.php
+/mod_administrador/menu_principal_admin.php 1 http://www.ecowit.org/
+/public/oxgnidyqe.php 1 -
+/mod_administrador/estilos_relevamiento.css 46 http://www.ecowit.org/mod_administrador/menu_principal_admin.php
+/admin_aspcms/_system/AspCms_SiteSetting.asp 1 http://ecowit.org/admin_aspcms/_system/AspCms_SiteSetting.asp
+/plus/bunkjspxt.php 1 -
+/node/1 1 -
+/connectors/system/phpthumb.php 1 -
+/phpformbuilder/plugins/jQuery-File-Upload/server/php/index.php 1 -
+/dapur/apps/app_theme/libs/bysecx.php 1 -
+/mod_principal/estilos_relevamiento.css 15 http://www.ecowit.org/mod_principal/menu_principal.php
+/type.php 1 -
+/mod_administrador/cmsimages/right2.gif 11 http://www.ecowit.org/mod_administrador/empresa_listado.php
+/plus/download.php 3 -
+/mod_principal/cmsimages/right2.gif 3 http://www.ecowit.org/mod_principal/decisiones_historico.php
+/ueditor/controller.ashx 2 -
+/assets/plugins/jquery-file-upload/server/php/index.php 1 -
+/mod_administrador/cmsimages/drop1.gif 11 http://www.ecowit.org/mod_administrador/empresa_listado.php
+/imp/test.php 8 -
+/wp-admin/admin-ajax.php 2 -
+/search/index.php 1 http://ecowit.org/search/index.php
+/epvcq.php 2 -
+/e/master/login.aspx 2 -
+/plus/mytag_js.php 1 http://ecowit.org/plus/mytag_js.php
+/mod_principal/mensaje_ok.php 1 http://www.ecowit.org/
+/mod_principal/cmsimages/drop1.gif 3 http://www.ecowit.org/mod_principal/decisiones_historico.php
+/phpmyadmin/index.php 1 https://google.com
+/mambots/editors/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/plus/ad_js.php 2 -
+/news_search.asp 1 http://ecowit.org/news_search.asp
+/plus/read.php 1 -
+/%28%23_memberAccess%3d@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS%29%3f(%23wr%3d%23context%5b%23parameters.obj%5b0%5d%5d.getWriter(),%23wr.println(%23parameters.content%5B0%5D),%23wr.flush(),%23wr.close()):xx.toString.json 1 http://ecowit.org/%28%23_memberAccess%3d@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS%29%3f(%23wr%3d%23context%5b%23parameters.obj%5b0%5d%5d.getWriter(),%23wr.println(%23parameters.content[0]),%23wr.flush(),%23wr.close()):xx.toString.json
+/admin/include/common.inc.php 1 -
+/cache/langadmin_abcd.php 1 -
+/customizer.php 2 -
+/ewebeditor/php/upload.php 1 -
+/pma/index.php 1 https://google.com
+/js/mage/cookies.js 2 ecowit.org
+/mod_administrador/cmsimages/left2.gif 11 http://www.ecowit.org/mod_administrador/empresa_listado.php
+/horde/imp/test.php 8 -
+/assets/global/plugins/jquery-file-upload/server/php/index.php 1 -
+/public/epvcq.php 2 -
+/forum.php 1 -
+/acceso/css/estilos.css 1 http://www.ecowit.org/acceso/login.php
+/%23_memberAccess%3d@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS,%23wr%3d%23context%5B%23parameters.obj%5B0%5D%5D.getWriter(),%23wr.print(%23parameters.content%5B0%5D%2b602%2b53718),%23wr.close(),xx.toString.json 1 http://ecowit.org/%23_memberAccess%3d@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS,%23wr%3d%23context[%23parameters.obj[0]].getWriter(),%23wr.print(%23parameters.content[0]%2b602%2b53718),%23wr.close(),xx.toString.json
+/wp/wp-admin/install.php 7 -
+/public/index.php 2 -
+/incs/fckeditor/editor/filemanager/connectors/aspx/upload.aspx 1 http://ecowit.org/e/incs/fckeditor/editor/dialog/fck_image.html
+//wp-login.php 1 http://www.google.com.hk
+/mod_administrador/cerrar.gif 11 http://www.ecowit.org/mod_administrador/empresa_listado.php
+/wordpress/wp-content/themes/AdvanceImage5/functions.php 2 -
+/mod_principal/css/estilos.css 4 http://www.ecowit.org/mod_principal/decisiones_historico.php
+/mod_principal/calendar_izquierda.gif 3 http://www.ecowit.org/mod_principal/decisiones_historico.php
+/mod_principal/calendar_derecha.gif 3 http://www.ecowit.org/mod_principal/decisiones_historico.php
+/mod_principal/cmsimages/drop2.gif 3 http://www.ecowit.org/mod_principal/decisiones_historico.php
+/e/incs/fckeditor/editor/filemanager/connectors/aspx/upload.aspx 1 http://ecowit.org/e/incs/fckeditor/editor/dialog/fck_image.html
+/dev/wp-admin/install.php 1 -
+/404javascript.js 1 https://www.google.com/url/
+/index.html 2 -
+/404testpage4525d2fdc 1 https://sucuri.net
+/horde3/imp/test.php 10 -
+/include/dialog/select_soft_post.php 2 -
+/yxbduo.php 1 -
+/yp/product.php 2 -
+/dayrui/libraries/Chart/ofc_upload_image.php 1 -
+/news/html 2 http://ecowit.org/news/html
+/da.php 1 http://ecowit.org/install.php
+/mod_administrador/calendar_izquierda.gif 11 http://www.ecowit.org/mod_administrador/empresa_listado.php
+/wordpress/wp-content/plugins/ubh/up.php 2 -
+/plus/recommend.php 2 http://ecowit.org/plus/recommend.php
+//wp-admin/install.php 2 -
+/api/uc.php 1 http://ecowit.org/api/uc.php
+/assets/images/accesson.php 2 -
+/do/jf.php 1 -
+/wp/wp-content/themes/AdvanceImage5/functions.php 2 -
+/plug/comment/commentList.asp 1 http://ecowit.org/plug/comment/commentList.asp
+/login.action 5 http://ecowit.org/login.action
+/hook-filters.php 2 -
+/plus/moon.php 1 http://ecowit.org/plus/moon.php
+/mod_principal/cmsimages/left2.gif 3 http://www.ecowit.org/mod_principal/decisiones_historico.php
+/mod_administrador/cmsimages/drop2.gif 11 http://www.ecowit.org/mod_administrador/empresa_listado.php
+/oxgnidyqe.php 1 -
+/master/login.aspx 2 -
+/assets/jquery-file-upload/server/php/index.php 1 -
+/goodsshow.php 3 -
+/api.php 2 http://ecowit.org/api.php
+/ingreso_certamen.php 1 http://www.ecowit.org/mod_administrador/empresa_listado.php
+/'\"` 1 http://www.google.com/'\"`
+/plug/oem/AspCms_OEM.asp 1 http://ecowit.org/plug/oem/AspCms_OEM.asp
+/informacion/Comienzo%20de%20la%20Semifinal.pdf 1 http://www.ecowit.org/mod_administrador/subir_datos.php
+/category.php 1 http://ecowit.org/category.php
+/webdav/lzmay.php 1 -
+/mod_administrador/mensaje_error.php 1 http://www.ecowit.org/
+/elfinder/php/connector.minimal.php 2 -
+/uploadimg.php 1 -
+/wp-admin/setup-config.php 1 -
+/mod_administrador/calendar_derecha.gif 11 http://www.ecowit.org/mod_administrador/empresa_listado.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 115
+190.48.68.123 61 71 300254 20190319122955
+190.175.23.42 45 60 482311 20190320042824
+52.53.201.78 13 13 11791 20190329222948
+120.92.90.154 9 9 8163 20190329142855
+60.191.38.77 7 7 18256 20190331141724
+200.59.59.94 6 16 1262668 20190308152617
+190.177.149.228 4 8 204289 20190302064844
+51.38.162.236 4 4 11418 20190313232257
+142.4.218.236 3 3 7824 20190311142855
+120.92.10.210 3 3 2721 20190308010436
+120.92.90.237 2 2 1814 20190307031624
+104.244.73.126 2 2 1814 20190308143238
+193.106.30.98 2 2 907 20190331232627
+42.236.10.117 2 3 2385 20190308012612
+185.166.212.24 2 2 1814 20190327153649
+120.131.10.157 2 2 1814 20190326053802
+54.158.37.53 2 2 1814 20190308011607
+204.13.201.137 1 2 3179 20190319003232
+54.149.237.151 1 1 907 20190318013346
+23.129.64.105 1 1 907 20190308143232
+109.70.100.24 1 1 907 20190308142732
+202.46.54.21 1 1 907 20190314041130
+185.104.120.3 1 1 907 20190308143630
+106.120.188.138 1 3 189833 20190306171302
+34.221.44.185 1 1 907 20190306234825
+62.210.111.56 1 1 907 20190323171952
+54.187.71.153 1 1 907 20190325081411
+38.145.108.225 1 1 907 20190321022538
+68.183.156.61 1 1 2608 20190301165925
+123.126.68.128 1 3 189833 20190330171218
+195.3.144.185 1 1 907 20190325012354
+37.120.172.245 1 1 2608 20190318035520
+109.70.100.23 1 1 907 20190318151619
+38.145.87.70 1 1 907 20190313215726
+94.19.150.216 1 1 2608 20190305072453
+62.210.37.82 1 1 907 20190318131439
+81.88.49.9 1 1 2608 20190301224821
+42.236.10.84 0 1 188355 
+54.213.27.22 1 1 907 20190320034122
+178.32.147.150 1 1 907 20190318193123
+123.126.68.123 1 3 189833 20190326172147
+199.195.250.77 1 1 907 20190308143339
+34.213.163.30 1 1 907 20190322071940
+52.33.99.183 1 1 907 20190303223354
+85.248.227.164 1 1 907 20190308143233
+5.45.65.236 1 1 907 20190317083117
+46.235.158.196 1 1 2608 20190308062458
+190.178.100.215 1 3 189833 20190317093656
+59.56.241.218 1 1 907 20190306204232
+38.100.21.61 1 2 5705 20190320214019
+85.248.227.165 1 1 907 20190308142730
+171.25.193.77 1 1 907 20190308143921
+108.178.61.58 1 1 907 20190316214549
+202.46.51.176 1 1 907 20190314113919
+75.126.32.186 1 1 907 20190303171752
+42.236.10.114 0 1 571 
+208.110.66.34 1 1 907 20190327073544
+54.90.147.31 1 1 907 20190304085254
+195.176.3.23 1 1 907 20190308143332
+42.236.10.75 1 2 1478 20190308012917
+54.202.149.41 1 1 2608 20190319013508
+91.206.14.10 1 1 907 20190305111852
+202.46.52.176 1 1 907 20190314033810
+5.188.62.5 1 1 907 20190303035946
+178.62.82.141 1 1 907 20190317211407
+186.141.202.189 0 2 733348 
+51.15.124.39 1 1 907 20190303111004
+96.44.172.77 1 1 2608 20190329083357
+178.128.229.161 1 1 0 20190316125858
+106.120.188.131 1 3 189833 20190312172235
+109.70.100.19 1 1 907 20190308143231
+199.249.230.77 1 1 907 20190308143347
+204.13.201.140 0 1 571 
+185.220.102.6 1 1 907 20190308143239
+85.248.227.163 1 1 907 20190308143914
+202.46.58.92 1 1 907 20190313193219
+123.126.68.130 1 3 189833 20190318171409
+64.246.161.190 1 1 907 20190313161907
+54.245.76.23 1 1 907 20190302233849
+113.35.251.98 1 1 907 20190319011405
+123.125.125.77 1 3 189833 20190302172250
+54.152.74.29 1 1 907 20190301010951
+209.141.45.212 1 1 907 20190308142735
+106.120.188.163 1 3 189833 20190308173502
+106.120.188.149 1 3 189833 20190314172504
+170.130.1.122 1 1 2608 20190322204736
+36.110.147.76 1 3 189833 20190324171016
+158.46.183.210 1 1 907 20190306183153
+35.166.31.175 1 1 907 20190315015257
+185.222.202.125 1 1 907 20190308143406
+54.38.79.193 1 1 907 20190308144914
+54.71.3.160 1 1 907 20190305014114
+66.249.83.6 1 1 907 20190319051645
+54.202.115.31 1 1 907 20190311233224
+75.149.221.170 1 1 2608 20190307114557
+34.242.83.151 1 1 907 20190309174320
+34.219.168.244 1 1 907 20190301011830
+89.76.239.204 1 1 2608 20190304180911
+81.88.49.13 1 1 2608 20190301224825
+36.110.147.78 1 3 189833 20190320172256
+42.236.10.124 0 2 376710 
+66.249.83.8 1 1 907 20190321042524
+34.211.116.75 1 1 907 20190329031802
+51.15.92.212 1 1 907 20190308143401
+110.175.218.238 1 3 189833 20190324184442
+206.180.165.147 1 1 907 20190309125237
+171.25.193.20 1 1 907 20190308142728
+185.217.0.138 1 1 907 20190323123051
+34.219.202.215 1 1 907 20190330235000
+10.39.128.24 1 1 907 20190311084245
+185.220.102.7 1 1 907 20190308143629
+54.212.241.115 1 1 907 20190305224242
+173.208.219.42 1 1 907 20190316153342
+195.114.18.160 1 1 2608 20190301111854
+34.219.129.251 1 1 907 20190319000559
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20190301 6 6 12246 6
+20190302 7 13 395936 4
+20190303 4 4 3628 4
+20190304 3 3 4422 3
+20190305 8 8 10658 7
+20190306 8 10 196182 7
+20190307 2 2 3515 2
+20190308 35 53 2046376 27
+20190309 5 5 4535 5
+20190311 6 6 10545 4
+20190312 1 3 189833 1
+20190313 8 10 748394 5
+20190314 4 6 192554 4
+20190315 1 1 907 1
+20190316 5 5 5329 5
+20190317 4 6 194255 4
+20190318 11 17 578534 9
+20190319 104 123 214607 9
+20190320 7 14 392831 5
+20190321 3 3 1814 3
+20190322 2 2 3515 2
+20190323 4 4 5329 4
+20190324 3 7 382274 3
+20190325 4 4 3628 4
+20190326 3 5 191647 3
+20190327 4 4 3628 3
+20190329 5 5 6236 4
+20190330 3 5 193348 3
+20190331 2 2 3515 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+15mn-30mn 1
+0s-30s 137
+5mn-15mn 1
+30s-2mn 1
+30mn-1h 2
+1h+ 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 20
+/ 145 175628 128 124
+/mod_administrador/menu_principal_admin.php 25 21317 1 1
+/mod_administrador/subir_datos.php 22 47674 0 1
+/index.php 17 15419 11 12
+/mod_principal/menu_principal.php 12 18420 1 1
+/mod_administrador/empresa_listado.php 7 22959 0 0
+/acceso/login.php 7 4874 0 0
+/mod_administrador/listado_ejercicios.php 5 9594 0 0
+/mod_principal/decisiones_proc.php 4 2048 0 0
+/mod_principal/decisiones.php 4 10532 0 0
+/mod_principal/decisiones_historico.php 3 7158 0 1
+/mod_principal/subir_ejercicio_7.php 2 3808 0 0
+/mod_administrador/reset_equipos_profesores.php 2 1430 0 0
+/accesoaempresas.html 1 2280 0 0
+/cpanel 1 12532 0 0
+/index.php/Home/AppUpload/commentUpload 1 907 1 1
+/mod_principal/descargar_resultados.php 1 15841 0 0
+/index.php/Index/index/name/$%7B@eval($_POST%5Bqazw%5D)%7D 1 907 1 1
+/mod_administrador/reset_decisiones.php 1 712 0 0
+/enlacesrelacionados.html 1 1860 0 1
+END_SIDER

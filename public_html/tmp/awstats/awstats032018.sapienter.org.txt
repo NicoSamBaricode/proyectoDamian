@@ -1,0 +1,564 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201803 will be lost/reset.
+# Last config file used to build this data file was /home/simubari17/tmp/awstats/awstats.sapienter.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2690                
+POS_VISITOR 12373               
+POS_DAY 14755               
+POS_DOMAIN 3454                
+POS_LOGIN 3912                
+POS_ROBOT 4067                
+POS_WORMS 4475                
+POS_EMAILSENDER 4606                
+POS_EMAILRECEIVER 4749                
+POS_SESSION 15486               
+POS_SIDER 15683               
+POS_FILETYPES 4884                
+POS_DOWNLOADS 5021                
+POS_OS 5113                
+POS_BROWSER 5365                
+POS_SCREENSIZE 6048                
+POS_UNKNOWNREFERER 6122                
+POS_UNKNOWNREFERERBROWSER 6660                
+POS_ORIGIN 7068                
+POS_SEREFERRALS 7206                
+POS_PAGEREFS 7363                
+POS_SEARCHWORDS 7566                
+POS_KEYWORDS 7718                
+POS_MISC 2354                
+POS_ERRORS 7777                
+POS_CLUSTER 3768                
+POS_SIDER_404 7881                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180401012001 34 6133 10126205704911
+FirstTime 20180301041436
+LastTime 20180331205016
+LastUpdate 20180401050611 34 0 33 0 0
+TotalVisits 220                 
+TotalUnique 56                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 62                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 7 7 4634 9 21 91619
+1 7 7 5249 8 20 472690
+2 7 7 5864 10 23 443432
+3 9 10 7776 7 16 17194
+4 7 7 6466 8 17 789616
+5 5 5 3310 4 11 648041
+6 13 19 1325083 17 36 948616
+7 15 17 470900 12 25 891951
+8 21 26 1256065 31 58 603624
+9 9 11 466889 7 18 333948
+10 7 7 5864 19 35 32726
+11 17 22 1249685 19 46 912671
+12 11 13 472716 15 32 345009
+13 18 18 22530 113 126 191054
+14 12 15 787297 23 62 1753262
+15 10 10 8439 7 33 96855
+16 13 13 11040 10 44 1278199
+17 7 7 3972 22 44 1414469
+18 11 11 8512 8 16 203345
+19 15 19 799520 26 41 1058335
+20 8 10 152756 12 21 345527
+21 10 10 7850 8 18 20736
+22 13 13 9836 9 17 472667
+23 11 15 787838 28 44 157987
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 19
+us 188 193 382696
+ar 29 45 4056072
+fr 6 6 5189
+ca 6 6 11511
+nl 5 5 3310
+br 4 7 781386
+hk 3 3 3831
+ua 3 3 3216
+cz 3 7 781312
+es 2 6 919574
+ru 2 2 0
+by 2 2 2554
+ch 2 2 1324
+de 2 2 1939
+gb 2 2 1324
+fi 1 3 459787
+cn 1 3 463127
+cl 1 1 1277
+mu 1 1 662
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+bot[\s_+:,\.\;\/\\-] 154 7199626 20180331192104 0
+googlebot 136 109485 20180331062013 0
+spider 48 415508 20180331080029 0
+bingpreview 22 4929322 20180330015851 0
+no_user_agent 4 3263 20180314074423 0
+netcraft 1 1277 20180304165026 0
+googlebot\-image 1 318409 20180317093231 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+html 228 180362 0 0
+css 15 14270 0 0
+php 35 54119 0 0
+jpg 21 7631340 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/ejersicios/Decisiones_Ej._2.xls 8 0 766888
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 15
+Unknown 24 21
+ios_iphone 6 4
+win8.1 1 1
+win2003 4 3
+win16 2 2
+winnt 90 75
+linux 5 5
+linuxandroid 4 2
+macosx8 2 2
+win7 54 45
+macosx 90 88
+winxp 10 10
+winlong 2 2
+win8 3 2
+linuxubuntu 2 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 33
+chrome62.0.3202.94 72 72
+safari11.0.1 25 25
+chrome61.0.3163.100 51 51
+chrome31.0.1650.57 1 1
+safari9.1.2 4 2
+msie11.0 1 1
+chrome58.0.3029.110 1 1
+firefox7.0.1 3 3
+chrome34.0.1847.137 1 1
+chrome44.0.2403.89 3 3
+Unknown 15 12
+chrome65.0.3325.146 1 1
+mozilla 13 13
+firefox26.0 4 4
+chrome26.0.1410.65 2 2
+chrome65.0.3325.181 10 5
+msie10.0 1 1
+netscape 3 3
+chrome63.0.3239.84 2 1
+chrome45.0.2454.94 1 1
+chrome65.0.3325.109 3 1
+chrome64.0.3282.186 24 12
+chrome19.0.1055.1 1 1
+firefox32.0 7 7
+firefox58.0 20 13
+firefox34.0 1 1
+wap 1 1
+msie7.0 5 3
+safari8.0 3 1
+firefox57.0 14 14
+chrome41.0.2228.0 1 1
+chrome34.0.1847.116 2 2
+safari9.0 3 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 9
+Mozilla/5.0_(compatible;_Dataprovider.com;) 20180307131054
+\ 20180307140316
+Mozilla_5.0 20180321113118
+panscient.com 20180320200123
+facebookexternalhit/1.1 20180315061713
+Mozilla/5.0_(compatible;_Wappalyzer) 20180303190824
+NYU_Internet_Census_(https://scan.lol;_research@scan.lol) 20180328110903
+Mozilla/5.0_(compatible;_ips-agent) 20180306120456
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20180317000425
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+Mail/3273_CFNetwork/811.8_Darwin/16.7.0_(x86_64) 20180329000804
+NYU_Internet_Census_(https://scan.lol;_research@scan.lol) 20180328110903
+facebookexternalhit/1.1 20180315061713
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20180317000425
+\ 20180307140316
+panscient.com 20180320200123
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 233 238
+From1 1 1
+From2 10 10
+From3 2 2
+From4 17 48
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 10 10
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://sapienter.ip-zone.com/newslink/32526/1.html 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+302 13 15275
+404 402 531408
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 146
+/wordpress/wp-login.php 1 -
+/admin_area/ 1 -
+/lib/Fck/_whatsnew.html 1 -
+/webmaster/ 1 -
+/adm/ 1 -
+/HTMLEditor/ 1 -
+/includes/Fck/_whatsnew.html 1 -
+/wp/wp-admin/admin-ajax.php 1 -
+/scripts/ajax/ 1 -
+/blog/wp-login.php 1 -
+/ckeditor/_whatsnew.html 1 -
+/FCK/editor/dialog/fck_about.html 1 -
+/lib/pdf/mensaje_ok.php 3 -
+/wp-content/plugins/dzs-videogallery/class_parts/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/.ssh/id_rsa 2 -
+/admin_manage_access/ 1 -
+/lib/fck/editor/dialog/fck_about.html 1 -
+/lib/ckeditor/editor/dialog/fck_about.html 1 -
+/lib/FCKeditor/editor/dialog/fck_about.html 1 -
+/lib/fckedit/_whatsnew.html 1 -
+/lib/fck/_whatsnew.html 1 -
+/includes/fckedit/_whatsnew.html 1 -
+/fck2/editor/dialog/fck_about.html 1 -
+/lib/fckeditor/editor/dialog/fck_about.html 1 -
+/moderator/ 1 -
+/lib/editor/dialog/fck_about.html 1 -
+/administrator/ 1 -
+/includes/FCKeditor/_whatsnew.html 1 -
+/includes/fck2/_whatsnew.html 1 -
+/fckedit/_whatsnew.html 1 -
+/RPC2 1 -
+/editor/dialog/fck_about.html 1 -
+/lib/FCKEditorV2/editor/dialog/fck_about.html 1 -
+/Fck/editor/dialog/fck_about.html 1 -
+/log.php 1 -
+/javascripts/ajax/ 1 -
+/Fck/_whatsnew.html 1 -
+/includes/ 1 -
+/includes/fck/editor/dialog/fck_about.html 1 -
+/CFIDE/scripts/ajax/ 1 -
+/wp-admin/admin-ajax.php 1 -
+/includes/FCKEditorV2/_whatsnew.html 1 -
+/wp-content/plugins/cherry-plugin/admin/css/cherry-admin-plugin.css 2 -
+/blog/wp-admin/install.php 1 -
+/acceso/css/estilos.css 6 -
+/lib/fckeditor/_whatsnew.html 1 -
+/js/ 1 -
+/.svn/wc.db 2 -
+/Admin/ 1 -
+/sftp_config.json 2 -
+/wp-config.php~ 1 -
+/lib/ 1 -
+/lib/fckedit/editor/dialog/fck_about.html 1 -
+/lib/ckeditor/_whatsnew.html 1 -
+/FCKeditor/_whatsnew.html 1 -
+/lib/FCKeditor/_whatsnew.html 1 -
+/blog/wp-admin/admin-ajax.php 1 -
+/wp-admin/install.php 1 -
+/includes/editor/ 1 -
+/ckeditor/editor/dialog/fck_about.html 1 -
+/admin 2 -
+/admin_manage/ 1 -
+/wp-login.php 3 https://google.com
+/includes/FCK/_whatsnew.html 1 -
+/includes/ckeditor/_whatsnew.html 1 -
+/newsadmin/ 1 -
+/js/ajax/ 1 -
+/control/ 1 -
+/fileadmin/ 1 -
+/wordpress/wp-admin/admin-ajax.php 1 -
+/license.php 2 -
+/fck2/_whatsnew.html 1 -
+/js/lib/ 1 -
+/admin/ 1 -
+/webadmin/ 1 -
+/FCKeditor/editor/dialog/fck_about.html 1 -
+/uploads/ 1 -
+/.git/config 2 -
+/sysadmin/ 1 -
+/scripts/ 1 -
+/FCKEditorV2/_whatsnew.html 1 -
+/includes/fck/_whatsnew.html 1 -
+/includes/ckeditor/editor/dialog/fck_about.html 1 -
+/lib/Fck/editor/dialog/fck_about.html 1 -
+/fck/editor/dialog/fck_about.html 1 -
+/FCK/_whatsnew.html 1 -
+/includes/fck2/editor/dialog/fck_about.html 1 -
+/components/com_b2jcontact/css/b2jcontact.css 6 -
+/sysadm/ 1 -
+/fck/_whatsnew.html 1 -
+/.hg/hgrc 2 -
+/.ssh/id_dsa 2 -
+/lib/fck2/editor/dialog/fck_about.html 1 -
+/manager/ 1 -
+/includes/FCK/editor/dialog/fck_about.html 1 -
+/AdminWeb/ 1 -
+/inc/editor/ 1 -
+/fckedit/editor/dialog/fck_about.html 1 -
+/.ssh/id_ecdsa 2 -
+/includes/Fck/editor/dialog/fck_about.html 1 -
+/includes/FCKeditor/editor/dialog/fck_about.html 1 -
+/includes/_whatsnew.html 1 -
+/processlogin/ 1 -
+/common/ 1 -
+/wp-config.php.bak 1 -
+/html/js/ 1 -
+/includes/fckedit/editor/dialog/fck_about.html 1 -
+/wp/wp-login.php 1 -
+/fckeditor/_whatsnew.html 1 -
+/checkadmin/ 1 -
+/upload.php 1 -
+/.DS_Store 2 -
+/blog/ 1 http://sapienter.org/blog/
+/includes/FCKEditorV2/editor/dialog/fck_about.html 1 -
+/.ssh/id_ed25519 2 -
+/readme.html 1 http://sapienter.org/readme.html
+/lib/FCK/editor/dialog/fck_about.html 1 -
+/apple-touch-icon.png 21 -
+/_whatsnew.html 1 -
+/apple-touch-icon-precomposed.png 21 -
+/system/ 1 -
+/ads.txt 1 -
+/lib/FCKEditorV2/_whatsnew.html 1 -
+/Editor/ 1 -
+/sitemap.xml 2 -
+/fckeditor/editor/dialog/fck_about.html 1 -
+/FCKEditorV2/editor/dialog/fck_about.html 1 -
+/.wp-config.php.swp 1 -
+/wordpress/wp-admin/install.php 1 -
+/admin888/ 1 -
+/lib/FCK/_whatsnew.html 1 -
+/lib/fck2/_whatsnew.html 1 -
+/javascripts/ 1 -
+/manage/ 1 -
+/includes/fckeditor/_whatsnew.html 1 -
+/.well-known/security.txt 1 -
+/includes/editor/dialog/fck_about.html 1 -
+/includes/fckeditor/editor/dialog/fck_about.html 1 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 4 -
+/.idea/WebServers.xml 2 -
+/lib/_whatsnew.html 1 -
+/user/register 1 -
+/wp/wp-admin/install.php 1 -
+/index.html 1 -
+/robots.txt 186 -
+/inc/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 62
+52.165.148.51 139 139 101858 20180331195045
+54.67.59.131 11 11 7282 20180329184532
+181.170.217.55 10 13 788428 20180304081314
+168.197.47.7 6 6 7584 20180307140316
+52.165.150.117 6 6 7662 20180302133357
+52.165.166.139 5 5 6385 20180302225341
+158.69.127.133 5 5 10234 20180307131055
+131.0.96.130 4 7 781386 20180331111856
+69.58.178.57 3 3 7680 20180306120456
+38.100.21.63 3 4 10993 20180313193024
+103.255.254.135 3 3 3831 20180331205016
+190.138.27.207 3 6 780724 20180318195242
+89.24.54.202 3 7 781312 20180304235559
+186.125.129.157 3 3 3792 20180312093910
+100.35.47.77 3 3 2588 20180320200123
+201.235.76.249 3 6 780724 20180307062200
+185.35.138.187 3 3 1986 20180321113118
+190.31.20.53 2 2 1324 20180325110144
+46.101.80.192 2 2 1324 20180315053659
+81.30.80.127 2 2 2554 20180318033819
+190.13.210.238 2 4 460449 20180328074520
+51.15.76.142 2 2 1324 20180323223558
+80.219.227.206 2 2 1324 20180329000804
+5.188.9.80 2 2 0 20180328110903
+181.118.243.233 2 2 1324 20180315140619
+5.9.158.75 1 1 662 20180323223556
+188.165.244.171 1 1 1277 20180316064916
+80.58.250.87 1 3 459787 20180307084533
+67.225.176.158 1 1 1277 20180302134354
+201.216.197.39 0 1 318409 
+154.16.127.15 1 1 662 20180305074909
+69.171.225.135 0 1 72814 
+220.181.108.169 0 1 3313 
+194.44.247.218 1 1 1277 20180322162143
+91.200.12.67 1 1 1277 20180322133013
+123.125.71.50 1 1 1277 20180325062814
+212.83.163.211 1 1 1264 20180304040358
+45.33.169.95 1 2 1250 20180310032933
+96.127.158.234 1 1 662 20180315144603
+190.114.255.36 1 1 1277 20180312133725
+34.217.61.82 1 1 1277 20180321213941
+178.33.54.161 1 1 662 20180310201845
+176.83.13.157 1 3 459787 20180311113441
+173.252.95.23 0 1 72814 
+138.121.106.1 1 3 459787 20180310145457
+220.181.108.167 0 1 458537 
+91.210.146.58 1 1 662 20180330160013
+186.58.73.95 1 3 459787 20180329125322
+35.166.222.242 1 1 1277 20180330072450
+84.248.66.72 1 3 459787 20180308094214
+181.118.243.144 2 2 1324 20180320133814
+52.90.227.228 1 1 1277 20180319061259
+173.252.92.68 0 1 72814 
+94.23.83.80 2 2 1324 20180320220226
+45.33.174.211 1 1 1277 20180303190824
+45.63.115.240 2 2 1324 20180317000425
+71.6.165.200 1 1 1277 20180312230614
+167.114.210.122 1 1 1277 20180310124123
+31.220.45.40 1 1 1277 20180320074714
+192.187.101.178 1 1 662 20180306084129
+34.209.128.56 1 1 662 20180301084133
+94.23.75.60 1 1 662 20180305134216
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20180301 7 8 326118 7
+20180302 7 7 8939 7
+20180303 5 5 6385 5
+20180304 21 28 1578713 10
+20180305 12 12 14042 10
+20180306 7 7 10943 5
+20180307 18 23 1257907 11
+20180308 6 8 463097 6
+20180309 6 6 3972 6
+20180310 9 12 466286 9
+20180311 6 8 463097 6
+20180312 13 15 157885 11
+20180313 7 8 13641 5
+20180314 7 7 4634 7
+20180315 11 12 80096 10
+20180316 7 7 5249 6
+20180317 7 7 4634 6
+20180318 13 16 789189 11
+20180319 6 6 4587 6
+20180320 12 12 9161 9
+20180321 8 8 5911 8
+20180322 8 8 6526 8
+20180323 8 8 5296 7
+20180324 8 8 5296 8
+20180325 8 10 467099 7
+20180326 7 7 4634 7
+20180327 4 4 2648 4
+20180328 9 11 464421 8
+20180329 6 8 463097 5
+20180330 2 2 1939 2
+20180331 8 11 784649 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+30mn-1h 1
+1h+ 1
+30s-2mn 5
+15mn-30mn 1
+0s-30s 211
+5mn-15mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 4
+/ 228 180362 214 207
+/ingreso_certamen.php 28 46978 5 9
+/index.php 5 5155 1 3
+/acceso/login.php 2 1986 0 1
+END_SIDER

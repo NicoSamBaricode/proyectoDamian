@@ -1,0 +1,1138 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202010 will be lost/reset.
+# Last config file used to build this data file was /home/simubari17/tmp/awstats/awstats.sapienter.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2695                
+POS_VISITOR 26654               
+POS_DAY 43446               
+POS_DOMAIN 3632                
+POS_LOGIN 4204                
+POS_ROBOT 4359                
+POS_WORMS 5155                
+POS_EMAILSENDER 5286                
+POS_EMAILRECEIVER 5429                
+POS_SESSION 44258               
+POS_SIDER 44474               
+POS_FILETYPES 5564                
+POS_DOWNLOADS 5773                
+POS_OS 6435                
+POS_BROWSER 6756                
+POS_SCREENSIZE 8579                
+POS_UNKNOWNREFERER 8653                
+POS_UNKNOWNREFERERBROWSER 9127                
+POS_ORIGIN 9404                
+POS_SEREFERRALS 9555                
+POS_PAGEREFS 9807                
+POS_SEARCHWORDS 14969               
+POS_KEYWORDS 15146               
+POS_MISC 2359                
+POS_ERRORS 15232               
+POS_CLUSTER 4060                
+POS_SIDER_404 15360               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20201027034426 369 103354 11363490512471
+FirstTime 20201001025118
+LastTime 20201027034426
+LastUpdate 20201027051642 369 0 369 0 0
+TotalVisits 931                 
+TotalUnique 400                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 403                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 3 3 1986 22 35 134746
+1 1 2 1250 16 23 272749
+2 101 140 8256401 56 324 253139
+3 92 122 5322923 77 310 589090
+4 384 576 37493427 105 669 2766119
+5 516 790 63754480 164 750 5078982
+6 830 1262 86976203 244 1619 2796507
+7 477 736 55940435 165 838 829068
+8 520 724 42483702 171 896 2339850
+9 351 548 41077436 120 592 3459832
+10 351 600 46643987 117 548 493270
+11 441 683 49188069 175 744 5330541
+12 346 558 40299815 113 503 2726845
+13 463 721 49674272 115 905 2017157
+14 561 853 47032575 226 1452 2170188
+15 440 708 52312060 119 993 1497871
+16 406 650 41605442 151 1115 3893505
+17 547 798 42762892 178 1538 2773018
+18 513 748 37600616 165 1784 4530635
+19 581 774 30087037 199 2005 3633825
+20 194 238 10133357 56 548 1062896
+21 57 75 3654767 26 234 184125
+22 48 77 5052272 22 125 680192
+23 6 13 699997 46 68 53831
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 26
+ar 7630 11387 712445817
+in 267 457 27213895
+us 140 255 33958532
+pa 79 126 9149092
+nz 58 92 6663792
+gb 9 21 4214700
+cn 7 8 5222
+ru 5 5 3310
+tr 4 4 5108
+ua 4 4 3216
+ca 4 4 3263
+co 2 4 707182
+sc 2 2 1324
+cl 2 2 1324
+fr 2 4 706567
+it 2 3 2527
+es 2 6 1411810
+mx 2 5 707155
+bg 1 1 662
+br 1 1 662
+dk 1 1 1277
+za 1 3 705905
+zz 1 1 662
+nl 1 1 662
+de 1 1 662
+ir 1 1 662
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 17
+Googlebot/ 146 182194 20201026200957 0
+bingbot/ 71 1703794 20201026140425 0
+AhrefsBot/ 30 21090 20201026225032 0
+Sogou[\x20]web[\x20]spider/ 26 17212 20201027033116 0
+crawl 8 6526 20201001124230 0
+SemrushBot/ 8 8039 20201026222744 0
+bingpreview 6 25524 20201025143919 0
+Baiduspider/ 5 3310 20201020143451 0
+bot[\s_+:,\.\;\/\\-] 5 5770 20201014191721 0
+YandexBot/ 5 3310 20201014190258 0
+MegaIndex\.ru/ 3 2601 20201007223623 0
+DotBot/ 3 7749 20201010214455 0
+scanner 1 662 20201009143509 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 662 20201022000735 0
+DuckDuckGo\-Favicons\-Bot/ 1 662 20201020093255 0
+curl 1 662 20201010203141 0
+facebookexternalhit/ 1 0 20201008003057 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+pdf 151 41079027 0 0
+js 420 1680658 0 0
+css 686 403368 0 0
+gif 1862 2886610 0 0
+html 935 613443 0 0
+jpg 1051 722014701 0 0
+php 7294 29237183 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 11
+/informacion/G.%20de%20la%20semifinal.pdf 50 1 6841811
+/informacion/ZONAS%20SEMIFINAL.pdf 17 0 964104
+/informacion/email-Comienzo%20de%20la%20semifinal.pdf 16 0 6009741
+/informacion/e-mail%20de%20Resultados%20Segunda%20Ronda.pdf 16 0 1148208
+/informacion/e%20mail%20Resultados%202.pdf 13 0 7613538
+/informacion/G.%20del%20Participante%202020.pdf 12 0 3065592
+/informacion/e%20mail%20Resultados%204.pdf 12 0 7249752
+/informacion/e%20mail%20Resultados%205.pdf 8 0 3905361
+/informacion/e%20mail%20Resultados%203.pdf 7 0 4280920
+/ejersicios/Decisiones_Ej._4.xls 1 0 301892
+/ejersicios/Decisiones_Ej._5.xls 1 0 301883
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 18
+linux 56 46
+macosx12 4 4
+linuxandroid 2358 1516
+winlong 1 0
+win8 96 50
+win10 5885 3916
+ios_iphone 1002 562
+win8.1 213 144
+win7 1938 1366
+macosx9 1 1
+macosx8 1 1
+macosx 387 244
+winxp 370 313
+winunknown 25 25
+macosx10 1 1
+unix 44 26
+winnt 2 0
+Unknown 16 14
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 81
+firefox81.0 23 13
+chrome58.0.3029.110 4 4
+chrome71.0.3578.98 1 1
+safari13.0.4 18 12
+safari12.1 4 2
+chrome84.0.4147.105 17 9
+chrome26.0.1410.65 1 1
+edge18 1 1
+firefox63.0 6 2
+chrome41.0.2227.1 1 1
+chrome74.0.3729.169 60 38
+chrome85.0.4183.101 6 2
+chrome75.0.3770.100 1 1
+chrome79.0.3945.88 3 1
+chrome85.0.4183.83 50 24
+chrome86.0.4240.80 135 86
+firefox57.0 2 2
+chrome45.0.2454.94 1 1
+chrome74.0.3694.0 3 1
+firefox54.0 1 1
+chrome83.0.4103.61 3 1
+msie9.0 2 0
+firefox28.0 2 2
+chrome49.0.2623.75 17 17
+opera71.0.3770.234 23 13
+safari13.1.2 150 83
+mozilla 11 9
+msie11.0 1 1
+chrome81.0.4044.138 16 10
+msie7.0 23 22
+chrome81.0.4044.129 5 5
+chrome86.0.4240.110 263 182
+chrome85.0.4183.121 3173 2052
+chrome85.0.4183.102 21 9
+chrome29.0.1547.66 9 3
+chrome66.0.3359.117 2 2
+chrome84.0.4147.135 119 42
+firefox78.0 1 1
+safari13.0.5 64 29
+opera71.0.3770.205 35 24
+chrome85.0.4183.127 788 449
+chrome83.0.4103.97 1 1
+chrome86.0.4240.114 44 25
+chrome83.0.4103.116 6 2
+chrome49.0.2623.112 358 302
+chrome86.0.4240.99 527 379
+chrome35.0.1916.47 1 1
+msie6.0 1 1
+chrome83.0.4103.106 26 13
+chrome67.0.3396.87 79 62
+safari13.1 157 79
+chrome75.0.3770.80 1 1
+chrome81.0.4044.122 13 5
+chrome70.0.3538.102 3 1
+chrome74.0.3729.157 7 4
+firefox59.0 1 1
+chrome86.0.4240.111 1642 1209
+safari12.1.2 58 36
+chrome85.0.4183.120 19 11
+edge17 7 3
+opera71.0.3770.287 18 8
+chrome67.0.3396.99 1 1
+chrome86.0.4240.75 3189 2178
+chrome79.0.3945.136 161 112
+chrome77.0.3865.120 3 1
+safari13.1.1 14 8
+safari14.0 676 407
+chrome85.0.4183.84 20 10
+safari10.0 1 1
+chrome80.0.3987.122 1 1
+chrome48.0.2564.97 1 1
+Unknown 30 30
+firefox11.0 1 0
+chrome84.0.4147.89 140 88
+chrome34.0.1847.137 1 1
+chrome5.0.375.99 8 8
+chrome73.0.3683.90 2 2
+chrome52.0.2743.116 5 5
+safari 26 19
+chrome85.0.4183.133 24 16
+chrome75.0.3770.143 61 37
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+python-requests/2.21.0 20201007203428
+TBI-HttpOpenPlugin/0.1.0_(_https://leakix.net/) 20201009143506
+Mozilla/5.0_(compatible;_Dataprovider.com) 20201012190731
+\ 20201003131204
+Go-http-client/1.1 20201023021321
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20201005210414
+Mozilla/5.0_(compatible;_Domains_Project/1.2.3;__https://domainsproject.org) 20201020144726
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+TBI-HttpOpenPlugin/0.1.0_(_https://leakix.net/) 20201009143506
+python-requests/2.21.0 20201007203428
+Go-http-client/1.1 20201023021321
+Microsoft_Office_Excel_2013 20201024140522
+\ 20201003131204
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 676 685
+From1 21 21
+From2 138 138
+From3 305 305
+From4 7089 11251
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 6
+sogou 5 5
+ar_search_yahoo_com 3 3
+www_google_com 111 111
+www_google_com_ar 16 16
+bing 1 1
+www_google_es 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 83
+http://sapienter.mailrelay-iv.com 180 180
+http://sapienter.mailrelay-iv.com/newslink/538558/4.html 6 6
+http://sapienter.mailrelay-iv.com/newslink/539074/4.html 4 4
+http://sapienter.mailrelay-iv.com/newslink/539591/4.html 4 4
+http://sapienter.mailrelay-iv.com/newslink/539082/4.html 4 4
+http://sapienter.mailrelay-iv.com 3 3
+http://sapienter.mailrelay-iv.com/newslink/539569/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/539083/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/539616/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/539755/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/539125/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/539079/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/539596/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/539563/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/539068/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/539065/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/538630/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/537822/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/539602/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/539111/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/539173/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/539072/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/538590/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/536820/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/540058/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/538583/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/539183/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/537843/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/539618/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/540239/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/539608/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/538671/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/539129/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/540083/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/532826/1.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/537856/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/539122/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/539718/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/537821/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/540169/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/539585/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/538565/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/540112/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/539148/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/539682/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/540076/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/539092/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/539090/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/539141/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/539165/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/539099/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/532390/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/539134/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/538643/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/540063/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/539114/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/539130/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/539143/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/539649/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/536815/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/539579/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/539115/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/539105/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/539648/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/539067/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/539077/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/539242/4.html 1 1
+http://www.coralbruce.top/view/31698552/profile/ 1 1
+http://sapienter.mailrelay-iv.com/newslink/539127/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/537819/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/539094/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/539607/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/539117/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/536837/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/538622/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/538575/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/539080/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/539194/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/540097/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/539088/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/539156/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/539207/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/539096/4.html 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+site+www.sapienter.org 5
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+site 5
+www.sapienter.org 5
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+206 218 34348858
+302 2051 263932
+404 14955 12965424
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 198
+/mod_administrador/cmsimages/left1.gif 33 http://sapienter.org/mod_administrador/empresa_listado.php
+/admin/fckeditor/editor/filemanager/upload/php/upload.php 2 -
+/sites/all/modules/fckeditor/fckeditor/editor/filemanager/upload/php/upload.php 4 -
+/web/ 2 -
+/sites/all/libraries/FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php 2 -
+/libraries/fckeditor/editor/filemanager/upload/php/upload.php 2 -
+/test/.env 1 -
+/mod_administrador/cmsimages/right2.gif 33 http://sapienter.org/mod_administrador/empresa_listado.php
+/fckeditor/editor/filemanager/upload/asp/upload.asp 4 -
+/FCK/editor/filemanager/browser/default/connectors/php/connector.php 2 -
+/editor/filemanager/upload/php/upload.php 2 -
+/apple-touch-icon.png 7 -
+//wp-admin/admin-ajax.php 1 -
+/main/ 2 -
+/robots.txt 169 -
+/apple-touch-icon-precomposed.png 7 -
+/administrator/help/en-GB/toc.json 1 -
+/.git/config 1 -
+/misc/ajax.js 1 -
+/js/header-rollup-554.js 1 -
+/mod_administrador/cmsimages/drop2.gif 33 http://sapienter.org/mod_administrador/empresa_listado.php
+/system/.env 1 -
+/editor/filemanager/browser/default/connectors/php/connector.php 2 -
+/admin/.env 1 -
+/adminer-4.0.1.php 1 -
+/api/.env 1 -
+/site/ 2 -
+/lib/pdf/acceso/index.php 4 -
+/wordpress/ 2 -
+/admin/includes/general.js 1 -
+/mod_administrador/calendar_derecha.gif 33 http://sapienter.org/mod_administrador/empresa_listado.php
+/mod_principal/estilos_relevamiento.css 2008 http://sapienter.org/mod_principal/decisiones.php
+/mod_profesores/calendar_derecha.gif 511 http://www.sapienter.org/mod_profesores/empresa_listado_prof.php
+/editor/filemanager/upload/aspx/upload.aspx 2 -
+/fckeditor/editor/filemanager/filemanager/upload/asp/upload.asp 2 -
+/mod_profesores/cmsimages/left1.gif 511 http://www.sapienter.org/mod_profesores/empresa_listado_prof.php
+/libraries/FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php 2 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/assets/fckeditor/editor/filemanager/connectors/asp/connector.asp 2 -
+/assets/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 2 -
+/sites/all/modules/fckeditor/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 2 -
+/laravel/.env 1 -
+//wp-content/plugins/wp-file-manager/js/fm_script.js 1 -
+/2018/ 2 -
+/cms/ 2 -
+/mambots/editors/fckeditor/editor/filemanager/upload/php/upload.php 2 -
+/sites/all/libraries/fckeditor/editor/filemanager/upload/php/upload.php 2 -
+/v2/ 2 -
+/wp2/ 2 -
+/mod_principal/cmsimages/left1.gif 531 http://sapienter.org/mod_principal/cuestionario_historico.php
+/templates/fckeditor/editor/filemanager/upload/php/upload.php 2 -
+/asset-manifest.json 1 http://sapienter.org/
+/mod_administrador/css/estilos.css 52 http://sapienter.org/mod_administrador/empresa_listado.php
+/mod_principal/calendar_izquierda.gif 529 http://sapienter.org/mod_principal/cuestionario_historico.php
+/mod_administrador/cmsimages/left2.gif 33 http://sapienter.org/mod_administrador/empresa_listado.php
+/FCK/editor/filemanager/upload/php/upload.php 2 -
+/editor/editor/filemanager/upload/php/upload.php 2 -
+/mod_profesores/calendar_izquierda.gif 511 http://www.sapienter.org/mod_profesores/empresa_listado_prof.php
+/blog/.env 1 -
+/plugins/FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php 2 -
+/mod_principal/mensaje_ok.php 148 -
+/javascripts/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 2 -
+/debug/default/view 1 -
+/old-site/ 2 -
+/mod_profesores/cmsimages/right2.gif 510 http://www.sapienter.org/mod_profesores/empresa_listado_prof.php
+/wp/ 2 -
+/fckeditor/editor/filemanager/connectors/cfm/upload.cfm 2 -
+/ads.txt 1 -
+/wp-content/plugins/wp-file-manager/readme.txt 2 -
+/apple-touch-icon-120x120.png 3 -
+/admin/FCKeditor/editor/filemanager/connectors/asp/connector.asp 2 -
+/js/FCKeditor/editor/filemanager/upload/php/upload.php 2 -
+/2019/ 2 -
+/administrator/language/en-GB/install.xml 1 -
+/mod_principal/css/estilos.css 702 http://sapienter.org/mod_principal/cuestionario_historico.php
+/assets/ckeditor/kcfinder//browse.php 1 -
+/fckeditor/editor/filemanager/upload/lasso/upload.lasso 2 -
+/tmp/ 2 -
+/administrator/fckeditor/editor/filemanager/upload/php/upload.php 2 -
+/mod_principal/cerrar.gif 530 http://sapienter.org/mod_principal/cuestionario_historico.php
+/old/ 2 -
+/includes/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 2 -
+/mod_profesores/mensaje_error.php 5 http://www.sapienter.org/mod_principal/menu_principal.php
+/FCKeditor/editor/filemanager/browser/default/connectors/aspx/connector.aspx 2 -
+/mod_principal/cmsimages/left2.gif 530 http://sapienter.org/mod_principal/cuestionario_historico.php
+/apple-touch-icon-120x120-precomposed.png 3 -
+/wp-includes/js/jquery/jquery.js 1 -
+/demo/ 2 -
+/templates/FCKeditor/editor/filemanager/upload/php/upload.php 2 -
+/includes/FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php 2 -
+/admin/kcfinder//browse.php 1 -
+/scripts/FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php 2 -
+/editor/editor/filemanager/upload/aspx/upload.aspx 2 -
+/javascript/fckeditor/editor/filemanager/upload/php/upload.php 2 -
+/libraries/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 2 -
+/mod_profesores/images/inicio_on.gif 6 http://sapienter.org/mod_profesores/empresa_listado_prof.php
+/vendor/phpunit/phpunit/LICENSE 1 -
+/FCKeditor/editor/filemanager/browser/default/connectors/asp/connector.asp 2 -
+/wp1/ 2 -
+/libraries/FCKeditor/editor/filemanager/upload/php/upload.php 2 -
+/assets/kcfinder//browse.php 1 -
+/2020/ 2 -
+/mod_principal/mensaje_error.php 65 http://sapienter.org/mod_principal/menu_principal.php
+/composer.json 1 -
+/mod_administrador/estilos_relevamiento.css 37 http://sapienter.org/mod_administrador/menu_principal_admin.php
+/temp/ 2 -
+/plugins/system/debug/debug.xml 1 -
+/plugins/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 2 -
+/install/ 2 -
+/mod_profesores/cmsimages/left2.gif 511 http://www.sapienter.org/mod_profesores/empresa_listado_prof.php
+/admin/FCKeditor/editor/filemanager/upload/php/upload.php 2 -
+/acceso/css/estilos.css 71 http://sapienter.org/acceso/login.php
+/administrator/ 1 -
+/fckeditor/editor/filemanager/upload/php/upload.php 2 -
+/dev/ 2 -
+/includes/fckeditor/editor/filemanager/upload/php/upload.php 2 -
+/scripts/fckeditor/editor/filemanager/upload/php/upload.php 2 -
+/new-site/ 2 -
+/images/editor/separator.gif 1 -
+/javascript/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 2 -
+/editor/editor/filemanager/browser/default/connectors/php/connector.php 2 -
+/scripts/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 2 -
+/public/.env 1 -
+/administrator/FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php 2 -
+/admin/FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php 2 -
+/user/register/ 1 -
+/backup/ 2 -
+/mod_principal/calendar_derecha.gif 529 http://sapienter.org/mod_principal/cuestionario_historico.php
+/administrator/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 2 -
+/admin/view/javascript/common.js 1 -
+/home/ 2 -
+/fck/editor/filemanager/browser/default/connectors/php/connector.php 2 -
+/scripts/FCKeditor/editor/filemanager/upload/php/upload.php 2 -
+/FCKeditor/editor/filemanager/upload/aspx/upload.aspx 2 -
+/mod_profesores/cmsimages/drop1.gif 511 http://www.sapienter.org/mod_profesores/empresa_listado_prof.php
+/mod_administrador/cerrar.gif 33 http://sapienter.org/mod_administrador/empresa_listado.php
+/bak/ 2 -
+/admin/FCKeditor/editor/filemanager/browser/default/connectors/asp/connector.asp 2 -
+//wp-uname.php 1 -
+/new/ 2 -
+/admin/fckeditor/editor/filemanager/upload/aspx/upload.aspx 2 -
+/kcfinder//browse.php 1 -
+/mod_administrador/cmsimages/right1.gif 33 http://sapienter.org/mod_administrador/empresa_listado.php
+/fck/editor/filemanager/upload/php/upload.php 2 -
+/administrator/FCKeditor/editor/filemanager/upload/php/upload.php 2 -
+/FCKeditor/editor/filemanager/upload/php/upload.php 2 -
+/plugins/FCKeditor/editor/filemanager/upload/php/upload.php 2 -
+/sites/.env 1 -
+/mod_principal/cmsimages/right1.gif 530 http://sapienter.org/mod_principal/cuestionario_historico.php
+/test/ 2 -
+/shop/.env 1 -
+/mod_principal/cmsimages/drop1.gif 531 http://sapienter.org/mod_principal/cuestionario_historico.php
+/mod_profesores/cmsimages/drop2.gif 511 http://www.sapienter.org/mod_profesores/empresa_listado_prof.php
+/composer.lock 1 -
+/js/fckeditor/editor/filemanager/upload/php/upload.php 2 -
+/wp-admin/admin-ajax.php 1 -
+/vendor/.env 1 -
+/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 2 -
+/js/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 2 -
+/bk/ 2 -
+/wp-content/plugins/ioptimization/IOptimize.php 2 www.google.com
+/admin/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 2 -
+/assets/fckeditor/editor/filemanager/upload/aspx/upload.aspx 2 -
+/v1/ 2 -
+/////nette.micro 2 -
+/plugins/fckeditor/editor/filemanager/upload/php/upload.php 2 -
+/sites/all/libraries/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 2 -
+/includes/FCKeditor/editor/filemanager/upload/php/upload.php 2 -
+/mod_principal/cmsimages/drop2.gif 531 http://sapienter.org/mod_principal/cuestionario_historico.php
+/ 1 -
+/fckeditor/editor/filemanager/upload/cfm/upload.cfm 2 -
+/mod_administrador/cmsimages/drop1.gif 33 http://sapienter.org/mod_administrador/empresa_listado.php
+/mod_profesores/cerrar.gif 511 http://www.sapienter.org/mod_profesores/empresa_listado_prof.php
+/.env 10 -
+/mod_administrador/calendar_izquierda.gif 33 http://sapienter.org/mod_administrador/empresa_listado.php
+/FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php 2 -
+/blog/wp-login.php 2 -
+/sites/all/libraries/FCKeditor/editor/filemanager/upload/php/upload.php 2 -
+/mod_profesores/css/estilos.css 644 http://www.sapienter.org/mod_profesores/empresa_listado_prof.php
+/wp-login.php 6 -
+/old-wp/ 2 -
+/mambots/editors/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 2 -
+/owa/auth/logon.aspx 1 -
+/fckeditor/editor/filemanager/connectors/asp/connector.asp 2 -
+/sitemap.xml 2 -
+/frontend_dev.php/$ 1 -
+/fckeditor/editor/filemanager/connectors/aspx/upload.aspx 2 -
+///vendor/phpunit/phpunit/phpunit.xsd 1 -
+/templates/admin/js/kcfinder//browse.php 1 -
+/lib/pdf/mensaje_ok.php 2 -
+/mod_profesores/cmsimages/right1.gif 511 http://www.sapienter.org/mod_profesores/empresa_listado_prof.php
+/mod_principal/cmsimages/right2.gif 530 http://sapienter.org/mod_principal/cuestionario_historico.php
+/blog/ 2 -
+/jscripts/java.js 1077 http://sapienter.org/mod_principal/cuestionario_historico.php
+/js/FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php 2 -
+/fckeditor/editor/filemanager/connectors/aspx/connector.aspx 2 -
+/fckeditor/editor/filemanager/upload/aspx/upload.aspx 2 -
+/admin/FCKeditor/editor/filemanager/upload/aspx/upload.aspx 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 403
+200.127.235.177 644 701 10677891 20201024142424
+168.227.97.142 469 550 21786051 20201025094303
+200.125.88.115 417 422 1223870 20201023194500
+190.111.239.122 249 272 4345608 20201026121327
+186.19.134.130 180 227 4849156 20201024093943
+45.175.150.10 146 278 17848553 20201024100327
+181.170.136.218 109 154 8383811 20201024052000
+170.51.80.71 107 118 1587055 20201016195352
+168.227.96.142 105 124 3850147 20201025083740
+181.16.60.60 90 147 14858700 20201024062708
+181.47.72.53 89 115 2593344 20201024083301
+186.23.60.231 88 126 7291489 20201024061136
+181.29.189.85 84 136 10537625 20201024132937
+181.28.188.70 83 155 14694461 20201024051803
+181.239.184.80 82 126 7220430 20201024070325
+186.138.142.162 82 177 16364192 20201023134302
+200.115.201.93 80 122 8529586 20201022124858
+138.121.104.38 75 132 12223975 20201023110728
+190.190.98.12 74 103 2949979 20201022084854
+190.225.59.52 71 79 1838114 20201017105101
+181.44.129.50 65 96 4386680 20201024122701
+190.19.156.47 65 111 4823424 20201024070654
+191.81.240.216 65 75 1612402 20201023152100
+181.46.66.172 64 110 8587031 20201024142857
+45.168.194.58 64 95 4241193 20201024074410
+186.19.49.14 28 58 6365154 20201023132617
+190.137.204.25 26 34 1566291 20201003102657
+190.225.59.224 11 18 2063043 20201017055233
+186.183.39.244 12 22 1418038 20201023193021
+190.173.75.183 3 3 3216 20201015140502
+190.19.157.97 47 77 5592470 20201025182028
+200.114.177.154 13 28 2813086 20201024101923
+170.51.140.2 5 8 12426 20201009170151
+191.81.202.109 56 74 2944893 20201003054712
+209.127.36.97 1 1 662 20201025100405
+186.12.84.19 10 19 1409194 20201023154918
+201.159.60.151 1 3 705905 20201025215118
+168.227.97.234 6 12 1424017 20201019061606
+190.244.73.66 11 16 1395971 20201022061200
+201.250.222.20 10 18 1453535 20201017081830
+181.1.1.108 8 14 1455571 20201024081446
+200.85.99.134 3 7 1388526 20201015151019
+152.170.40.223 7 13 1437853 20201010062327
+190.247.147.11 22 40 2845371 20201016175525
+186.183.37.167 8 8 36277 20201003124810
+201.212.232.105 1 1 662 20201024163145
+181.1.1.23 11 19 1338601 20201022155353
+186.158.247.79 4 4 5524 20201002112354
+138.121.106.189 25 50 4532660 20201011222638
+34.223.50.94 1 1 662 20201018025542
+186.141.138.177 5 7 32699 20201003062358
+186.59.146.131 3 6 1387938 20201003070103
+193.34.167.246 1 1 662 20201011173417
+40.77.188.30 1 2 1250 20201005103129
+181.169.246.205 11 18 1470700 20201019114151
+190.17.234.220 1 3 705905 20201019133518
+168.81.94.102 1 1 662 20201026024734
+170.51.180.136 4 6 12371 20201023063823
+152.170.56.235 8 14 1407174 20201008180444
+91.195.111.133 1 1 662 20201005212259
+186.183.35.247 6 12 1424082 20201008070422
+104.227.237.56 1 1 1277 20201024095027
+66.249.83.50 3 3 3216 20201018210211
+181.230.200.161 28 57 2820429 20201009060609
+78.47.243.148 1 1 662 20201016003950
+193.202.110.17 1 1 1277 20201021184603
+54.188.62.128 1 1 662 20201023021321
+191.80.163.95 22 30 70648 20201017035409
+200.81.125.6 1 2 1641 20201002174258
+66.249.83.48 3 3 3831 20201017120753
+170.51.244.134 1 3 705905 20201016184944
+190.31.160.78 27 52 4545920 20201024053046
+181.228.140.238 6 12 1424064 20201026132244
+181.46.137.32 31 56 3541470 20201022131450
+186.109.208.98 7 17 2187064 20201009161944
+123.183.224.143 0 1 588 
+200.127.9.253 31 60 7235057 20201012143241
+131.72.96.45 1 1 662 20201013183135
+190.137.205.241 26 28 166479 20201025060847
+201.253.197.95 14 31 3460040 20201023174745
+181.90.179.104 30 40 2175619 20201024060156
+66.102.8.229 4 9 2821856 20201003063522
+220.249.46.103 1 1 662 20201015094107
+190.176.243.241 6 11 1408478 20201024074015
+104.198.157.73 2 2 1324 20201015232326
+191.84.145.44 6 12 1424026 20201006083230
+24.209.64.71 1 1 662 20201001025118
+89.131.230.186 1 3 705905 20201024034312
+66.249.83.78 3 3 3831 20201004183526
+45.33.50.204 2 2 2554 20201007131154
+173.255.246.21 1 1 662 20201007182012
+45.70.222.65 55 85 5251655 20201015180118
+190.191.95.178 5 5 33765 20201017120822
+186.59.169.215 17 25 1449402 20201015154218
+152.170.33.146 19 32 1462830 20201003155706
+186.111.145.157 6 12 1424069 20201012162438
+186.0.163.176 1 3 705905 20201014194807
+191.80.154.42 19 29 749333 20201003042151
+181.105.86.66 8 20 1801226 20201001104656
+40.77.188.212 1 2 1250 20201005103129
+201.250.191.0 8 14 1426610 20201015070336
+168.227.96.230 15 19 60494 20201009081714
+186.124.32.40 41 54 1474508 20201017062116
+168.227.96.4 41 50 874280 20201023091834
+190.173.73.28 32 48 2975645 20201008140524
+117.254.57.253 1 1 662 20201026145319
+3.238.122.18 2 2 1324 20201015092704
+181.46.136.73 17 31 4082621 20201024054531
+201.159.58.153 7 16 1403701 20201009144151
+178.210.172.120 4 4 5108 20201009163349
+181.1.2.125 9 16 747707 20201008121407
+201.250.164.55 18 24 1521809 20201024045300
+186.0.173.216 3 8 2092566 20201012184844
+190.225.20.51 11 21 1431112 20201009153348
+186.111.168.206 5 8 738804 20201025113720
+186.183.2.181 39 52 2895279 20201017105239
+186.130.37.16 6 12 1423994 20201003065804
+138.121.104.21 50 66 3026654 20201024041343
+181.45.234.126 28 48 2927258 20201015055148
+190.192.181.155 2 6 1411810 20201024100539
+181.117.24.88 13 22 1410865 20201023085120
+190.19.126.203 1 1 662 20201004152550
+181.170.182.117 32 55 5746041 20201024070015
+168.81.93.139 1 1 662 20201024095027
+181.239.185.123 7 13 1437920 20201018174646
+141.164.88.190 1 1 1277 20201026024735
+66.249.85.50 0 1 679479 
+138.121.104.18 24 37 2917684 20201022191111
+181.93.122.71 8 9 44040 20201010053029
+201.253.43.97 11 11 111307 20201017081425
+168.227.96.2 31 36 846776 20201024083430
+194.44.61.241 1 1 1277 20201006053122
+200.127.61.82 31 52 4705513 20201023114812
+187.220.143.93 1 2 1250 20201026171802
+186.19.42.67 64 140 12755216 20201024074752
+209.127.253.168 1 1 662 20201016203143
+168.227.97.235 6 6 34433 20201010082025
+190.31.163.117 6 12 1424126 20201010050257
+181.46.9.22 17 31 3545910 20201017063139
+181.25.161.236 6 6 34443 20201017124744
+200.127.240.247 39 52 3476945 20201026110806
+86.178.49.124 1 1 1277 20201019101406
+181.92.96.51 1 3 705905 20201009171651
+23.129.64.180 1 1 662 20201009143506
+186.12.48.38 5 6 34369 20201003113213
+191.84.145.43 5 6 34454 20201026084823
+181.25.134.76 7 16 1403759 20201023195602
+179.62.176.21 1 3 705905 20201017042734
+186.59.235.44 17 27 1490909 20201022131452
+181.177.20.134 1 3 705905 20201015150405
+190.192.233.41 46 74 4377165 20201016142438
+181.164.166.29 35 59 3583478 20201023190852
+66.102.8.231 2 8 1412986 20201007170546
+54.190.135.253 1 1 662 20201023021229
+186.183.36.177 1 1 1277 20201023123031
+3.81.245.94 1 1 1277 20201003131204
+181.46.71.42 6 15 1402191 20201016174357
+186.183.38.69 26 40 2190968 20201003102030
+191.81.240.167 8 18 1411851 20201009140500
+186.115.136.201 1 3 705905 20201002075630
+190.137.206.230 23 41 2997036 20201008112155
+138.121.104.36 6 12 1423946 20201010091119
+181.25.165.163 10 16 1427867 20201016144621
+66.102.8.136 7 29 7762307 20201010164358
+190.190.112.69 10 16 1428843 20201003104136
+185.143.231.142 1 1 662 20201018023809
+216.145.5.42 1 1 662 20201018212708
+201.190.251.45 5 13 1404099 20201019144139
+190.136.214.182 10 18 1563410 20201024072829
+54.190.191.16 1 1 662 20201025153354
+201.190.255.90 14 24 2060882 20201023123239
+201.235.55.173 19 35 2165664 20201026132836
+36.110.147.75 1 1 662 20201019174130
+207.200.8.180 0 2 1384134 
+186.12.96.73 14 23 1412869 20201002095047
+201.250.187.140 8 14 1426586 20201003063539
+190.30.49.68 6 9 1419250 20201024101227
+191.84.158.215 14 19 1576233 20201023082541
+186.111.141.157 6 12 1424020 20201004172228
+40.77.190.16 2 3 3142 20201005030608
+181.230.201.158 27 41 2887033 20201023112503
+181.14.169.132 7 8 640817 20201017051004
+181.9.172.238 7 7 35733 20201010070916
+190.15.220.192 58 99 10205879 20201023080921
+54.245.137.130 1 3 705905 20201007194802
+199.244.88.132 1 1 662 20201012035712
+186.183.31.210 49 85 6942423 20201023193607
+45.70.222.52 1 1 327 20201015175610
+181.10.53.193 10 22 2803718 20201014095202
+186.183.2.213 12 22 1417538 20201002183452
+201.253.42.155 16 19 731853 20201009121647
+40.84.139.223 2 2 1324 20201020052249
+90.77.105.117 1 3 705905 20201014072656
+45.168.194.59 54 79 4416920 20201024064127
+191.80.174.73 39 43 84041 20201010044051
+152.170.38.84 14 17 1430893 20201017075738
+181.46.164.44 29 59 4942805 20201023113920
+186.183.33.99 23 41 2829463 20201002185325
+201.250.224.39 8 14 1426570 20201023075436
+181.88.224.92 23 45 2839310 20201003054532
+181.170.214.235 60 103 10160161 20201023083723
+190.191.92.187 59 89 8030837 20201024071243
+179.62.195.87 28 48 3518222 20201025113033
+186.141.199.56 1 1 1277 20201017070521
+201.253.41.37 10 16 1427799 20201021150557
+54.39.243.184 5 5 10303 20201012190711
+186.111.173.111 7 14 702652 20201002143631
+158.69.241.227 4 4 3263 20201027034426 20201027034424 /index.php
+138.121.104.253 58 101 7198801 20201023183132
+190.11.146.4 1 3 705905 20201015144949
+186.12.173.214 45 61 2974108 20201023125007
+200.127.86.99 9 15 1454898 20201024105307
+191.80.136.54 9 11 35472 20201022154425
+201.250.137.119 8 14 1426723 20201024085531
+186.111.173.31 10 16 1441603 20201010223309
+138.121.104.20 6 9 12591 20201016183900
+45.70.222.55 2 6 1411810 20201003055935
+201.253.42.195 13 21 1462383 20201010061317
+181.169.74.214 39 73 7235717 20201023192107
+181.238.83.46 2 4 682621 20201023082643
+181.89.255.153 11 13 89171 20201017220501
+186.141.201.62 3 12 1223713 20201001115341
+81.39.226.141 1 3 705905 20201022091841
+190.16.10.188 18 46 4214610 20201002153450
+200.122.79.89 13 19 1440766 20201017094923
+181.10.38.42 14 14 44045 20201024043810
+34.211.176.118 1 1 662 20201007203428
+186.130.49.166 6 12 1423994 20201008155949
+181.29.188.55 7 13 1410214 20201016164854
+181.46.17.158 16 25 1412946 20201015044550
+104.131.183.59 1 1 1277 20201005210414
+201.253.69.174 6 15 2029725 20201016153259
+201.213.139.68 4 7 1388658 20201017083800
+143.202.145.226 16 23 1463633 20201024085605
+190.225.34.167 24 40 2995715 20201005173855
+138.0.8.33 7 14 1411099 20201024123734
+201.250.218.168 8 14 1426610 20201010072519
+201.253.41.1 11 29 3885446 20201008073155
+66.249.83.90 1 1 662 20201005050558
+190.139.72.33 16 26 1479163 20201023163029
+191.80.182.232 19 25 49640 20201024040832
+186.182.227.146 59 116 5755078 20201026071214
+191.84.152.255 5 6 167794 20201009074823
+178.173.230.249 1 1 662 20201011055113
+104.248.159.139 1 1 662 20201025143141
+168.227.97.4 22 33 2017627 20201009181516
+181.165.141.24 14 20 1431475 20201010123719
+190.190.201.120 41 73 4274880 20201026132248
+190.173.106.87 15 20 57554 20201017093345
+66.249.83.79 3 3 1986 20201003231352
+200.114.148.120 8 14 1425927 20201010052306
+186.143.198.141 5 6 34554 20201024072652
+181.118.126.110 6 16 2233807 20201024101902
+34.70.60.68 2 2 1324 20201017142803
+181.164.116.187 51 95 6457703 20201026062655
+201.253.71.189 12 20 1926581 20201025180830
+190.188.96.108 5 11 1408271 20201003061918
+36.110.147.108 1 1 662 20201008061324
+170.246.245.121 12 21 1437477 20201023160819
+108.170.57.122 1 1 1277 20201014112136
+186.138.89.150 5 10 718704 20201021150431
+181.46.66.118 15 35 6374498 20201017162609
+186.12.96.139 6 7 35948 20201012163124
+201.190.255.9 2 4 706567 20201009173419
+190.247.106.61 47 85 7810696 20201024062932
+66.102.8.134 12 29 4242342 20201011095725
+201.190.210.211 15 25 1425467 20201023193734
+191.80.173.115 20 25 45329 20201007061540
+181.9.164.156 3 6 708459 20201017142234
+190.139.75.15 12 21 1454495 20201016173104
+66.249.83.52 1 1 1277 20201020041756
+175.44.42.218 1 1 662 20201013220453
+181.88.224.73 5 13 1404167 20201026125500
+66.102.8.138 10 26 7056698 20201012114404
+191.80.158.126 1 2 1865 20201013062412
+181.9.145.3 15 20 1488293 20201023112155
+181.46.9.78 36 52 2958279 20201024075325
+186.22.238.75 56 95 7879256 20201026151046
+190.139.74.162 6 12 1424067 20201026171204
+143.202.145.230 4 11 698776 20201023183246
+40.77.189.244 2 3 3142 20201005030611
+181.47.72.40 2 2 1324 20201011182557
+181.169.129.118 6 12 1424165 20201024070327
+200.127.32.107 14 28 1456799 20201025090306
+181.46.9.120 13 20 1430848 20201022043248
+181.46.68.200 54 82 4356473 20201022131510
+181.228.221.46 41 67 5677251 20201021060749
+181.45.214.86 9 18 736522 20201023055028
+5.45.69.166 1 1 662 20201026202951
+179.62.176.118 18 42 4737055 20201024103640
+200.91.33.68 1 3 705905 20201016155100
+190.16.11.15 14 30 2835869 20201016141022
+190.192.105.185 19 42 5106286 20201024091721
+217.200.112.175 1 2 1250 20201008013022
+181.25.147.139 11 22 1411996 20201008172804
+186.183.2.217 31 47 2884750 20201026093355
+181.169.172.206 61 88 5509091 20201017062643
+138.121.106.3 47 66 1551333 20201017081821
+181.46.71.90 10 11 96424 20201017135506
+138.121.104.40 12 24 2848048 20201017102601
+181.46.9.53 6 6 62485 20201024050723
+93.152.140.4 1 1 662 20201014064518
+181.23.77.223 6 8 725349 20201024041400
+49.7.21.181 1 1 662 20201002154938
+181.46.171.205 6 12 1424038 20201003060743
+200.91.33.4 2 6 1411810 20201016154249
+190.178.2.135 3 6 1387938 20201017041936
+186.183.36.254 43 53 1485682 20201009170732
+184.154.47.2 1 1 662 20201024112207
+51.77.246.67 1 3 705905 20201012190731
+62.210.37.82 1 1 662 20201018111404
+186.148.255.136 1 3 705905 20201011122246
+186.130.8.171 11 17 1444532 20201017060535
+186.59.255.238 5 11 1408316 20201024093117
+201.250.134.210 8 14 1426586 20201008082042
+181.25.209.240 8 14 1425928 20201010074208
+206.180.176.244 1 1 662 20201007043415
+46.17.106.109 1 1 1277 20201019151550
+96.127.158.234 1 1 662 20201020031051
+186.183.32.75 7 10 1419470 20201017082301
+181.15.96.68 1 3 705905 20201016060741
+186.0.167.66 7 16 1403663 20201002105815
+200.125.108.129 31 71 6303353 20201024122102
+116.202.129.130 1 1 662 20201020002341
+181.31.178.147 61 105 7883579 20201022145429
+201.190.255.40 43 60 3552077 20201002152050
+191.81.227.168 37 56 3095531 20201002190725
+191.101.89.135 1 1 662 20201013003410
+190.94.160.197 1 3 705905 20201016071547
+170.51.168.151 5 5 33800 20201004174533
+191.96.252.217 1 1 662 20201003025217
+170.51.84.52 1 3 705905 20201014162049
+66.249.83.88 1 1 662 20201005204820
+24.232.126.18 28 50 2756240 20201016122200
+181.165.56.166 15 34 2843013 20201009140404
+191.80.128.48 4 4 10859 20201001044032
+190.173.123.113 5 11 1410085 20201015140444
+40.115.104.58 1 3 705905 20201006104605
+191.81.201.113 5 7 717458 20201009085905
+190.192.176.62 62 79 5101740 20201024054923
+190.97.0.9 1 2 1641 20201021060538
+181.25.146.195 14 15 44922 20201004135925
+45.167.124.10 1 3 705905 20201026090620
+201.250.146.105 8 14 1426570 20201017061422
+186.111.139.27 8 14 1413633 20201024074333
+186.183.38.124 23 41 2828903 20201002144654
+186.141.137.83 5 10 692273 20201023184902
+186.141.133.94 5 11 1394883 20201001143532
+186.138.182.175 6 12 1424060 20201010074326
+186.141.197.80 1 1 13961 20201010091828
+185.191.204.6 1 1 662 20201003150956
+200.117.199.211 18 28 1444023 20201017034714
+170.51.244.5 1 3 705905 20201016062139
+181.199.154.6 1 3 705905 20201015053524
+181.229.172.81 3 6 1387938 20201015045656
+181.45.235.152 9 17 700760 20201001061739
+181.15.96.134 1 3 705905 20201015152508
+200.127.14.108 6 12 1424019 20201003105003
+66.102.8.233 3 10 2118303 20201008082021
+191.81.194.95 5 11 1408282 20201009090714
+190.19.125.48 26 52 5995783 20201017064033
+186.111.145.138 3 6 709047 20201010060215
+181.170.249.251 30 71 5735944 20201023150759
+66.249.83.77 2 2 1324 20201024192313
+190.136.97.158 15 27 1595013 20201017040259
+170.51.140.152 6 15 1402179 20201009182708
+186.143.198.108 11 17 1441696 20201003065701
+36.110.147.102 1 1 662 20201025211559
+191.81.197.61 6 12 1397335 20201016185659
+187.194.154.20 1 3 705905 20201001204101
+168.90.8.4 1 3 705905 20201015043844
+190.7.16.129 22 37 3520359 20201024220949
+181.228.180.137 47 71 8574005 20201025170017
+104.41.228.253 1 1 662 20201006104522
+181.14.133.198 12 19 1443932 20201017090318
+168.227.96.227 11 17 1441666 20201003180517
+190.173.88.64 24 47 2888064 20201010044855
+51.161.119.229 6 16 3506241 20201024022203
+138.121.104.7 25 30 88147 20201023144758
+181.23.72.31 6 6 32633 20201017060144
+107.174.241.135 1 1 1277 20201021132224
+82.193.104.168 3 3 1939 20201020144726
+190.188.211.118 33 67 7088419 20201021082004
+186.111.169.216 6 12 1424063 20201010061530
+190.122.64.5 1 3 705905 20201016161240
+181.14.170.144 25 38 2419710 20201001200216
+44.229.34.9 1 1 662 20201002064839
+201.250.238.96 11 19 1469275 20201003073151
+200.117.196.222 15 25 2139213 20201008113438
+186.0.173.154 8 17 1406349 20201016172956
+5.188.62.25 1 1 662 20201010032608
+200.127.61.218 26 38 2833143 20201023101542
+181.170.15.167 1 3 705905 20201001134905
+181.228.234.11 13 25 2848280 20201017125642
+139.155.54.119 1 1 662 20201014032840
+84.17.58.3 1 1 1277 20201002032629
+181.88.225.167 6 6 34465 20201010055951
+200.69.105.194 1 1 1277 20201009173810
+200.63.120.69 2 4 682621 20201009140248
+181.9.179.226 18 27 1431326 20201023172341
+143.202.145.227 6 14 1405427 20201002192758
+186.111.130.217 7 16 1403738 20201023143232
+154.30.164.145 1 1 662 20201019132627
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 27
+20201001 292 537 42235531 42
+20201002 906 1417 78824508 71
+20201003 511 794 59081910 63
+20201004 118 173 14565333 15
+20201005 63 101 7312881 15
+20201006 16 32 4261794 6
+20201007 102 181 13822290 18
+20201008 389 657 47616224 40
+20201009 839 1223 60741179 67
+20201010 443 699 62989010 65
+20201011 53 71 5148003 11
+20201012 139 197 17949730 21
+20201013 24 34 2220230 8
+20201014 114 184 13296432 20
+20201015 343 553 39234443 50
+20201016 848 1222 63693444 70
+20201017 629 853 56043386 74
+20201018 42 72 6446605 11
+20201019 109 142 8308142 15
+20201020 19 32 2838809 8
+20201021 80 127 9429374 13
+20201022 234 377 25141980 31
+20201023 1070 1571 77148799 88
+20201024 539 776 61012197 73
+20201025 195 217 7901574 17
+20201026 108 153 10788330 18
+20201027 4 4 3263 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+15mn-30mn 69
+1h+ 17
+2mn-5mn 112
+30s-2mn 201
+5mn-15mn 108
+30mn-1h 58
+0s-30s 365
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 19
+/mod_principal/menu_principal.php 2033 3233548 13 133
+/ingreso_certamen.php 1926 2462143 172 100
+/ 935 613443 723 164
+/mod_principal/descargar_resultados.php 851 11115283 4 120
+/mod_principal/descargar_informe.php 686 8742358 2 237
+/mod_profesores/empresa_listado_prof.php 524 1245495 12 10
+/mod_principal/decisiones_historico.php 516 1086476 1 111
+/mod_principal/decisiones.php 324 853309 0 19
+/mod_principal/decisiones_proc.php 255 183090 1 26
+/acceso/login.php 71 70803 3 4
+/mod_administrador/menu_principal_admin.php 27 31272 0 0
+/mod_administrador/listado_ejercicios.php 23 50206 0 1
+/mod_principal/cuestionario_historico.php 19 36719 0 0
+/mod_administrador/subir_datos.php 12 28448 0 0
+/mod_administrador/empresa_listado.php 11 78614 0 3
+/index.php 8 5911 0 1
+/mod_administrador/parametros_alta.php 6 11112 0 0
+/acceso/mensaje_ok.php 1 720 0 1
+/acceso/frm_cambio_clave.php 1 1676 0 0
+END_SIDER

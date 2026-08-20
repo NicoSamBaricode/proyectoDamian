@@ -1,0 +1,561 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201709 will be lost/reset.
+# Last config file used to build this data file was /home/simubari17/tmp/awstats/awstats.sasijuanma.sapienter.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2023                
+POS_TIME 2681                
+POS_VISITOR 13433               
+POS_DAY 15533               
+POS_DOMAIN 3319                
+POS_LOGIN 3764                
+POS_ROBOT 3919                
+POS_WORMS 4171                
+POS_EMAILSENDER 4302                
+POS_EMAILRECEIVER 4445                
+POS_SESSION 16093               
+POS_SIDER 16250               
+POS_FILETYPES 4580                
+POS_DOWNLOADS 4679                
+POS_OS 4727                
+POS_BROWSER 4926                
+POS_SCREENSIZE 5537                
+POS_UNKNOWNREFERER 5611                
+POS_UNKNOWNREFERERBROWSER 5986                
+POS_ORIGIN 6223                
+POS_SEREFERRALS 6357                
+POS_PAGEREFS 6512                
+POS_SEARCHWORDS 6723                
+POS_KEYWORDS 6875                
+POS_MISC 2345                
+POS_ERRORS 6934                
+POS_CLUSTER 3620                
+POS_SIDER_404 7020                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20171001165421 1 0 9077756877128
+FirstTime 0
+LastTime 20170930230709
+LastUpdate 20171002050420 1 0 0 0 0
+TotalVisits 59                  
+TotalUnique 54                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 54                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 3 3 4503 2 3 821
+1 0 0 0 3 5 1642
+2 11 11 10111 55 57 5310
+3 2 2 3682 4 5 2662
+4 0 0 0 4 8 2463
+5 11 11 16579 5 11 221812
+6 14 14 12856 3 6 1642
+7 4 4 4304 6 11 2806
+8 2 2 2662 0 7 0
+9 2 2 2662 0 1 0
+10 1 1 1841 1 2 0
+11 2 2 2662 2 6 2662
+12 3 3 3483 7 21 668112
+13 2 2 1642 12 43 1112462
+14 3 3 2463 3 11 442721
+15 11 11 20659 16 28 443146
+16 9 10 15198 15 15 0
+17 1 1 821 2 17 661988
+18 3 3 4503 1 3 1841
+19 2 2 1642 1 2 821
+20 6 6 5946 2 4 1642
+21 2 2 1642 1 2 0
+22 4 4 3483 110 113 1642
+23 3 3 2463 5 6 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 20
+us 58 59 77458
+ca 8 8 16156
+gb 7 7 4926
+no 4 4 3284
+ru 4 4 3284
+de 3 3 5523
+cl 2 2 1642
+fr 2 2 1642
+cn 2 2 1642
+pr 1 1 1841
+it 1 1 1841
+eu 1 1 821
+in 1 1 821
+ro 1 1 821
+nl 1 1 821
+uz 1 1 821
+kr 1 1 821
+pl 1 1 821
+ua 1 1 0
+ee 1 1 821
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+bot[\s_+:,\.\;\/\\-] 52 46461 20170930133916 0
+bingpreview 32 3527893 20170930123144 0
+netcraft 1 1841 20170907035521 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+css 1 1082 0 0
+html 101 124725 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 11
+win7 23 23
+winnt 5 5
+macosx 3 3
+linuxandroid 1 1
+ios_ipad 1 1
+winxp 15 15
+win8 2 2
+win2003 7 6
+linux 11 11
+winlong 2 2
+Unknown 32 32
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 31
+chrome59.0.3071.71 1 1
+firefox3.6.3 1 1
+chrome55.0.2883.87 2 2
+firefox32.0 2 2
+chrome37.0.2062.120 2 2
+safari10.0 1 1
+firefox40.1 3 3
+chrome58.0.3029.96 1 1
+msie10.0 1 1
+chrome45.0.2454.94 1 1
+seamonkey 1 1
+chrome41.0.2228.0 9 9
+chrome58.0.3029.110 4 4
+firefox27.0 1 1
+mozilla 14 14
+firefox29.0 1 1
+chrome39.0.2171.95 7 7
+firefox53.0 1 1
+chrome56.0.2927.19 1 1
+firefox30.0 4 4
+Unknown 13 13
+chrome54.8.3034.9307 1 1
+firefox26.0 2 2
+msie9.0 1 1
+firefox7.0.1 4 4
+chrome34.0.1847.131 1 1
+opera8.50 1 1
+msie7.0 8 7
+netscape 6 6
+msie6.0 6 6
+chrome34.0.1847.116 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+Mozilla/5.0_(compatible;_Dataprovider.com;) 20170916155250
+Python/3.6_aiohttp/2.2.5 20170917163934
+Mozilla 20170918063443
+python-requests/2.8.1 20170902221838
+panscient.com 20170928021509
+www.x9o.de_-_SUCHPROGRAMM_-_V_1.0 20170911110929
+Mozilla/5.0_(compatible;_ips-agent) 20170907050828
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+panscient.com 20170928021509
+python-requests/2.8.1 20170902221838
+Python/3.6_aiohttp/2.2.5 20170917163934
+www.x9o.de_-_SUCHPROGRAMM_-_V_1.0 20170911110929
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 79 80
+From1 3 3
+From2 2 2
+From3 3 3
+From4 14 14
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://burger-imperia.com 2 2
+http://www.marinetraffic.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 297 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 176
+/cchat/chat/upload.php 1 -
+/administrator/index.php 5 http://sasijuanma.com/administrator/
+/dump.tgz 1 http://sasijuanma.com
+/chat-stjepkovica/temp/error.php 1 -
+/temp.sql 1 http://sasijuanma.com
+/chat/chat/temp/error.php 1 -
+/flikQ/rocketeercms/blob/master/themes/admin/assets/js/tiny_mce/plugins/tinybrowser/upload.php 2 -
+/backup.sql.bz2 1 http://sasijuanma.com
+/blog-chat/temp/error.php 1 -
+/cms/chat/upload.php 1 -
+/chatroom/temp/error.php 1 -
+/dump.tar.gz 1 http://sasijuanma.com
+/topic/page/temp/error.php 1 -
+/jingyan/temp/error.php 1 -
+/page/video/temp/error.php 1 -
+/page/video/upload.php 1 -
+/mp3/list/temp/error.php 1 -
+/1.sql 1 http://sasijuanma.com
+/dbdump.sql.gz 1 http://sasijuanma.com
+/o/BhGCe/forums.e-mpire.com/chat/temp/error.php 1 -
+/tinymce_pt/jscripts/tiny_mce/plugins/tinybrowser/upload.php 2 -
+/search/upload.php 1 -
+/FlashChat_v6.0.8_/chat/upload.php 1 -
+/xfchat/temp/error.php 1 -
+/~duchen/chat/temp/error.php 1 -
+/exploits/28709/temp/error.php 1 -
+/dump.sql 1 http://sasijuanma.com
+/radiodalmatino/upload.php 1 -
+/baixar/upload.php 1 -
+/tinybrowser/upload.php 2 -
+/public/js/tiny_mce/plugins/tinybrowser/upload.php 2 -
+/exploit/description/temp/error.php 1 -
+/roommate/flash_chat/upload.php 1 -
+/wp-admin/ 5 http://sasijuanma.com/wp-login.php
+/site.sql 1 http://sasijuanma.com
+/admin.php 5 -
+/forum/chat/temp/error.php 1 -
+/flashchat/chat/upload.php 1 -
+/shbt/upload.php 1 -
+/engine/engine.php 1 -
+/users.sql 1 http://sasijuanma.com
+/js/tiny_mce/plugins/tinybrowser/upload.php 2 -
+/wp-login.php 6 -
+/radiopoljubac/posts/temp/error.php 1 -
+/xb9987.php 1 -
+/data.sql 1 http://sasijuanma.com
+/wordpress 1 -
+/islamski-chat/temp/error.php 1 -
+/php/tinybrowser/upload.php 2 -
+/community/chat/upload.php 1 -
+/Tchate/flashchat/temp/error.php 1 -
+/wwwroot/addons/tinymce/plugins/tinybrowser/upload.php 2 -
+/jscripts/tiny_mce/plugins/tinybrowser/upload.php 2 -
+/assets/modules/evogallery/js/uploadify/uploadify.php 1 -
+/forum/chat/upload.php 1 -
+/robots.txt 71 -
+/admin/lib/tiny_mce/plugins/tinybrowser/upload.php 2 -
+/scripts/tiny_mce/plugins/tinybrowser/upload.php 2 -
+/Chat/Chat/upload.php 1 -
+/WORDPRESS 1 -
+/dump.sql.tgz 1 http://sasijuanma.com
+/sohbet/temp/error.php 1 -
+/tutaf/upload.php 1 -
+/dump.gz 1 http://sasijuanma.com
+/db.sql.zip 1 http://sasijuanma.com
+/cat-bin/tools/login/lib/tiny_mce/plugins/tinybrowser/upload.php 2 -
+/db_backup.sql 1 http://sasijuanma.com
+/foro/chat/temp/error.php 1 -
+/Chat/temp/error.php 1 -
+/e107_plugins/onlineinfo_menutemp/error.php 1 -
+/forums/chat/upload.php 1 -
+/o/BhGCe/forums.e-mpire.com/chat/upload.php 1 -
+/public/chat/temp/error.php 1 -
+/live/chat/upload.php 1 -
+/shbt/temp/error.php 1 -
+/chat/chat/upload.php 1 -
+/wp 1 -
+/e-dinar-chat/temp/error.php 1 -
+/flashchat-2/upload.php 1 -
+/db.sql 1 http://sasijuanma.com
+/dump.sql.zip 1 http://sasijuanma.com
+/sql.sql 1 http://sasijuanma.com
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/tinybrowser/upload.php 2 -
+/js/tinymce/plugins/tinybrowser/upload.php 2 -
+/public/javascripts/tiny_mce/plugins/tinybrowser/upload.php 2 -
+/FlashChat/upload.php 1 -
+/smf/chat/temp/error.php 2 -
+/mysql.sql 1 http://sasijuanma.com
+/blog-chat/chat/temp/error.php 1 -
+/index.php 1 -
+/db.sql.gz 1 http://sasijuanma.com
+/chat55/temp/error.php 1 -
+/blog 1 -
+/chat-sem-registo/upload.php 1 -
+/tinybrowser/tree/tinybrowser/upload.php 2 -
+/FlashChat_v608/chat/temp/error.php 1 -
+/chatroom/upload.php 1 -
+/how-to-install-flashchat-free/upload.php 1 -
+/smf/chat/upload.php 2 -
+/wp-content/plugins/simple-forum/editors/tinymce/plugins/tinybrowser/upload.php 2 -
+/search/temp/error.php 1 -
+/static/js/tiny_mce/plugins/tinybrowser/upload.php 2 -
+/flashchat-2/temp/error.php 1 -
+/Association/wp-content/plugins/simple-forum/editors/tinymce/plugins/tinybrowser/upload.php 2 -
+/tag/flashchat-v6-0-8/temp/error.php 1 -
+/community/chat/temp/error.php 1 -
+/license.txt 1 -
+/music-search/temp/error.php 1 -
+/backup.sql 1 http://sasijuanma.com
+/radio/radiochat/temp/error.php 1 -
+/deface_flashchat/upload.php 1 -
+/vid/watch/upload.php 1 -
+/Chat/Chat/temp/error.php 1 -
+/board/chat/temp/error.php 1 -
+/chat-stjepkovica/upload.php 1 -
+/sql.tar 1 http://sasijuanma.com
+/public/chat/upload.php 1 -
+/db.zip 1 http://sasijuanma.com
+/painel/scripts/tiny_mce/plugins/tinybrowser/upload.php 2 -
+/FlashChat_v6.0.8_/chat/temp/error.php 1 -
+/live/chat/temp/error.php 1 -
+/e107_plugins/onlineinfo_menuupload.php 1 -
+/LICENSE.php 1 -
+/deface_flashchat/temp/error.php 1 -
+/blog-chat/chat/upload.php 1 -
+/radiodalmatino/temp/error.php 1 -
+/flashchat/chat/temp/error.php 1 -
+/projects/bilardII/resources/js/tiny_mce/plugins/tinybrowser/upload.php 2 -
+/sitemap.xml 1 -
+/how-to-install-flashchat-free/temp/error.php 1 -
+/chat55/upload.php 1 -
+/roommate/flash_chat/temp/error.php 1 -
+/websci/radio/radiochat/temp/error.php 1 -
+/tiny_mce/plugins/tinybrowser/upload.php 2 -
+/topic/page/upload.php 1 -
+/chat-sem-registo/temp/error.php 1 -
+/wp-content/uploads/settingsimages/xb9987.php 1 -
+/administrator/ 5 -
+/social/upload.php 1 -
+/dump.sql.gz 2 http://sasijuanma.com
+/tag/flashchat-v6-0-8/upload.php 1 -
+/social/temp/error.php 1 -
+/cchat/chat/temp/error.php 1 -
+/jingyan/upload.php 1 -
+/cms/chat/temp/error.php 1 -
+/islamski-chat/upload.php 1 -
+/sohbet/upload.php 1 -
+/vid/watch/temp/error.php 1 -
+/Tchate/flashchat/upload.php 1 -
+/FlashChat_v608/chat/upload.php 1 -
+/sql.gz 1 http://sasijuanma.com
+/sql.tar.gz 1 http://sasijuanma.com
+/exploits/28709/upload.php 1 -
+/admin 5 -
+/bd/search 2 -
+/exploit/description/upload.php 1 -
+/radiopoljubac/posts/upload.php 1 -
+/blog-chat/upload.php 1 -
+/baixar/temp/error.php 1 -
+/FlashChat/temp/error.php 1 -
+/foro/chat/upload.php 1 -
+/Chat/upload.php 1 -
+/~duchen/chat/upload.php 1 -
+/xfchat/upload.php 1 -
+/e-dinar-chat/upload.php 1 -
+/xmlrpc.php 1 -
+/board/chat/upload.php 1 -
+/forums/chat/temp/error.php 1 -
+/music-search/upload.php 1 -
+/mp3/list/upload.php 1 -
+/radio/radiochat/upload.php 1 -
+/mysql.zip 1 http://sasijuanma.com
+/editors/tinymce/jscripts/tiny_mce/plugins/tinybrowser/upload.php 2 -
+/dbdump.sql 1 http://sasijuanma.com
+/tutaf/temp/error.php 1 -
+/websci/radio/radiochat/upload.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 54
+104.192.74.17 12 12 11214 20170918063443
+100.35.47.77 10 10 9290 20170928021509
+142.4.218.156 8 8 16156 20170916155251
+69.58.178.56 6 6 12474 20170907050828
+38.100.21.62 6 7 13556 20170921160222
+163.172.4.153 5 5 4105 20170929060724
+155.4.230.97 4 4 3284 20170920054534
+89.223.30.62 2 2 1642 20170927211359
+107.191.37.186 2 2 3682 20170904153306
+54.72.209.70 2 2 3682 20170906181557
+52.10.32.6 1 1 821 20170911205703
+13.59.121.110 1 1 821 20170922084515
+162.243.103.245 1 1 821 20170920213008
+181.214.175.118 1 1 821 20170911133748
+34.229.248.19 1 1 1841 20170921104041
+213.211.241.42 1 1 1841 20170921093051
+46.101.139.248 1 1 821 20170928174810
+216.69.191.98 1 1 1841 20170917085149
+139.227.144.134 1 1 821 20170919003831
+162.244.35.14 1 1 821 20170904231627
+85.253.142.83 1 1 821 20170929231438
+81.138.72.149 1 1 821 20170915201605
+52.43.165.219 1 1 821 20170914162335
+188.165.2.183 1 1 821 20170902122701
+77.220.213.169 1 1 821 20170927112145
+54.194.179.202 1 1 821 20170917163934
+34.235.171.187 1 1 1841 20170929032547
+80.82.215.160 1 1 1841 20170911110929
+13.59.210.17 1 1 821 20170922142236
+178.33.39.197 1 1 821 20170913205456
+79.98.40.40 1 1 1841 20170922001143
+195.22.127.71 1 1 821 20170919222805
+38.145.79.189 1 1 821 20170917203725
+176.58.113.124 1 1 0 20170902221838
+93.115.95.216 1 1 821 20170927193654
+185.104.248.67 1 1 821 20170907074802
+70.35.142.145 1 1 1841 20170922202804
+188.163.78.13 1 1 0 20170923162351
+52.15.98.7 1 1 821 20170923122915
+46.4.48.48 1 1 1841 20170908032143
+13.58.246.164 1 1 821 20170926203230
+54.237.248.87 1 1 1841 20170918075733
+34.230.55.166 1 1 1841 20170924123931
+13.59.99.87 1 1 821 20170922193530
+220.174.241.102 1 1 821 20170908070232
+181.215.50.120 1 1 821 20170921054651
+121.169.194.187 1 1 821 20170928024901
+52.212.116.178 1 1 1841 20170919221025
+75.149.221.170 1 1 1841 20170923003906
+182.70.69.162 1 1 821 20170928091249
+46.0.193.130 1 1 821 20170903132922
+18.220.110.164 1 1 821 20170923072710
+188.226.129.55 1 1 821 20170930230709
+18.220.183.240 1 1 821 20170921141046
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 25
+20170902 2 2 821 2
+20170903 1 1 821 1
+20170904 3 3 4503 2
+20170906 3 3 4503 2
+20170907 7 7 13295 2
+20170908 2 2 2662 2
+20170911 3 3 3483 3
+20170912 1 1 821 1
+20170913 1 1 821 1
+20170914 1 1 821 1
+20170915 1 1 821 1
+20170916 8 8 16156 1
+20170917 4 4 4304 4
+20170918 13 13 13055 2
+20170919 3 3 3483 3
+20170920 5 5 4105 2
+20170921 10 11 18880 5
+20170922 5 5 6145 5
+20170923 5 5 4304 5
+20170924 1 1 1841 1
+20170926 1 1 821 1
+20170927 4 4 3284 4
+20170928 13 13 11753 4
+20170929 3 3 3483 3
+20170930 1 1 821 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+30s-2mn 1
+0s-30s 58
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/ 74 83592 59 59
+/rsvp.html 7 8774 0 0
+/regalos.html 7 11805 0 0
+/informacion.html 7 9901 0 0
+/comollegar.html 6 10653 0 0
+END_SIDER

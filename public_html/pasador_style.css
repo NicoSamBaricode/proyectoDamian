@@ -1,0 +1,95 @@
+body {margin:0; padding:5px; font:11px Verdana,Arial}
+#slideshow {list-style:none}
+#slideshow span {display:none}
+#wrapper {width:400x; /*margin:50px auto;*/ display:none}
+#wrapper * {margin:0; padding:0}
+
+/* Area de la imagen principal solo la foto  */
+#fullsize {
+	position:absolute;
+	max-width:600px;
+	height:257px;
+	/*padding:2px;
+	border:1px solid #004f97;
+	background-color: #000000;*/
+}
+
+/* information es el area de texto que se desplaza sobre la imagen   */
+#information {
+	position:absolute;
+	bottom:0;
+	width:400px;
+	height:0;
+	color:#fff;
+	overflow:hidden;
+	z-index:500;
+	opacity:.7;
+	filter:alpha(opacity=5);
+	background-color: #00182F;
+}
+#information h3 {padding:4px 8px 3px; font-size:14px}
+#information p {
+	padding:0 8px 8px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+#image {width:360px} 
+
+/*Imagen principal*/
+#image img {position:absolute; z-index:80; width:100%; height:250px } 
+.imgnav {
+	position:absolute;
+	width:5%;
+	height:300px;
+	cursor:pointer;
+	z-index:450;
+
+}
+#imgprev {
+	left:0;
+	background-image: url(pasador_images/left.gif);
+	background-repeat: no-repeat;
+	background-position: left center;
+	
+}
+
+
+
+#imgnext {
+	right:0;
+	background-image: url(pasador_images/right.gif);
+	background-repeat: no-repeat;
+	background-position: right center;
+}
+#imglink {position:absolute; height:306px; width:100%; z-index:100; opacity:.4; filter:alpha(opacity=40)}
+/*.linkhover {background:url(pasador_images/link.gif) center center no-repeat}*/
+
+/* thumbnails es el area de la parte de abajo desplazable  abarca los botones */
+#thumbnails {
+	margin-top:4px;
+	width: 406px;
+	height:70px;
+	background-color: #E1E1E1;
+}
+#slideleft {float:left; width:20px; height:70px; background:url(pasador_images/scroll-left.gif) center center no-repeat}
+
+#slideright {float:right; width:20px; height:70px; background:url(pasador_images/scroll-right.gif) center center no-repeat}
+
+
+/* slidearea es el area de la parte de abajo desplazable   */
+#slidearea {
+	float:left;
+	position:relative;
+	width:350px;
+	margin-left:2px;
+	height:70px;
+	overflow:hidden;
+	margin-top: 2px;
+} 
+#slider {position:absolute; left:0; height:81px}
+#slider img {
+	cursor:pointer;
+	border:1px solid #666;
+	padding:2px;
+	vertical-align: top;
+}

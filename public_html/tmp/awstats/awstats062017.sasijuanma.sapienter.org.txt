@@ -1,0 +1,400 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201706 will be lost/reset.
+# Last config file used to build this data file was /home/simubari17/tmp/awstats/awstats.sasijuanma.sapienter.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2023                
+POS_TIME 2694                
+POS_VISITOR 8282                
+POS_DAY 9945                
+POS_DOMAIN 3308                
+POS_LOGIN 3702                
+POS_ROBOT 3857                
+POS_WORMS 4147                
+POS_EMAILSENDER 4278                
+POS_EMAILRECEIVER 4421                
+POS_SESSION 10446               
+POS_SIDER 10603               
+POS_FILETYPES 4556                
+POS_DOWNLOADS 4670                
+POS_OS 4718                
+POS_BROWSER 4944                
+POS_SCREENSIZE 5495                
+POS_UNKNOWNREFERER 5569                
+POS_UNKNOWNREFERERBROWSER 5810                
+POS_ORIGIN 5995                
+POS_SEREFERRALS 6129                
+POS_PAGEREFS 6284                
+POS_SEARCHWORDS 6640                
+POS_KEYWORDS 6792                
+POS_MISC 2358                
+POS_ERRORS 6851                
+POS_CLUSTER 3558                
+POS_SIDER_404 6936                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170701052213 1 0 4581485996387
+FirstTime 20170601182132
+LastTime 20170629110923
+LastUpdate 20170702051122 1 0 0 0 0
+TotalVisits 47                  
+TotalUnique 42                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 42                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 4 4 4304 1 3 821
+2 2 2 2662 0 0 0
+3 0 0 0 0 2 0
+4 2 2 1642 1 1 821
+5 2 2 3682 1 1 1841
+6 2 2 1642 5 6 0
+7 10 13 237010 1 2 1841
+8 1 1 821 2 8 1642
+9 3 3 3483 2 2 0
+10 3 3 3483 1 5 220991
+11 6 6 4926 10 16 221812
+12 0 0 0 1 7 220991
+13 5 11 736634 4 13 444363
+14 1 1 821 6 23 887284
+15 7 7 13295 1 7 220991
+16 1 1 821 1 9 442920
+17 1 1 821 1 3 1841
+18 3 3 3483 5 12 221730
+19 1 1 1841 0 0 0
+20 1 1 1841 4 6 3214
+21 2 2 2662 6 7 1103
+22 3 3 3483 5 6 0
+23 2 2 2662 1 3 1841
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 15
+us 35 36 55113
+gb 5 5 4105
+ar 5 11 736634
+fr 4 4 3284
+kr 2 2 1642
+nl 2 2 1642
+md 1 1 821
+br 1 3 220991
+mx 1 1 821
+eu 1 1 821
+ro 1 1 821
+za 1 1 821
+ua 1 1 821
+it 1 1 1841
+ca 1 1 1841
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+bingpreview 26 2866644 20170630135020 0
+bot[\s_+:,\.\;\/\\-] 25 22039 20170630134959 0
+no_user_agent 3 5523 20170610055044 0
+netcraft 1 1841 20170608165510 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+jpg 6 951332 0 0
+css 3 1768 0 0
+html 62 78919 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 14
+win8.1 1 1
+win7 5 3
+linux 9 9
+macosx9 6 6
+macosx 6 6
+Unknown 10 10
+winnt 4 4
+winxp 7 7
+macosx6 1 1
+win8 1 1
+win2003 7 6
+ios_iphone 11 5
+winlong 2 2
+macosx5 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 27
+mozilla 6 6
+firefox3.6.3 1 1
+chrome36.0.1985.143 3 1
+firefox15.0.1 1 1
+Unknown 4 4
+firefox48.0 2 2
+msie6.0 1 1
+firefox30.0 1 1
+firefox3.0 1 1
+chrome39.0.2171.95 1 1
+chrome58.0.3029.81 1 1
+chrome37.0.2062.120 6 6
+safari10.0 11 5
+msie11.0 1 1
+firefox3.5.0 1 1
+firefox10.0 1 1
+chrome56.0.2924.87 3 3
+firefox7.0.1 4 4
+msie7.0 8 7
+chrome57.0.2987.133 1 1
+firefox52.0 1 1
+chrome58.0.3029.110 1 1
+chrome34.0.1847.116 1 1
+chrome50.0.2675.70 1 1
+chrome33.0.1750.152 6 6
+firefox26.0 2 2
+chrome55.0.2883.95 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Go-http-client/1.1 20170621093327
+Mozilla/5.0_(compatible;_ips-agent) 20170605151341
+Python/3.6_aiohttp/2.1.0 20170618025516
+HEADMasterSEO 20170622050208
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Go-http-client/1.1 20170621093327
+Python/3.6_aiohttp/2.1.0 20170618025516
+HEADMasterSEO 20170622050208
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 36 37
+From1 0 0
+From2 8 8
+From3 8 8
+From4 10 18
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 8 8
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 7
+http://burger-imperia.com 2 2
+http://hvd-store.com 1 1
+http://pizza-imperia.com 1 1
+http://pizza-tycoon.com 1 1
+http://anonymizeme.pro/go/hide.cgi 1 1
+http://free-fbook-traffic.com 1 1
+http://hundejo.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 79 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 33
+/test/wp-admin/setup-config.php 1 -
+/.git/ 1 http://sasijuanma.com/.git/
+/components/com_content/metadata.xml 1 -
+/user/ 1 -
+/wp-admin/admin-ajax.php 1 http://sasijuanma.com/wp-admin/
+/admin/ 1 -
+/blogs/wp-admin/setup-config.php 1 -
+/administrator/index.php 1 -
+/blog/robots.txt 1 -
+/wp-content/uploads/51217766.php 1 -
+/blog/ 1 -
+/blog/wp-admin/setup-config.php 1 -
+/license.php 2 http://sasijuanma.com/wp-admin/
+/wp-content/plugins/users-ultra/readme.txt 1 -
+/index.php 1 -
+/beta/wp-admin/setup-config.php 1 -
+/admin.php 1 -
+/wp/wp-admin/setup-config.php 1 -
+/old/wp-admin/setup-config.php 1 -
+/new/wp-admin/setup-config.php 1 -
+/news/wp-admin/setup-config.php 1 -
+/xmlrpc.php 1 -
+/user/register 1 -
+/wordpress/wp-admin/setup-config.php 1 -
+/uploadify/uploadify.php 1 http://sasijuanma.com/wp-admin/
+/wordpress/ 1 -
+/blog/wordpress/wp-admin/setup-config.php 1 -
+/robots.txt 45 -
+/wp-login.php 2 -
+/wp-includes/js/quicktags.js 1 -
+/%E2%80%9Dhttp:/www.sasijuanma.com/img/alianzas.ico%E2%80%9D 1 -
+/language/en-GB/en-GB.xml 1 -
+/wp/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 42
+38.100.21.61 6 7 13556 20170622074729
+69.58.178.58 6 6 12474 20170605151341
+186.143.138.137 5 11 736634 20170628132658
+163.172.4.153 5 5 4105 20170622062107
+146.185.177.103 2 2 1642 20170629110857
+59.2.167.111 2 2 1642 20170621093327
+52.191.167.18 1 1 1841 20170620092206
+35.188.107.250 1 1 821 20170615093241
+196.54.55.12 1 1 821 20170602181432
+149.56.229.16 1 1 821 20170602221412
+216.69.191.97 1 1 1841 20170605015443
+104.40.156.155 1 1 1841 20170622050208
+37.187.78.81 1 1 821 20170622104145
+188.226.129.55 1 1 821 20170619010631
+34.223.218.57 1 1 1841 20170615195440
+54.245.172.128 1 1 1841 20170624050705
+204.236.254.169 1 1 821 20170615154002
+104.237.203.98 1 1 821 20170603112128
+93.115.95.204 1 1 821 20170627214650
+94.23.75.60 1 1 821 20170624072802
+173.208.221.194 1 1 1841 20170619223612
+104.155.161.142 1 1 821 20170616011502
+104.198.226.179 1 1 821 20170615070244
+177.129.68.15 1 3 220991 20170624073623
+34.207.76.153 1 1 1841 20170607201417
+94.23.171.176 1 1 821 20170605220340
+13.58.4.238 1 1 1841 20170607182955
+138.68.44.9 1 1 821 20170618025516
+216.218.222.11 1 1 821 20170606175618
+35.188.195.250 1 1 821 20170614102717
+51.255.196.218 1 1 821 20170629110920
+178.17.171.49 1 1 821 20170604235822
+79.137.85.189 1 1 1841 20170623023723
+54.92.186.223 1 1 1841 20170606231751
+35.188.145.112 1 1 821 20170616075314
+162.213.3.221 1 1 821 20170629110923
+52.212.221.95 1 1 1841 20170604212416
+52.87.86.158 1 1 821 20170622081353
+37.1.207.21 1 1 821 20170628111118
+187.177.117.146 1 1 821 20170621045203
+35.188.178.110 1 1 821 20170614062426
+158.69.229.69 1 1 1841 20170617100815
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 22
+20170601 1 1 821 1
+20170602 2 2 1642 2
+20170603 1 1 821 1
+20170604 3 3 3483 3
+20170605 8 8 15136 3
+20170606 2 2 2662 2
+20170607 2 2 3682 2
+20170610 1 1 821 1
+20170614 2 2 1642 2
+20170615 5 5 5125 5
+20170616 3 3 2463 3
+20170617 1 1 1841 1
+20170618 1 1 821 1
+20170619 2 2 2662 2
+20170620 1 1 1841 1
+20170621 2 2 1642 2
+20170622 10 11 17860 5
+20170623 1 1 1841 1
+20170624 3 5 223653 3
+20170627 1 1 821 1
+20170628 6 12 737455 2
+20170629 4 4 3284 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+30s-2mn 1
+0s-30s 46
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/ 50 57370 47 46
+/informacion.html 3 5059 0 0
+/comollegar.html 3 5999 0 0
+/regalos.html 3 5995 0 1
+/rsvp.html 3 4496 0 0
+END_SIDER

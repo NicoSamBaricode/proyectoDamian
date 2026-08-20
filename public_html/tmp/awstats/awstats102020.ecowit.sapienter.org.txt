@@ -1,0 +1,641 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202010 will be lost/reset.
+# Last config file used to build this data file was /home/simubari17/tmp/awstats/awstats.ecowit.sapienter.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2019                
+POS_TIME 2697                
+POS_VISITOR 16655               
+POS_DAY 20017               
+POS_DOMAIN 3363                
+POS_LOGIN 3787                
+POS_ROBOT 3942                
+POS_WORMS 4560                
+POS_EMAILSENDER 4691                
+POS_EMAILRECEIVER 4834                
+POS_SESSION 20581               
+POS_SIDER 20749               
+POS_FILETYPES 4969                
+POS_DOWNLOADS 5101                
+POS_OS 5202                
+POS_BROWSER 5445                
+POS_SCREENSIZE 6408                
+POS_UNKNOWNREFERER 6482                
+POS_UNKNOWNREFERERBROWSER 6905                
+POS_ORIGIN 7180                
+POS_SEREFERRALS 7313                
+POS_PAGEREFS 7467                
+POS_SEARCHWORDS 7769                
+POS_KEYWORDS 7943                
+POS_MISC 2361                
+POS_ERRORS 8026                
+POS_CLUSTER 3643                
+POS_SIDER_404 8112                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20201026175931 14 2756 21503700071585
+FirstTime 20201001031540
+LastTime 20201026172525
+LastUpdate 20201027051643 14 0 14 0 0
+TotalVisits 90                  
+TotalUnique 86                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 88                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 5 5 6236 5 8 1814
+1 6 8 8285 5 9 3628
+2 2 2 1814 31 32 907
+3 8 10 197883 16 33 10055
+4 1 1 907 24 33 5106
+5 3 3 2721 25 33 191725
+6 10 12 203099 4 7 1814
+7 4 4 5329 19 29 193461
+8 1 1 907 6 21 2385
+9 4 4 5329 12 18 2385
+10 5 6 11910 7 12 1814
+11 3 3 2721 6 14 191154
+12 1 1 907 14 16 0
+13 1 2 1478 35 39 25396
+14 4 4 3628 9 19 907
+15 4 4 5329 8 16 5329
+16 4 4 5329 12 16 907
+17 8 10 11800 54 72 402106
+18 9 11 203178 10 22 44954
+19 2 2 1814 6 11 2721
+20 2 2 0 1 7 1478
+21 4 4 5329 2 3 0
+22 2 2 3515 34 39 191647
+23 8 11 14729 11 25 8969
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 17
+us 45 55 623235
+cn 15 18 23108
+ru 10 10 14173
+gb 7 9 15996
+ca 4 4 2721
+cl 3 3 2721
+ar 2 2 1814
+se 2 2 1814
+nl 2 2 1814
+fr 2 2 1814
+il 2 2 1814
+it 2 2 5216
+sa 1 1 907
+ro 1 1 2608
+de 1 1 907
+ua 1 1 2608
+in 1 1 907
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 12
+Sogou[\x20]web[\x20]spider/ 51 46257 20201026172013 0
+AhrefsBot/ 24 21768 20201026100944 0
+Googlebot/ 22 18274 20201026045422 0
+bingbot/ 17 951315 20201024222256 0
+YandexBot/ 14 53117 20201018185900 0
+SemrushBot/ 4 3862 20201024115109 0
+spider 3 1478 20201015094716 0
+bot[\s_+:,\.\;\/\\-] 2 1814 20201024234810 0
+php 1 2608 20201015150815 0
+DuckDuckGo\-Favicons\-Bot/ 1 907 20201025133327 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 907 20201021190951 0
+YandexImages/ 1 188355 20201005170132 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+php 1 3594 0 0
+css 12 6464 0 0
+html 100 129054 0 0
+jpg 3 565065 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/varios/programadesimulaciondenegocios.pdf 1 0 41326
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 14
+macosx 6 4
+winlong 4 1
+win7 14 14
+Unknown 14 13
+macosx12 4 4
+linux 21 18
+linuxandroid 2 2
+winxp 10 10
+macosx9 1 1
+macosx10 1 1
+win10 33 27
+macosx8 1 1
+win8.1 2 2
+ios_iphone 3 3
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 45
+chrome58.0.3029.110 4 4
+chrome41.0.2227.0 1 1
+chrome85.0.4183.121 12 6
+chrome76.0.3809.132 1 1
+safari10.0 2 2
+chrome67.0.3396.99 1 1
+chrome74.0.3694.0 3 1
+firefox28.0 2 2
+chrome35.0.1916.47 1 1
+edge12 2 2
+chrome72.0.3626.121 1 1
+msie11.0 2 2
+chrome75.0.3770.100 1 1
+firefox59.0 1 1
+chrome66.0.3359.117 1 1
+chrome80.0.3987.0 2 1
+chrome45.0.2454.94 1 1
+msie7.0 5 2
+chrome80.0.3987.122 1 1
+chrome81.0.4044.129 10 10
+chrome63.0.3239.84 2 2
+safari 1 1
+chrome36.0.1985.67 1 1
+chrome26.0.1410.65 1 1
+msie6.0 1 1
+chrome71.0.3578.98 4 4
+firefox57.0 1 1
+chrome73.0.3683.90 1 1
+chrome66.0.3359.139 4 4
+chrome41.0.2227.1 1 1
+Unknown 9 9
+msie9.0 1 1
+chrome74.0.3729.169 8 8
+firefox58.0 1 1
+chrome65.0.3325.146 1 1
+chrome83.0.4103.97 2 2
+chrome26.0.1410.63 1 1
+chrome5.0.375.99 5 5
+mozilla 6 5
+chrome28.0.1500.95 3 3
+chrome86.0.4240.75 2 2
+firefox80.0 1 1
+chrome79.0.3945.88 1 1
+chrome84.0.4147.105 1 1
+chrome83.0.4103.61 3 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Mozilla/5.0_(compatible;_Dataprovider.com) 20201013104108
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20201018055548
+Go-http-client/1.1 20201013083319
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20201006014105
+\ 20201006104201
+python-requests/2.24.0 20201019065746
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+Go-http-client/1.1 20201013083319
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20201018055548
+\ 20201006104201
+python-requests/2.24.0 20201019065746
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 80 83
+From1 5 5
+From2 7 7
+From3 3 3
+From4 6 18
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+sogou 7 7
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+http://www.coralbruce.top/view/73295384/profile/ 1 1
+http://piht.shabatrip.com/view/73295384/profile/ 1 1
+http://gundls.ammgm.org/blog/73295384/view/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+site+www.ecowit.org 7
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+site 7
+www.ecowit.org 7
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 381 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 194
+/sites/.env 1 -
+/v2/ 2 -
+/plugins/FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/wp/test/ 1 -
+/fckeditor/editor/filemanager/upload/php/upload.php 1 -
+/scripts/fckeditor/editor/filemanager/upload/php/upload.php 1 -
+/administrator/language/en-GB/install.xml 1 -
+/assets/ckeditor/kcfinder//browse.php 1 -
+/old-wp/ 1 -
+/administrator/help/en-GB/toc.json 1 -
+/configuration.bak 1 -
+/wp-login.php 8 -
+////wp-content/plugins/wp-file-manager/lib/files/admin.php 1 -
+/adminer-3.7.1.php 2 -
+/fckeditor/editor/filemanager/upload/asp/upload.asp 2 -
+/wp-config.php_new 1 -
+/sites/all/libraries/FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/wp-config.php_Old 1 -
+/editor/editor/filemanager/upload/aspx/upload.aspx 1 -
+///wp-content/plugins/wp-file-manager/lib/files/badmin.php 1 -
+/fckeditor/editor/filemanager/connectors/aspx/connector.aspx 1 -
+/old_wp/ 1 -
+/fck/editor/filemanager/upload/php/upload.php 1 -
+/bk/ 1 -
+/mambots/editors/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/FCKeditor/editor/filemanager/upload/aspx/upload.aspx 1 -
+/editor/filemanager/upload/php/upload.php 1 -
+/libraries/FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+//wp-content/plugins/wp-file-manager/js/fm_script.js 1 -
+/wp-admin/admin-ajax.php 2 -
+/wp-config.php.new 1 -
+/////nette.micro 4 -
+/admin/kcfinder//browse.php 1 -
+/install/ 2 -
+/includes/FCKeditor/editor/filemanager/upload/php/upload.php 1 -
+/.env 14 -
+/wp1/ 2 -
+/demo/ 2 -
+/2019/ 1 -
+/images/ 1 -
+/blog/ 2 -
+/blog/.env 1 -
+/wp-config.php-bak 1 -
+/old-site/ 1 -
+/plugins/FCKeditor/editor/filemanager/upload/php/upload.php 1 -
+/wp-config.bak 1 -
+/temp/ 1 -
+/fckeditor/editor/filemanager/connectors/aspx/upload.aspx 1 -
+/admin/view/javascript/common.js 1 -
+/javascript/fckeditor/editor/filemanager/upload/php/upload.php 1 -
+/Old/ 1 -
+/images/editor/separator.gif 1 -
+/FCKeditor/editor/filemanager/browser/default/connectors/asp/connector.asp 1 -
+/wp/ 2 -
+/admin/includes/general.js 1 -
+/robots.txt 136 -
+/api/.env 1 -
+/FCK/editor/filemanager/upload/php/upload.php 1 -
+/wp-content/plugins/wptf-image-gallery/lib-mbox/ajax_load.php 1 -
+/editor/editor/filemanager/upload/php/upload.php 1 -
+/wp-content/themes/mTheme-Unus/css/css.php 1 -
+/laravel/.env 1 -
+/wp3/ 1 -
+/wp-content/plugins/wp-file-manager/readme.txt 1 -
+/new/ 2 -
+/javascripts/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/fckeditor/editor/filemanager/upload/cfm/upload.cfm 1 -
+/configuration.php-bak 1 -
+///wp-content/plugins/wp-file-manager/lib/files/wpadmind.php 1 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-content/plugins/simple-image-manipulator/controller/download.php 1 -
+/css/ 1 -
+/includes/fckeditor/editor/filemanager/upload/php/upload.php 1 -
+/admin/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/assets/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/FCKeditor/editor/filemanager/upload/php/upload.php 1 -
+/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/plugins/system/debug/debug.xml 1 -
+/admin/fckeditor/editor/filemanager/upload/aspx/upload.aspx 1 -
+/configuration.php_Old 1 -
+/portal/ 1 -
+/test/.env 1 -
+/admin/fckeditor/editor/filemanager/upload/php/upload.php 1 -
+/assets/kcfinder//browse.php 1 -
+/FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/js/fckeditor/editor/filemanager/upload/php/upload.php 1 -
+/website/ 1 -
+/test/ 2 -
+/tmp/ 1 -
+/app/etc/local.xml 1 -
+/FCKeditor/editor/filemanager/browser/default/connectors/aspx/connector.aspx 1 -
+/configuration.php_bak 1 -
+/sites/all/libraries/fckeditor/editor/filemanager/upload/php/upload.php 1 -
+/fckeditor/editor/filemanager/filemanager/upload/asp/upload.asp 1 -
+/wp-config.php.bak 1 -
+/wp-content/plugins/recent-backups/download-file.php 1 -
+/ads.txt 3 -
+/en/ 1 -
+/editor/filemanager/upload/aspx/upload.aspx 1 -
+/configuration.php.old 1 -
+/sites/all/libraries/FCKeditor/editor/filemanager/upload/php/upload.php 1 -
+/scripts/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/mambots/editors/fckeditor/editor/filemanager/upload/php/upload.php 1 -
+/ 1 -
+///wp-content/plugins/wp-file-manager/lib/files/wpadmin.php 1 -
+/configuration.php.bak 1 -
+/FCK/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/sites/all/modules/fckeditor/fckeditor/editor/filemanager/upload/php/upload.php 2 -
+/libraries/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/templates/FCKeditor/editor/filemanager/upload/php/upload.php 1 -
+/shop/.env 1 -
+/2020/ 1 -
+/administrator/FCKeditor/editor/filemanager/upload/php/upload.php 1 -
+/libraries/FCKeditor/editor/filemanager/upload/php/upload.php 1 -
+/js/FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/wp-includes/js/jquery/jquery.js 1 -
+/configuration.php_old 1 -
+/press/ 1 -
+/main/ 2 -
+/bak/ 1 -
+/configuration.php.new 1 -
+/fckeditor/editor/filemanager/upload/lasso/upload.lasso 1 -
+//wp-admin/admin-ajax.php 1 -
+/wordpress/ 2 -
+/vendor/.env 1 -
+/configuration.php_new 1 -
+/sites/all/libraries/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/wp-config.php_bak 1 -
+/user/register/ 1 -
+/dev/ 1 -
+/public/.env 1 -
+///wp-content/plugins/wp-file-manager/lib/files/uladmin.php 1 -
+/asset-manifest.json 1 http://ecowit.org/
+/plugins/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/javascript/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/web/ 1 -
+/v1/ 2 -
+/scripts/FCKeditor/editor/filemanager/upload/php/upload.php 1 -
+/includes/FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/assets/fckeditor/editor/filemanager/connectors/asp/connector.asp 1 -
+/www/ 1 -
+////wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 -
+/misc/ajax.js 1 -
+/sites/all/modules/fckeditor/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/sitemap.xml 2 -
+/wp_old/ 1 -
+/news/ 1 -
+/admin/FCKeditor/editor/filemanager/upload/aspx/upload.aspx 1 -
+/assets/fckeditor/editor/filemanager/upload/aspx/upload.aspx 1 -
+/js/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/api/jsonws 1 -
+/home/ 2 -
+/wp-config.php.old 1 -
+/admin/.env 1 -
+/kcfinder//browse.php 1 -
+/templates/admin/js/kcfinder//browse.php 1 -
+/wp2/ 2 -
+/scripts/FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/administrator/fckeditor/editor/filemanager/upload/php/upload.php 1 -
+/fckeditor/editor/filemanager/connectors/asp/connector.asp 1 -
+/new-site/ 1 -
+/wp-content/plugins/ioptimization/IOptimize.php 1 www.google.com
+/fck/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/WP/ 1 -
+/includes/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/editor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/administrator/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/system/.env 1 -
+/administrator/FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/libraries/fckeditor/editor/filemanager/upload/php/upload.php 1 -
+/fckeditor/editor/filemanager/upload/aspx/upload.aspx 1 -
+/admin/FCKeditor/editor/filemanager/upload/php/upload.php 1 -
+/js/FCKeditor/editor/filemanager/upload/php/upload.php 1 -
+/wp-config.php_old 1 -
+/wp-config.php 1 -
+/admin/FCKeditor/editor/filemanager/browser/default/connectors/asp/connector.asp 1 -
+///wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 6 -
+/js/header-rollup-554.js 1 -
+/oldwp/ 1 -
+/beta/ 1 -
+/admin/FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/backup/ 1 -
+/templates/fckeditor/editor/filemanager/upload/php/upload.php 1 -
+/wp-content/plugins/google-mp3-audio-player/direct_download.php 1 -
+/plugins/fckeditor/editor/filemanager/upload/php/upload.php 1 -
+/humans.txt 2 -
+/administrator/ 1 -
+/site/ 2 -
+/old/ 2 -
+/2018/ 1 -
+/blogs/ 1 -
+/cms/ 2 -
+/admin/FCKeditor/editor/filemanager/connectors/asp/connector.asp 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 88
+51.222.43.162 3 3 7824 20201013104043
+117.57.99.239 3 3 8810 20201010183959
+3.121.236.56 2 2 1814 20201020190228
+40.84.139.223 2 2 1814 20201020143243
+193.34.167.246 2 2 1814 20201007233127
+34.123.189.223 2 2 1814 20201026021810
+40.74.122.22 2 2 1814 20201025161607
+72.167.223.245 2 2 5216 20201012231839
+66.205.156.117 2 2 5216 20201022060259
+52.177.121.220 2 2 1814 20201019065746
+190.123.81.227 2 2 1814 20201016060731
+93.159.230.28 2 2 1814 20201003181231
+2.57.122.13 2 2 1814 20201012173747
+40.127.111.29 1 1 907 20201006055941
+159.89.115.29 1 1 0 20201003202546
+81.88.49.14 1 1 2608 20201009175624
+45.148.120.155 1 1 907 20201022122952
+40.115.104.58 1 3 189833 20201006060100
+119.29.121.220 1 1 2608 20201006074110
+178.171.91.133 1 1 907 20201026172525 20201026172525 /
+40.77.191.131 1 2 2657 20201003233908
+40.77.189.139 1 2 1478 20201004011541
+18.197.193.89 1 1 907 20201020034032
+46.17.106.109 1 1 2608 20201019061045
+181.214.14.33 1 1 907 20201019061342
+123.126.68.142 1 1 907 20201014172427
+104.245.144.236 1 1 907 20201013151154
+175.44.42.200 1 1 907 20201015140507
+175.44.42.181 1 1 907 20201001154035
+62.210.83.78 1 1 907 20201007183720
+34.214.57.2 1 1 907 20201001031632
+175.44.42.159 1 1 907 20201019093645
+36.110.147.90 1 1 907 20201006171359
+5.188.62.25 1 1 907 20201019070205
+139.180.1.204 1 1 907 20201025073045
+192.71.44.44 1 1 907 20201010115553
+123.126.68.140 1 1 907 20201004112555
+3.236.84.89 1 1 907 20201024071529
+3.81.245.94 1 1 2608 20201006104201
+123.183.224.111 0 1 571 
+220.249.46.82 1 1 907 20201020183225
+104.131.50.176 1 1 2608 20201006014105
+34.125.170.103 1 1 907 20201025033250
+194.44.61.241 1 1 2608 20201005154542
+52.24.194.4 1 1 907 20201025114020
+81.88.49.9 1 1 2608 20201009175620
+199.244.88.132 1 1 907 20201019013828
+49.7.21.19 1 1 907 20201014093329
+54.191.138.108 1 3 189833 20201007182320
+46.105.81.64 1 1 907 20201004054345
+173.255.246.21 1 1 907 20201009141958
+52.40.160.222 1 1 907 20201001031540
+45.72.31.142 1 1 907 20201014212700
+192.71.10.105 1 1 907 20201004040143
+3.237.6.82 1 1 907 20201023160744
+86.105.25.69 1 1 2608 20201004001115
+47.254.68.12 1 1 907 20201004002634
+64.246.161.190 1 1 907 20201010065553
+192.241.150.153 1 1 907 20201015214211
+34.212.176.227 1 1 907 20201002031254
+138.197.158.232 1 1 0 20201003202546
+94.138.153.246 1 1 907 20201012225046
+139.155.30.159 1 1 907 20201013083319
+49.7.21.30 1 1 907 20201011094251
+123.183.224.114 0 2 1142 
+107.175.58.219 1 1 907 20201005002015
+191.101.100.131 1 1 907 20201011234019
+18.191.172.110 1 3 189833 20201020033822
+220.249.46.100 1 1 907 20201001130131
+40.77.188.123 1 2 2657 20201003233908
+198.143.158.82 1 1 907 20201005174439
+35.185.241.102 1 1 2608 20201006091934
+69.50.239.173 1 1 907 20201014023854
+78.47.243.148 1 1 907 20201016003917
+77.74.177.114 1 1 907 20201017182413
+51.15.107.190 1 2 1478 20201010235613
+5.45.69.166 1 1 907 20201024161722
+18.236.123.249 1 1 907 20201002031207
+185.182.56.216 1 1 2608 20201021210927
+184.75.211.142 1 1 907 20201011011338
+51.195.201.76 1 1 2608 20201019225450
+51.77.246.206 1 2 1478 20201013104108
+181.214.248.39 1 1 907 20201005215709
+188.130.137.77 1 1 2608 20201009031555
+40.77.188.174 1 2 1478 20201004011538
+3.106.135.22 1 1 907 20201002000504
+85.208.21.171 1 1 907 20201018055548
+185.217.71.155 1 1 2608 20201010161032
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 25
+20201001 4 4 3628 4
+20201002 3 3 2721 3
+20201003 6 8 7128 5
+20201004 7 10 9763 7
+20201005 5 5 6236 5
+20201006 8 10 202986 8
+20201007 3 5 191647 3
+20201009 4 4 8731 4
+20201010 7 9 15281 5
+20201011 3 3 2721 3
+20201012 5 5 7937 3
+20201013 6 7 11116 4
+20201014 4 4 3628 4
+20201015 2 2 1814 2
+20201016 3 3 2721 2
+20201017 1 1 907 1
+20201018 1 1 907 1
+20201019 7 7 9751 7
+20201020 7 9 195275 5
+20201021 1 1 2608 1
+20201022 3 3 6123 2
+20201023 1 1 907 1
+20201024 3 3 2721 3
+20201025 5 6 5106 5
+20201026 2 2 1814 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+0s-30s 87
+5mn-15mn 1
+30s-2mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 3
+/ 98 124494 88 86
+/accesoaempresas.html 2 4560 2 2
+/acceso/login.php 1 3594 0 1
+END_SIDER

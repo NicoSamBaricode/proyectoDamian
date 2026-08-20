@@ -1,0 +1,3595 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201908 will be lost/reset.
+# Last config file used to build this data file was /home/simubari17/tmp/awstats/awstats.sapienter.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2699                
+POS_VISITOR 64109               
+POS_DAY 153845              
+POS_DOMAIN 3746                
+POS_LOGIN 4370                
+POS_ROBOT 4525                
+POS_WORMS 5479                
+POS_EMAILSENDER 5610                
+POS_EMAILRECEIVER 5753                
+POS_SESSION 154859              
+POS_SIDER 155079              
+POS_FILETYPES 5888                
+POS_DOWNLOADS 6148                
+POS_OS 6875                
+POS_BROWSER 7228                
+POS_SCREENSIZE 10241               
+POS_UNKNOWNREFERER 10315               
+POS_UNKNOWNREFERERBROWSER 10782               
+POS_ORIGIN 11151               
+POS_SEREFERRALS 11311               
+POS_PAGEREFS 11633               
+POS_SEARCHWORDS 57559               
+POS_KEYWORDS 57736               
+POS_MISC 2363                
+POS_ERRORS 57822               
+POS_CLUSTER 4226                
+POS_SIDER_404 57962               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190901002432 9522 2706858 25058075164165
+FirstTime 20190801005736
+LastTime 20190831233808
+LastUpdate 20190901051445 9522 0 9521 0 0
+TotalVisits 4575                
+TotalUnique 2173                
+MonthHostsKnown 0                   
+MonthHostsUnknown 2194                
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 126 148 6168880 59 488 374704
+1 114 145 5914425 47 373 433554
+2 333 429 20512481 92 668 1955572
+3 835 1204 80020286 226 1459 1020840
+4 2626 3710 196396953 550 3578 5689526
+5 2050 2950 165585111 841 3325 6620612
+6 3123 4616 285078126 764 4792 10980053
+7 2375 3339 188921378 710 4473 12025138
+8 2847 4081 274045683 1319 4676 13976851
+9 3101 4168 287300694 1020 4884 13029598
+10 2114 2928 236616845 667 4056 4995975
+11 3142 4379 279017640 965 4377 14439861
+12 2239 3170 214871542 1395 4476 7106153
+13 1736 2500 159013640 647 2954 4873655
+14 2597 3605 229997210 1237 5196 9102556
+15 2553 3623 301622808 1487 5846 6994360
+16 1933 2823 178830089 574 4037 6818471
+17 2169 2904 138453931 1124 5811 8712476
+18 2297 3248 181603829 920 5614 14952891
+19 1451 2002 92401884 603 3706 6983407
+20 539 753 58732861 276 1428 3988846
+21 105 178 14215060 269 516 1067900
+22 168 234 11713822 81 320 1659324
+23 73 99 4351603 60 262 2988772
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 27
+ar 26152 36519 2208384286
+us 11843 17075 1100231536
+in 1848 2600 79721626
+ma 398 548 23959882
+nz 118 124 1285431
+pa 114 140 5607614
+gb 46 56 1453716
+ca 36 47 2821553
+cr 24 35 3237368
+cn 14 24 3538558
+it 8 14 2777750
+do 7 12 2095803
+se 5 5 60326
+ru 5 7 5101
+de 5 5 5142
+fr 4 4 4493
+nl 4 4 3865
+cl 3 3 1986
+br 2 2 2554
+ua 2 2 2554
+ch 2 2 1324
+zz 1 1 662
+au 1 3 705905
+il 1 1 662
+cz 1 1 1277
+lv 1 1 662
+za 1 1 1277
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 20
+Googlebot/ 198 323425 20190831203023 0
+link 184 15109600 20190831171640 0
+bingbot/ 145 6912349 20190831234702 0
+bingpreview 57 9270862 20190830225835 0
+Sogou[\x20]web[\x20]spider/ 29 19800 20190831034828 0
+YandexBot/ 23 15226 20190827182833 0
+AhrefsBot/ 19 14384 20190831122151 0
+Baiduspider/ 13 199004 20190805060242 0
+Dalvik/ 9 4898518 20190823180206 0
+MJ12bot/ 9 7188 20190827183106 0
+Google[\x20]Web[\x20]Preview 8 2092553 20190816110907 0
+bot[\s_+:,\.\;\/\\-] 4 5108 20190823180940 0
+no_user_agent 4 1390537 20190824115211 0
+DuckDuckGo\-Favicons\-Bot/ 4 2648 20190830070053 0
+spider 3 1250 20190804143338 0
+PhantomJS 3 705905 20190824074118 0
+(firefox/)([0-9]\.|[0-1][0]\.) 3 2601 20190829032214 0
+Googlebot\-Image/ 3 0 20190825002139 0
+baidu 3 705905 20190802134037 0
+facebookexternalhit/ 2 777469 20190824074046 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+mp4 44 213273847 0 0
+jpg 4445 2767612332 0 0
+php 36993 164263173 0 0
+pdf 591 269453936 0 0
+gif 7117 10729798 0 0
+js 1738 6524940 0 0
+html 3651 2446882 0 0
+css 2655 1582940 0 0
+Unknown 2 25065 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 12
+/informacion/G.%20de%20la%202R.pdf 143 0 85095050
+/informacion/e-mail%20Comienzo%202R.pdf 117 0 60727358
+/informacion/e-mail%20de%20Resultados%203.pdf 70 0 31333017
+/informacion/Clas.%20Gral.%20Primera%20ronda.pdf 64 0 16865024
+/informacion/e-mail%20de%20Resultados%204.pdf 63 0 27286273
+/informacion/e-mail%20de%20Resultados%202.pdf 62 0 26507052
+/informacion/G.%20del%20participante%202019.pdf 45 0 10743848
+/informacion/e-mail%20de%20Resultados%206.pdf 30 0 13191360
+/informacion/Primeros%20pasos.mp4 24 15 103878844
+/informacion/Preguntas%20frecuentes.mp4 18 19 109395003
+/informacion/e-mail%20de%20Resultados%205.pdf 6 0 2603472
+/ejersicios/Decisiones_Ej._2.xls 2 0 191722
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 19
+macosx 77 54
+ios_ipad 17 9
+linuxandroid 29003 20469
+linux 488 400
+win8.1 853 572
+winxp 1782 1592
+macosx11 9 9
+win2003 345 306
+ios_iphone 6179 3745
+Unknown 36 34
+winlong 22 16
+win7 6772 4979
+macosx10 6 6
+win10 11476 8315
+macosx6 1 1
+winunknown 11 11
+macosx8 1 1
+win8 186 121
+macosx12 6 6
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 130
+chrome66.0.3359.106 37 17
+msie6.0 4 4
+chrome58.0.3029.110 1 1
+chrome66.0.3359.117 1 1
+opera63.0.3368.53 10 9
+edge18 95 55
+chrome26.0.1410.65 1 1
+opera62.0.3331.117 20 9
+firefox66.0 214 176
+chrome40.0.2214.115 1 1
+chrome75.0.3770.117 15 6
+chrome70.0.3538.64 16 7
+chrome55.0.2883.91 163 84
+chrome73.0.3683.75 81 59
+chrome71.0.3578.99 396 251
+chrome72.0.3626.109 16 10
+chrome38.0.1025.166 62 22
+safari12.1.2 2355 1413
+firefox58.0 2 2
+chrome56.0.2924.87 80 57
+chrome68.0.3440.91 171 117
+safari12.1 142 76
+chrome22.0.1207.1 1 1
+chrome65.0.3325.146 3 1
+chrome69.0.3497.100 780 571
+firefox60.0 8 4
+chrome34.0.1847.131 33 19
+chrome71.0.3578.98 1 1
+firefox62.0 1 1
+chrome77.0.3865.56 26 13
+safari5.1 1 1
+chrome72.0.3626.105 257 178
+firefox27.0 2 2
+chrome60.0.3112.113 1 1
+chrome74.0.3729.136 58 32
+chrome69.0.3497.128 160 86
+chrome41.0.2272.118 4 2
+safari 866 543
+Unknown 43 41
+chrome65.0.3325.181 26 13
+chrome44.0.2386.0 25 15
+chrome46.0.2490.76 315 195
+safari10.0 104 72
+chrome76.0.3809.87 191 120
+chrome26.0.1410.35 2 2
+chrome72.0.3626.121 358 200
+opera62.0.3331.99 14 8
+safari12.1.1 1773 1147
+chrome66.0.3359.126 794 729
+chrome34.0.1847.116 3 3
+edge15 131 92
+msie10.0 4 2
+msie7.0 9 8
+chrome76.0.3809.100 12703 9365
+chrome65.0.3325.162 1 1
+chrome66.0.3359.158 39 25
+safari11.1.1 6 5
+chrome74.0.3729.157 753 465
+chrome74.0.3694.0 5 3
+chrome67.0.3396.99 1 1
+chrome74.0.3729.169 15 5
+opera54.0.2952.64 1 1
+chrome76.0.3809.89 4309 2791
+chrome70.0.3538.80 140 127
+chrome71.0.3578.141 208 133
+firefox47.0 4 4
+chrome75.0.3770.89 35 23
+chrome52.0.2743.116 2 2
+chrome25.0.1364.172 1 1
+chrome49.0.2623.75 115 115
+edge17 234 145
+chrome70.0.3538.102 3 3
+chrome75.0.3770.101 2217 1765
+chrome43.0.2357.93 74 41
+chrome75.0.3770.100 306 190
+chrome67.0.3396.87 2533 1859
+chrome68.0.3440.85 28 17
+chrome37.0.0.0 7 4
+chrome71.0.3578.80 1 1
+opera62.0.3331.116 80 52
+chrome53.0.2785.124 14 9
+chrome75.0.3770.143 1155 706
+chrome51.0.2704.81 64 33
+chrome75.0.3770.142 1440 955
+opera54.0.2952.60 1 1
+chrome46.0.2490.86 64 37
+chrome76.0.3809.132 4951 3676
+firefox40.1 1 1
+firefox59.0 2 2
+chrome74.0.3729.112 76 31
+msie11.0 41 19
+msie8.0 186 159
+iphone 68 40
+chrome39.0.2171.52 16 8
+chrome44.0.2403.133 28 16
+opera62.0.3331.132 20 12
+chrome41.0.2228.0 1 1
+opera53.0.2907.99 2 2
+chrome71.0.3578.83 112 90
+chrome38.0.2125.102 38 22
+chrome74.0.3729.131 1 1
+chrome62.0.3202.84 7 4
+safari11.0 407 201
+firefox68.0 891 584
+chrome76.0.3809.111 10294 7584
+chrome72.0.3626.81 1 1
+chrome64.0.3282.137 177 98
+chrome69.0.3497.92 1 1
+firefox52.0 53 43
+chrome70.0.3538.77 1 1
+chrome73.0.3683.86 72 51
+chrome73.0.3683.90 546 337
+chrome77.0.3865.42 12 7
+firefox63.0 2 2
+chrome51.0.2704.106 12 6
+edge13 7 5
+firefox64.0 6 6
+firefox67.0 19 10
+chrome42.0.2311.152 2 2
+chrome45.0.2454.101 4 4
+firefox56.0 18 8
+opera55.0.2994.44 1 1
+chrome76.0.3809.103 56 28
+chrome75.0.3770.80 56 28
+chrome63.0.3239.111 49 29
+mozilla 33 33
+firefox19.0 1 1
+chrome59.0.3071.125 120 67
+chrome49.0.2623.112 1940 1781
+safari12.0 503 277
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 9
+WhatsApp/2.19.203_A 20190809180124
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20190803114230
+ia_archiver 20190801005736
+BPImageWalker/2.0_(www.bdbrandprotect.com) 20190817061342
+Mozilla/5.0_(compatible;_ips-agent) 20190801213747
+Go-http-client/1.1 20190831221241
+\ 20190830111146
+WhatsApp/2.19.216_A 20190810083655
+python-requests/2.21.0 20190823151317
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 8
+python-requests/2.21.0 20190823151317
+WhatsApp/2.19.216_A 20190810083655
+Microsoft_Office_Excel_2013 20190831175212
+\ 20190830111146
+Go-http-client/1.1 20190831221241
+BPImageWalker/2.0_(www.bdbrandprotect.com) 20190817061342
+ia_archiver 20190801005736
+WhatsApp/2.19.203_A 20190809180124
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 2909 2964
+From1 118 118
+From2 1099 1102
+From3 1354 1354
+From4 35166 51732
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 9
+sogou 5 5
+www_google_com_mx 1 1
+www_google_es 5 5
+ar_search_yahoo_com 6 6
+yandexru 2 2
+yhs4_search_yahoo_catchall 4 4
+ecosia 9 9
+www_google_com 895 897
+www_google_com_ar 172 173
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 751
+http://sapienter.mailrelay-iv.com/newslink/395637/4.html 21 21
+http://sapienter.mailrelay-iv.com/newslink/385689/139.html 13 13
+http://sapienter.mailrelay-iv.com/newslink/386942/139.html 11 11
+http://sapienter.mailrelay-iv.com/newslink/410324/4.html 11 11
+http://sapienter.mailrelay-iv.com/newslink/385903/139.html 10 10
+http://sapienter.mailrelay-iv.com/newslink/398602/1.html 9 9
+http://sapienter.mailrelay-iv.com/newslink/402267/4.html 9 9
+http://sapienter.mailrelay-iv.com/newslink/402301/4.html 9 9
+http://sapienter.mailrelay-iv.com/newslink/410801/4.html 8 8
+http://sapienter.mailrelay-iv.com/newslink/389790/139.html 8 8
+http://sapienter.mailrelay-iv.com/newslink/410183/4.html 7 7
+http://sapienter.mailrelay-iv.com/newslink/402261/4.html 7 7
+http://sapienter.mailrelay-iv.com/newslink/385546/139.html 7 7
+http://sapienter.mailrelay-iv.com/newslink/410805/4.html 7 7
+http://sapienter.mailrelay-iv.com/newslink/385261/139.html 7 7
+http://sapienter.mailrelay-iv.com/newslink/386490/139.html 7 7
+http://sapienter.mailrelay-iv.com/newslink/402217/4.html 7 7
+http://sapienter.mailrelay-iv.com/newslink/398623/1.html 7 7
+http://sapienter.mailrelay-iv.com/newslink/393662/4.html 7 7
+http://sapienter.mailrelay-iv.com/newslink/385253/139.html 6 6
+http://sapienter.mailrelay-iv.com/newslink/407304/4.html 6 6
+http://sapienter.mailrelay-iv.com/newslink/402245/4.html 6 6
+http://sapienter.mailrelay-iv.com/newslink/410114/4.html 6 6
+http://sapienter.mailrelay-iv.com/newslink/410098/4.html 6 6
+http://sapienter.mailrelay-iv.com/newslink/386490/4.html 6 6
+http://sapienter.mailrelay-iv.com/newslink/414600/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415319/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/411091/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410809/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/398592/1.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/410349/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/415164/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407342/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410857/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/410549/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407451/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/410866/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410957/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410238/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/401601/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415239/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410915/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/407336/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414615/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407366/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/402269/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/401691/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414513/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/410800/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414559/4.html 4 4
+http://sapienter.mailrelay-iv.com/newslink/415081/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414463/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/417947/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/402274/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407327/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/418032/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/402249/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410804/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/418050/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/411175/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414850/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/407886/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407880/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410303/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410808/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/410834/4.html 4 4
+http://sapienter.mailrelay-iv.com/newslink/414569/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/387369/139.html 1 1
+https://king.host 2 2
+http://sapienter.mailrelay-iv.com/newslink/417270/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410844/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415136/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407307/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/393596/4.html 4 4
+http://sapienter.mailrelay-iv.com/newslink/410404/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/417363/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/402256/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415434/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/415346/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407506/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415211/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/410131/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/407339/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410226/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/411195/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/393430/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410118/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/414398/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414857/4.html 5 5
+http://sapienter.mailrelay-iv.com/newslink/385371/139.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407419/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/415439/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410197/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/411024/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410962/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410862/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414437/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/407281/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414713/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407353/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410983/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415079/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410802/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/407708/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415070/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415334/4.html 4 4
+http://sapienter.mailrelay-iv.com/newslink/411039/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407399/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/400037/1.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/417352/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414497/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/411062/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/402284/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414546/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/372661/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410836/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/410178/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/407595/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414435/4.html 4 4
+http://sapienter.mailrelay-iv.com/newslink/415094/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/411004/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/401544/4.html 4 4
+http://sapienter.mailrelay-iv.com/newslink/411077/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/402361/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/417336/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414555/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/402381/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/415096/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/414579/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410195/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410434/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/389784/139.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414471/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415152/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/417443/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/401531/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/395662/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/410895/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410884/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/410797/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/415186/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407392/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/414386/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/414387/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410897/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/373701/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/399363/1.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407831/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/399286/1.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/408064/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/407324/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/407789/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415148/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/414884/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410853/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410841/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/385637/139.html 4 4
+http://sapienter.mailrelay-iv.com/newslink/414424/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410102/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414566/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/410358/4.html 4 4
+http://sapienter.mailrelay-iv.com/newslink/402219/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/407449/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/393393/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410228/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/418317/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410946/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410280/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414690/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/410803/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/410137/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/411148/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410140/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/414584/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/410405/4.html 4 4
+http://sapienter.mailrelay-iv.com/newslink/410206/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410422/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/417280/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410229/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410249/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410331/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414540/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410637/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415250/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410462/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/415220/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/389767/139.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/393698/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/414474/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410987/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410117/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/408097/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/398692/1.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/417412/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414430/4.html 1 1
+https://xn----stbbkefsko1e.xn--p1ai/menyu-i-czeny/ 1 1
+http://sapienter.mailrelay-iv.com/newslink/407512/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/395790/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/407793/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/411055/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/411063/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/386306/139.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/389717/139.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/401555/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/415575/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/402412/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/398652/1.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407331/4.html 4 4
+http://sapienter.mailrelay-iv.com/newslink/418083/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/402283/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/389720/139.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410112/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414604/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407261/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/417609/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/398610/1.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/415183/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410224/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410394/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414498/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410907/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/385492/139.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410332/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/402276/4.html 5 5
+http://sapienter.mailrelay-iv.com/newslink/410130/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/402214/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414470/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415363/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415089/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414457/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415242/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407590/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410992/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415422/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410963/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/410109/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/410624/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/401570/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/415572/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/407731/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407835/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/411043/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410166/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/401561/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/417455/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/417334/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/411104/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410328/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/389845/139.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/410479/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407433/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/414517/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414565/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/411206/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/385749/139.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410937/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414467/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/401611/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/402300/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/417410/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/402046/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/414550/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/390374/139.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/410913/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/407320/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/407544/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410930/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/372764/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415077/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/410829/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407289/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/410168/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407467/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/411041/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407440/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407334/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/414428/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/408118/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/401617/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/415072/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/415564/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/410820/4.html 5 5
+http://sapienter.mailrelay-iv.com/newslink/407679/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415080/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/415149/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414418/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410939/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410265/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410173/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410143/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/385516/139.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/410188/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/402463/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410890/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415491/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/390377/139.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/415069/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/410795/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/402308/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/402226/4.html 5 5
+http://sapienter.mailrelay-iv.com/newslink/407617/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407253/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/414635/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415254/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/385810/139.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415105/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415227/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/410929/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/417327/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/407350/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407314/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407568/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407667/4.html 4 4
+http://sapienter.mailrelay-iv.com/newslink/410104/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/407241/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/401712/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414784/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/410146/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410865/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/410389/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410322/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/414815/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410506/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/410338/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/417994/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414403/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415234/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/417985/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410807/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410204/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407240/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410537/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410365/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410325/4.html 5 5
+http://sapienter.mailrelay-iv.com/newslink/387209/139.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/415258/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407523/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/418330/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415087/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/407646/4.html 4 4
+http://sapienter.mailrelay-iv.com/newslink/407705/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410093/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414472/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/385725/139.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415201/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414521/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/407761/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414575/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415176/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/414389/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/414605/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414381/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410996/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/402229/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/417264/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/417248/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/410095/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410796/4.html 5 5
+http://sapienter.mailrelay-iv.com/newslink/407445/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/410270/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415196/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/386855/139.html 5 5
+http://sapienter.mailrelay-iv.com/newslink/418041/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410241/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/395718/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410138/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407728/4.html 4 4
+http://sapienter.mailrelay-iv.com/newslink/410485/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415118/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/389934/139.html 4 4
+http://sapienter.mailrelay-iv.com/newslink/415204/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/389975/139.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/410816/4.html 4 4
+http://sapienter.mailrelay-iv.com/newslink/410120/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407585/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410812/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/410154/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/411137/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410212/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/415235/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/414455/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/407758/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/407244/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410149/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407602/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/407402/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/414758/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/407368/4.html 4 4
+http://sapienter.mailrelay-iv.com/newslink/415566/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/410347/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407370/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/417942/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/414478/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/414434/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415299/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410153/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407349/4.html 4 4
+http://sapienter.mailrelay-iv.com/newslink/410879/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/402234/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407695/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/410236/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/389901/139.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410231/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/415086/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/415392/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410190/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/410835/4.html 4 4
+http://sapienter.mailrelay-iv.com/newslink/402232/4.html 5 5
+http://sapienter.mailrelay-iv.com/newslink/402265/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410984/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407562/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410832/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/410335/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410885/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/414534/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415137/4.html 1 1
+https://sucuri.net 1 1
+http://sapienter.mailrelay-iv.com/newslink/387396/139.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410431/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407329/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/414574/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407477/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/407462/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/393362/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/401584/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407788/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/401657/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/393607/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/417369/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414768/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/411174/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/417901/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407463/4.html 4 4
+http://sapienter.mailrelay-iv.com/newslink/418040/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414393/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/410243/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415119/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407718/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415101/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/411135/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/408119/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414490/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407279/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410216/4.html 4 4
+http://sapienter.mailrelay-iv.com/newslink/414372/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/393413/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/393366/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/417959/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/414458/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410903/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/417320/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410427/4.html 4 4
+http://sapienter.mailrelay-iv.com/newslink/415214/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/418150/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/411032/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/401664/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/402470/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410880/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/417313/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407423/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/407466/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415268/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410192/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414654/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415103/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/414377/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/401649/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410312/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407740/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407631/4.html 4 4
+http://sapienter.mailrelay-iv.com/newslink/415221/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415253/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/410919/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/407503/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414774/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/399311/1.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410217/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/417246/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407570/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/417407/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415172/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/392852/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415140/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/401565/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/417414/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/411116/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/411033/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414496/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/414453/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/390366/139.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407567/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/410199/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/399438/1.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415174/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/417220/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/410843/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/417247/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410215/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415173/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/399573/1.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414413/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/410326/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407636/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/407860/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414469/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/402439/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/401635/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414456/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/414443/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/417263/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/389792/139.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410975/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414429/4.html 2 2
+https://www.homepage-ar.com 1 1
+http://sapienter.mailrelay-iv.com/newslink/411347/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410113/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414571/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414576/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410833/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415083/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/418062/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407676/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/387157/139.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407483/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407378/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410830/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415141/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/411051/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410982/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/414632/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410845/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407782/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407641/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/411107/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410123/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410189/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410883/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415100/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415381/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415154/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410128/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/414537/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/410847/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/417923/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/410106/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/401721/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415084/4.html 5 5
+http://sapienter.mailrelay-iv.com/newslink/407725/4.html 5 5
+http://sapienter.mailrelay-iv.com/newslink/407284/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/401789/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407660/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/410161/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410846/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/372920/4.html 4 4
+http://sapienter.mailrelay-iv.com/newslink/414466/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/410959/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/414487/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/393401/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/415416/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/414451/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/389840/139.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410943/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414536/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415135/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415117/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/402577/4.html 2 2
+http://datadepths.com/profile.php 1 1
+http://sapienter.mailrelay-iv.com/newslink/410968/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/401526/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410302/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415074/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/399498/1.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/407374/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/408121/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/401659/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410849/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410864/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/401530/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/398742/1.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/408320/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414612/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/411086/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/410266/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/417221/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/417425/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/401524/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415071/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407340/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/396337/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/402387/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407502/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410213/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/411122/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/414716/4.html 6 6
+http://sapienter.mailrelay-iv.com/newslink/387094/139.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/414420/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/402442/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/402436/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/387310/139.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/407620/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/414404/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/410290/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414642/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/407427/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/398593/1.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/415277/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415224/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/417273/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/402475/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410940/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415088/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410973/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/414390/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414899/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/398607/1.html 4 4
+http://sapienter.mailrelay-iv.com/newslink/414509/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/401685/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410165/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410176/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410859/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410164/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407429/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/410127/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/398627/1.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/402223/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/414852/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/411118/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/410908/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410792/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/408071/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/401632/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410949/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/415342/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410097/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/387168/139.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/410901/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407805/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414422/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415514/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410115/4.html 5 5
+http://sapienter.mailrelay-iv.com/newslink/389993/139.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415076/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/396382/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415073/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415163/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/418063/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/401615/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/417561/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407249/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/398637/1.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407310/4.html 6 6
+http://sapienter.mailrelay-iv.com/newslink/410225/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/393422/4.html 4 4
+http://sapienter.mailrelay-iv.com/newslink/390646/139.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415195/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410160/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410152/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414601/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/399427/1.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410299/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410198/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414475/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415189/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/410817/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/414375/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/411254/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/395785/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/417230/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407515/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/411057/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410911/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407447/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/387644/139.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410463/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414834/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/398589/1.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/407438/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/398829/1.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410945/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414666/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/407319/4.html 4 4
+http://sapienter.mailrelay-iv.com/newslink/410381/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407490/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415210/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/407588/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407294/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407385/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/372903/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415161/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410296/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407630/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410840/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407273/4.html 4 4
+http://sapienter.mailrelay-iv.com/newslink/415093/4.html 5 5
+http://sapienter.mailrelay-iv.com/newslink/414426/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410824/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/410831/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407803/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/407522/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/389735/139.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407545/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/408597/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415327/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/399304/1.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410175/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/415095/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410861/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/355531/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415252/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414441/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/415128/4.html 4 4
+http://sapienter.mailrelay-iv.com/newslink/411209/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/407507/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415091/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/414535/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407495/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/417919/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407487/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410351/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415187/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/415370/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/410924/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407365/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/390436/139.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410103/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/385465/139.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/399007/1.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414618/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/385328/139.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407754/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/398585/1.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414593/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/387679/139.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/392860/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/410811/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/402462/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415175/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/417547/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415240/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/415191/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/410967/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/417278/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407396/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/417389/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/398687/1.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/402252/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/402243/4.html 2 2
+http://sapienter.mailrelay-iv.com/newslink/417388/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/414583/4.html 1 1
+http://sapienter.mailrelay-iv.com/newslink/407651/4.html 3 3
+http://sapienter.mailrelay-iv.com/newslink/410948/4.html 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+site+www.sapienter.org 5
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+site 5
+www.sapienter.org 5
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+206 362 65887301
+302 11883 2663268
+301 1 247
+404 57954 49785947
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 121
+/mod_principal/cerrar.gif 1732 http://sapienter.org/mod_principal/decisiones_historico.php
+/admin/ 1 -
+/apple-touch-icon-precomposed.png 564 -
+/home 1 -
+/plus/ad_js.php 1 -
+/wp-admin 1 -
+/mod_administrador/cerrar.gif 97 http://sapienter.org/mod_administrador/empresa_listado.php
+/mod_principal/ 1 -
+/plus/download.php 1 -
+/site/ 2 -
+/main/ 2 -
+/drupal/CHANGELOG.txt 1 -
+/tmp/ 2 -
+/administrator/index.php 1 -
+/ingreso_certamen 1 -
+/mod_administrador/cmsimages/right1.gif 97 http://sapienter.org/mod_administrador/empresa_listado.php
+/new 1 -
+/test/CHANGELOG.txt 1 -
+/mod_profesores/cmsimages/right2.gif 1885 http://www.sapienter.org/mod_profesores/empresa_listado_prof.php
+/mod_principal/cmsimages/drop1.gif 1732 http://sapienter.org/mod_principal/decisiones_historico.php
+/mod_profesores/cmsimages/left2.gif 1886 http://www.sapienter.org/mod_profesores/empresa_listado_prof.php
+/temp/ 2 -
+/include/dialog/select_soft_post.php 2 -
+/mod_principal/calendar_izquierda.gif 1731 http://sapienter.org/mod_principal/decisiones_historico.php
+/mod_principal/css/estilos.css 2420 http://sapienter.org/mod_principal/decisiones_historico.php
+/home/ 2 -
+/mod_principal/cmsimages/right2.gif 1732 http://sapienter.org/mod_principal/decisiones_historico.php
+/a 1 -
+/mod_profesores/cmsimages/right1.gif 1884 http://www.sapienter.org/mod_profesores/empresa_listado_prof.php
+/mod_administrador/calendar_derecha.gif 97 http://sapienter.org/mod_administrador/empresa_listado.php
+/mod_profesores/mensaje_error.php 30 -
+/mod_administrador/images/inicio_on.gif 6 http://sapienter.org/mod_administrador/empresa_listado.php
+/web/ 2 -
+/new/ 2 -
+/mod_administrador/cmsimages/right2.gif 97 http://sapienter.org/mod_administrador/empresa_listado.php
+/shop/CHANGELOG.txt 1 -
+/mod_principal/mensaje_ok.php 3106 -
+/site/CHANGELOG.txt 1 -
+/mod_profesores/css/estilos.css 2393 http://www.sapienter.org/mod_profesores/empresa_listado_prof.php
+/ppx.php 2 -
+/acceso/images/logo_enc.jpg 5 http://www.sapienter.org/acceso/
+/test/ 2 -
+/apple-touch-icon.png 561 -
+/mod_profesores/images/inicio_on.gif 21 http://www.sapienter.org/mod_profesores/empresa_listado_prof.php
+/plus/pkkwlamreppk.php 1 -
+/news/ppx.php 1 -
+/public/js/cookie.js 1 -
+/mod_principal/cmsimages/drop2.gif 1733 http://sapienter.org/mod_principal/decisiones_historico.php
+/404javascript.js 1 https://www.google.com/url/
+/jscripts/java.js 3724 http://sapienter.org/mod_principal/decisiones_historico.php
+/mod_administrador/cmsimages/drop1.gif 97 http://sapienter.org/mod_administrador/empresa_listado.php
+/joomla 1 -
+/wp/ 2 -
+/mod_profesores/cmsimages/drop2.gif 1885 http://www.sapienter.org/mod_profesores/empresa_listado_prof.php
+/browserconfig.xml 1 -
+/templates/default/images/mobile/icon_on.png 1 -
+/plus/oupatryzqyl.php 1 -
+/index.action 1 -
+/wordpress/wp-admin/ 1 -
+/pages/viewpage.action 1 -
+/update.php 1 -
+/informacion/e-mail%20de%20Comienzo%20de%20la%202%C2%B0%20Ronda.pdf 61 http://sapienter.org/mod_principal/menu_principal.php
+/mod_administrador/estilos_relevamiento.css 117 http://sapienter.org/mod_administrador/menu_principal_admin.php
+/wordpress 1 -
+/mod_administrador/cmsimages/drop2.gif 97 http://sapienter.org/mod_administrador/empresa_listado.php
+/wp 1 -
+/store/CHANGELOG.txt 1 -
+/acceso/css/estilos.css 655 http://sapienter.org/acceso/login.php
+/mod_administrador/mensaje_error.php 2 http://sapienter.org/mod_administrador/empresa_listado.php
+/wordpress/ 2 -
+/.git/HEAD 2 -
+/blog/CHANGELOG.txt 1 -
+/mod_principal/cmsimages/left2.gif 1733 http://sapienter.org/mod_principal/decisiones_historico.php
+/demo 1 -
+/robots.txt 268 -
+/informacion/G.%20de%20la%202%C2%B0%20Ronda.pdf 52 http://www.sapienter.org/mod_principal/menu_principal.php
+/%20ingreso%20certamenjuvenil 1 -
+/mod_principal/cmsimages/left1.gif 1731 http://sapienter.org/mod_principal/decisiones_historico.php
+/cms 1 -
+/old/ 2 -
+/press 1 -
+/404testpage4525d2fdc 1 https://sucuri.net
+/wp-login.php 2 -
+/login 1 -
+/demo/ 2 -
+/en 1 -
+/mod_administrador/calendar_izquierda.gif 97 http://sapienter.org/mod_administrador/empresa_listado.php
+/apple-touch-icon-120x120-precomposed.png 463 -
+/portal/ 2 -
+/forum/CHANGELOG.txt 1 -
+/mod_principal/cmsimages/right1.gif 1732 http://sapienter.org/mod_principal/decisiones_historico.php
+/login.action 1 -
+/index.html 1 -
+/mod_profesores/estilos_relevamiento.css 7 http://www.sapienter.org/mod_profesores/menu_principal_prof.php
+/dpanel 2 -
+/images/ 1 -
+/mod_administrador/cmsimages/left1.gif 97 http://sapienter.org/mod_administrador/empresa_listado.php
+/mod_profesores/cmsimages/left1.gif 1886 http://www.sapienter.org/mod_profesores/empresa_listado_prof.php
+/plus/wobxcrbbwzjdq.php 1 -
+/CHANGELOG.txt 1 -
+/mod_administrador/cmsimages/left2.gif 97 http://sapienter.org/mod_administrador/empresa_listado.php
+/mod_profesores/calendar_derecha.gif 1885 http://www.sapienter.org/mod_profesores/empresa_listado_prof.php
+/blog/ 2 -
+/mod_profesores/cmsimages/drop1.gif 1885 http://www.sapienter.org/mod_profesores/empresa_listado_prof.php
+/wp/wp-admin/ 1 -
+/apple-touch-icon-120x120.png 462 -
+/css/ 1 -
+/mod_administrador/css/estilos.css 146 http://sapienter.org/mod_administrador/empresa_listado.php
+/mod_principal/calendar_derecha.gif 1729 http://sapienter.org/mod_principal/decisiones_historico.php
+/blog 1 -
+/acceso/images/login.gif 5 http://www.sapienter.org/acceso/
+/cms/ 2 -
+/mod_principal/mensaje_error.php 282 http://sapienter.org/mod_principal/menu_principal.php
+/acceso/imagenes/login_recuadro.gif 5 http://www.sapienter.org/acceso/
+/news 1 -
+/dev/ 2 -
+/mod_principal/estilos_relevamiento.css 9083 http://www.sapienter.org/mod_principal/menu_principal.php
+/mod_profesores/cerrar.gif 1885 http://www.sapienter.org/mod_profesores/empresa_listado_prof.php
+/mod_profesores/calendar_izquierda.gif 1885 http://www.sapienter.org/mod_profesores/empresa_listado_prof.php
+/backup/ 2 -
+/xmlrpc.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 2194
+66.249.85.27 1531 2145 134753856 20190831195336
+66.249.85.26 1514 2176 129867051 20190831195325
+66.249.85.28 1405 2030 104492580 20190831184306
+66.249.85.14 1229 1830 126906275 20190831182644
+66.249.85.13 1155 1706 132867648 20190831182651
+66.249.85.15 1140 1695 121227938 20190831182711
+45.176.88.4 837 1254 21589088 20190823093638
+186.19.132.188 618 638 7309083 20190831144406
+168.227.97.126 607 645 9443285 20190830185838
+181.44.128.36 478 499 3616569 20190831171204
+66.249.85.46 359 553 36561344 20190813165319
+66.249.85.42 343 574 43319123 20190813164927
+200.82.123.69 342 380 11703798 20190830144453
+66.249.85.44 332 539 40140443 20190813164954
+45.176.88.2 330 412 10124969 20190823120411
+190.191.113.200 306 390 9897407 20190830060820
+66.249.85.19 280 449 30370664 20190813155754
+181.166.142.116 274 414 29646616 20190830085803
+181.171.131.29 263 430 23140953 20190831170620
+66.249.85.18 256 412 37227077 20190829041653
+181.170.136.112 236 331 14338875 20190831142031
+66.249.85.20 235 389 29171367 20190813155734
+190.193.20.24 232 277 40045565 20190831150122
+152.170.37.11 212 272 10662404 20190831175232
+181.170.239.30 211 223 4342650 20190831144647
+104.237.157.29 9 10 18891 20190830182646
+181.231.104.42 6 12 1424159 20190817113217
+66.249.83.78 2 5 707757 20190808080123
+181.84.205.153 1 1 1264 20190830035549
+186.109.211.140 16 22 1441684 20190829161022
+190.229.104.28 23 24 730142 20190823181936
+104.131.65.251 1 1 15752 20190824085437
+200.114.122.172 3 3 45485 20190824093907
+186.143.137.83 1 2 242544 20190813121917
+181.117.224.152 2 2 2285 20190816045532
+190.225.121.165 10 16 772568 20190824090216
+186.12.88.241 3 3 3190 20190808180757
+201.159.58.14 5 13 696863 20190815122757
+186.153.51.0 11 21 1416130 20190828160518
+45.178.1.17 4 5 4496 20190830053859
+186.141.229.238 13 13 172945 20190823041630
+181.117.224.104 2 2 1711 20190815071828
+186.0.161.140 9 15 1469809 20190817113635
+181.165.254.250 46 69 5019990 20190825152703
+181.117.232.41 1 1 14010 20190823173130
+186.143.137.5 7 7 9697 20190827045826
+181.81.148.120 5 5 21797 20190831143514
+186.141.229.204 2 5 707757 20190813040708
+181.9.154.202 8 8 38885 20190831142841
+181.13.70.3 1 1 718 20190809085428
+181.9.161.105 1 1 1264 20190831165927
+66.249.85.36 2 2 2262 20190810073637
+186.138.148.68 13 13 183493 20190827051239
+181.84.216.82 6 14 6877219 20190812155609
+186.143.201.80 2 2 29685 20190812035149
+201.250.168.233 23 31 1538108 20190831145358
+186.141.136.92 8 14 727512 20190821071642
+181.9.139.236 6 6 60990 20190823044322
+45.176.88.5 8 16 728141 20190815024537
+201.250.146.233 4 11 699179 20190806094531
+186.137.116.158 62 87 6702410 20190831171644
+181.92.133.206 1 1 1264 20190803195256
+186.141.227.36 2 2 29824 20190820055440
+186.12.32.86 1 1 718 20190815052612
+186.141.133.64 7 13 1424857 20190812080238
+190.48.108.194 50 58 1016349 20190816032830
+186.141.227.136 22 31 1628903 20190821063938
+31.171.249.150 1 1 662 20190806154816
+181.9.122.189 1 1 15750 20190830063928
+186.141.135.154 1 1 718 20190808120823
+190.224.86.1 4 4 8021 20190828164523
+181.170.133.132 13 32 1429949 20190829183452
+181.117.232.40 6 7 35161 20190828040237
+186.141.161.111 9 10 719553 20190815052342
+186.12.8.42 2 2 29761 20190824090425
+190.51.15.253 28 42 3691403 20190820061821
+181.164.219.96 22 39 3533013 20190831145011
+221.0.94.78 1 1 1277 20190827151733
+181.9.161.66 1 1 1264 20190828045532
+186.59.223.117 7 18 1387735 20190815184327
+170.51.164.122 8 9 22834 20190814142513
+201.213.135.145 17 32 4675535 20190817155301
+186.111.170.158 14 22 1437529 20190815141106
+186.122.133.152 2 2 29724 20190813193410
+45.175.150.2 57 74 5172586 20190831162937
+186.141.199.76 6 15 1402171 20190807064852
+35.247.122.48 34 34 69880 20190830154900
+66.249.83.198 3 3 1986 20190814070657
+186.141.134.210 10 13 19322 20190812144830
+45.70.117.58 118 124 1285431 20190829171836
+181.44.129.7 12 24 2818669 20190824133133
+201.255.11.64 1 3 705905 20190817113328
+190.9.19.168 2 2 2528 20190827121131
+186.141.228.16 2 2 29686 20190827082405
+186.12.53.35 1 1 718 20190823072317
+190.17.145.210 15 27 2128379 20190817081152
+186.138.150.153 1 1 15754 20190819104650
+186.143.135.104 16 25 1428272 20190829070327
+168.194.206.190 8 11 1406501 20190824093102
+190.191.80.69 109 149 9297985 20190824084950
+190.173.83.82 4 9 703117 20190817134850
+186.12.52.46 1 1 718 20190809061056
+186.58.93.88 49 54 547464 20190823125122
+181.9.176.81 5 5 62198 20190816121821
+190.139.72.151 29 50 3588528 20190814104623
+186.12.40.168 1 1 718 20190830162902
+186.12.105.182 1 1 662 20190807055005
+190.113.152.32 3 6 1387912 20190811113306
+190.183.223.15 2 2 29892 20190824091858
+35.227.176.39 12 12 21264 20190830155143
+186.143.133.227 8 9 62656 20190827111614
+201.231.161.204 0 1 432637 
+186.143.136.146 2 2 29723 20190822034214
+186.143.199.206 5 5 7729 20190816060352
+181.9.124.26 5 5 31987 20190821140610
+186.111.173.138 19 20 120012 20190817173038
+186.12.68.114 7 10 34499 20190829055128
+186.141.199.181 0 1 263516 
+181.93.88.81 7 14 1666531 20190824085914
+190.172.161.204 27 52 5203697 20190813091934
+186.141.135.77 2 2 1436 20190809104347
+186.125.67.92 7 16 1403786 20190830170338
+118.25.105.207 1 1 662 20190823151317
+186.143.200.244 1 1 13958 20190830064931
+186.12.48.119 7 7 50252 20190823042248
+186.12.44.24 1 1 15760 20190824102856
+181.9.128.31 2 4 706567 20190829114037
+186.12.56.193 6 11 692544 20190808053141
+190.173.82.178 2 2 29724 20190824090426
+181.117.224.80 3 3 43711 20190813151934
+170.51.164.5 1 1 662 20190808074524
+186.143.133.216 1 1 718 20190821141335
+181.81.153.101 9 11 1422219 20190831221119
+201.178.43.67 3 3 30585 20190824090440
+190.7.16.207 9 15 1439781 20190817115612
+186.12.64.216 7 16 1403726 20190809061613
+186.141.201.243 10 16 1398842 20190829042247
+186.141.226.167 13 16 730017 20190827053633
+138.117.48.5 44 71 4790229 20190830111038
+181.9.120.126 12 22 1419005 20190827045356
+181.98.102.139 1 3 705905 20190820180958
+186.143.197.197 1 1 718 20190808075550
+186.111.172.104 12 14 721715 20190817100604
+45.178.3.24 1 1 718 20190801053132
+186.133.162.20 73 82 836507 20190830183520
+186.143.135.156 1 1 14027 20190817121123
+191.81.212.71 7 13 1424771 20190824085852
+190.182.247.6 32 58 5338965 20190825200049
+201.250.149.150 6 6 85945 20190824113202
+186.12.68.10 7 7 9645 20190816053237
+181.90.45.101 14 23 1493501 20190824090830
+181.13.74.83 12 18 1464525 20190824094500
+181.13.69.235 7 13 1397558 20190827080718
+181.46.148.227 21 40 2177379 20190828054641
+174.138.45.242 4 4 59676 20190826113229
+104.227.246.106 2 2 2554 20190808144704
+52.70.5.189 1 1 5126 20190829145340
+170.51.189.134 15 24 1416554 20190809181310
+191.83.32.166 4 4 3972 20190831144401
+181.9.122.186 1 1 662 20190830122049
+186.122.132.153 2 4 681993 20190813193341
+191.83.220.204 1 3 705905 20190824100002
+186.143.138.250 14 24 1417717 20190809035810
+181.171.29.186 9 10 44539 20190823053039
+200.127.14.24 55 72 3590163 20190830132130
+186.143.137.8 8 11 68452 20190812035104
+201.252.63.62 8 16 1447627 20190824092505
+181.84.223.97 6 12 1424198 20190829024336
+186.141.225.129 2 2 29747 20190816194025
+166.78.150.203 1 1 662 20190805134726
+186.141.133.157 3 3 30463 20190810095921
+186.141.225.217 5 5 18821 20190817112837
+45.176.88.13 22 24 68074 20190830143842
+190.178.190.33 8 9 36831 20190822171530
+181.117.228.156 9 20 2790325 20190809064129
+186.141.231.78 5 5 33718 20190827081010
+216.244.248.22 98 123 6499894 20190817152035
+181.169.182.35 13 25 2864014 20190831163031
+181.9.158.231 12 12 118543 20190827062342
+170.51.148.115 6 11 734561 20190813060039
+186.0.161.26 7 12 720684 20190824085949
+186.141.230.80 2 4 682595 20190809081327
+181.114.193.113 7 16 1403768 20190822164517
+201.213.60.73 30 43 2861430 20190816024824
+190.18.128.164 15 21 1559084 20190831181230
+186.12.16.158 2 2 29786 20190824085442
+186.12.117.166 2 2 1986 20190807062812
+186.12.40.160 7 10 14136 20190816045805
+186.137.22.213 11 17 1405545 20190831141436
+186.111.162.153 1 1 1264 20190823182922
+170.51.144.59 1 1 718 20190822131003
+186.12.73.57 6 9 39312 20190824091651
+186.141.133.251 1 3 705905 20190820035310
+200.127.82.77 6 12 1424203 20190824131431
+186.141.231.50 1 1 15754 20190823044459
+190.137.181.174 2 2 2528 20190826090340
+186.143.198.136 2 2 29819 20190812110155
+190.195.62.14 9 15 1440712 20190810084959
+181.9.177.163 7 16 1402920 20190823073816
+181.169.124.169 12 24 2848366 20190826095718
+186.143.202.168 3 3 45521 20190816101445
+190.177.154.196 1 3 705905 20190831160154
+181.166.208.72 9 12 21909 20190830101603
+181.91.223.98 4 10 1394368 20190817130802
+186.23.60.231 75 90 1783091 20190831164547
+138.121.104.13 13 19 1531392 20190831142351
+181.98.101.27 53 61 1503027 20190817113336
+152.168.63.24 5 5 75567 20190824102602
+38.145.83.249 1 1 662 20190828232301
+186.59.233.211 4 8 693928 20190830153926
+143.0.170.2 5 5 60290 20190830145757
+186.143.136.121 2 2 29917 20190830102418
+69.58.178.59 3 3 2588 20190801213747
+181.9.154.41 6 12 1424216 20190831164833
+167.99.212.214 1 1 662 20190816205557
+181.171.175.118 9 16 2003967 20190821134826
+190.178.157.54 7 9 740146 20190811102915
+186.134.242.80 14 24 1447693 20190810080416
+138.59.1.172 2 2 2528 20190824073137
+186.141.226.97 1 1 718 20190809074455
+201.250.98.50 29 40 2976794 20190812113401
+186.141.229.167 5 7 713849 20190820055427
+181.9.153.4 3 6 1387912 20190812052418
+181.13.68.118 2 2 29841 20190820060228
+64.246.165.180 1 1 662 20190802004726
+181.89.250.13 2 2 1711 20190809183621
+168.227.96.126 117 121 2233914 20190830185737
+186.109.245.139 12 26 2122906 20190810080832
+186.12.36.111 7 7 90004 20190823070700
+186.12.40.32 8 8 12864 20190816150259
+186.111.163.45 2 2 2528 20190814174655
+170.51.173.214 1 1 718 20190823081131
+186.141.225.55 8 12 22401 20190829042430
+38.145.102.28 1 1 662 20190812231908
+186.143.136.202 2 2 29741 20190812044238
+186.0.160.69 7 16 1403754 20190822133740
+18.237.46.28 1 1 662 20190829214919
+186.141.229.186 18 18 30311 20190823080439
+37.147.234.199 1 2 1250 20190804040713
+186.12.68.122 14 23 718961 20190807061659
+186.111.172.163 6 12 1424043 20190820063807
+186.141.225.66 2 2 29930 20190831153614
+181.101.101.138 2 2 2528 20190805135149
+186.143.133.146 1 1 718 20190830130058
+190.103.241.196 1 1 662 20190831041303
+181.111.79.21 1 1 1264 20190805194639
+186.141.226.52 9 14 1402775 20190817112443
+186.141.198.197 3 3 30559 20190830064931
+190.137.182.231 17 17 26023 20190809080815
+181.9.125.55 9 15 1426910 20190822071213
+45.226.224.124 8 12 760085 20190817112516
+66.249.85.38 26 39 2166398 20190811101620
+200.126.149.77 30 42 4067821 20190824100626
+186.108.65.115 24 44 4342300 20190817111551
+186.143.199.198 10 19 1408194 20190808090811
+186.141.231.61 5 7 10725 20190830160228
+8.28.16.254 1 1 1277 20190826093436
+186.143.200.114 21 33 1425571 20190808121826
+45.178.2.61 7 7 88946 20190824092708
+181.13.68.46 8 8 9816 20190823095402
+186.12.109.175 5 5 71438 20190828034838
+181.99.84.105 2 2 15504 20190818084409
+186.141.226.169 2 2 3349 20190809080015
+186.143.137.63 1 1 718 20190820072148
+186.141.229.182 2 2 1986 20190816045649
+186.143.202.158 1 3 705905 20190829072546
+186.143.164.213 5 5 8450 20190823052509
+186.143.202.239 2 2 1711 20190829063804
+168.226.217.172 59 98 7168945 20190830073205
+181.13.77.5 1 1 15792 20190828042756
+173.252.87.18 1 2 1250 20190813014003
+181.101.10.104 6 7 156079 20190824113342
+181.231.150.207 23 23 323426 20190829160409
+181.9.180.6 4 4 59546 20190824103805
+181.9.140.204 16 22 1462437 20190824093209
+190.191.174.14 14 23 716922 20190822041619
+186.143.165.155 2 4 1386060 20190817154336
+179.63.242.10 2 2 2528 20190828131020
+181.9.164.250 6 12 1424095 20190812123657
+190.173.126.79 2 2 31454 20190826081004
+186.141.230.94 5 8 1405191 20190823044202
+186.143.136.111 1 1 1264 20190814104506
+66.249.83.74 2 2 1324 20190828081101
+181.1.7.133 1 1 1264 20190807175741
+190.48.82.60 5 10 718695 20190812114504
+186.143.133.219 1 1 718 20190808090924
+54.185.215.243 1 1 662 20190823012515
+186.12.56.132 2 2 29864 20190821052356
+45.232.18.68 35 47 2799683 20190829064754
+3.8.68.2 1 1 662 20190814064631
+181.91.220.70 2 2 29704 20190816163541
+181.169.207.61 66 75 1526277 20190830172340
+181.9.121.199 7 16 1403699 20190807065218
+179.36.88.190 2 2 29833 20190828163311
+45.160.199.60 26 36 760533 20190830124705
+181.13.66.51 1 1 14066 20190829075131
+168.196.115.1 8 14 1453886 20190822143435
+186.59.206.140 2 2 29698 20190824142258
+181.13.70.159 75 77 443657 20190831134658
+207.154.240.6 1 1 1277 20190819151240
+181.117.236.123 6 13 1410250 20190812043308
+181.14.169.163 24 33 2042388 20190831160902
+66.249.85.60 10 11 48803 20190812055931
+170.51.185.183 1 1 718 20190805122142
+186.12.32.31 3 3 45571 20190823192308
+186.143.136.74 6 10 1394682 20190829113248
+190.177.134.108 3 3 30588 20190823173543
+138.59.1.178 82 144 11546872 20190830183044
+186.109.245.27 5 5 59950 20190810152949
+190.178.169.242 8 18 1411750 20190809131114
+186.12.20.175 7 10 1395108 20190829060207
+186.12.117.144 2 2 29717 20190824085341
+170.51.173.171 4 4 59234 20190813061408
+181.9.183.163 1 1 718 20190822112548
+181.9.153.37 0 1 679479 
+190.52.37.229 26 41 3617205 20190824130626
+181.230.147.133 4 6 736395 20190827181853
+181.46.141.192 2 2 27858 20190822153014
+181.13.78.63 7 8 740084 20190812035455
+181.81.140.203 3 3 3190 20190828164502
+186.111.160.139 1 1 1264 20190803081244
+186.123.128.68 28 45 4374450 20190824095512
+186.143.164.164 2 2 29703 20190821043920
+181.166.110.135 51 65 4205999 20190826083631
+186.111.144.214 1 3 705905 20190817120214
+120.131.7.216 2 2 1324 20190825215728
+34.223.250.63 1 1 662 20190830214510
+190.124.134.68 33 47 5706820 20190831160455
+170.51.181.105 7 13 1439559 20190817113651
+190.224.86.72 7 7 50291 20190817123932
+168.196.114.6 10 16 1483757 20190824101258
+186.12.105.150 10 19 1406952 20190809101052
+186.141.232.7 7 15 1435554 20190817183658
+132.255.113.84 14 15 562556 20190831152702
+201.250.127.27 51 63 867622 20190830183623
+200.125.108.129 25 37 2892297 20190831143706
+190.225.32.5 1 1 718 20190823192025
+190.190.47.5 3 3 45677 20190817112324
+181.46.1.89 105 170 12833274 20190831142557
+186.143.199.209 7 16 1402842 20190808071007
+181.9.179.27 5 11 1408393 20190810084258
+186.141.198.155 3 3 30602 20190830164318
+186.143.197.18 1 1 15817 20190830052740
+200.127.10.191 4 5 699308 20190818203355
+170.51.148.149 1 1 718 20190823135101
+191.82.96.85 2 2 29642 20190813155754
+181.9.132.186 1 3 681331 20190809060613
+186.143.200.84 6 6 6930 20190808042248
+181.117.216.148 1 1 15803 20190827082049
+35.233.204.3 29 29 56969 20190824035035
+181.199.157.200 30 36 1421623 20190809183342
+190.178.89.221 18 30 2863771 20190817112259
+181.228.244.143 5 11 1423004 20190817114102
+181.9.166.140 1 1 1264 20190820070705
+66.249.83.70 1 1 662 20190806174427
+186.143.199.85 13 19 1433108 20190813060720
+170.51.152.76 6 13 693445 20190808123808
+200.85.110.70 17 29 2839979 20190825065041
+191.97.40.83 17 31 1443348 20190825160319
+186.141.226.224 6 12 1424080 20190817183904
+181.9.166.146 1 3 705905 20190827112832
+186.139.147.87 26 37 4526868 20190831180307
+200.127.60.29 16 27 2141299 20190831152221
+181.13.72.34 9 16 2148207 20190810185014
+45.178.1.10 28 37 1501911 20190828065339
+46.162.1.42 1 1 1277 20190826005126
+200.127.113.44 1 1 15749 20190817151321
+181.164.67.192 35 41 1677462 20190825155900
+181.114.193.2 199 250 9834367 20190831153951
+181.170.186.95 4 4 59555 20190824093511
+181.9.129.239 8 11 15685 20190813070021
+181.31.241.120 1 3 1250 20190821082645
+186.141.162.234 3 3 45602 20190810101254
+190.48.66.148 16 26 718771 20190802025419
+185.103.110.204 1 1 1277 20190818165854
+190.188.51.38 3 3 45541 20190814085057
+186.111.165.223 3 3 3792 20190817153732
+190.107.219.43 6 6 45820 20190830165324
+181.117.236.202 5 5 70005 20190824094525
+181.9.131.57 3 3 2154 20190830122447
+186.12.105.66 1 1 718 20190812122931
+186.56.230.92 9 16 1456008 20190817113305
+168.228.143.108 48 49 768088 20190830172705
+186.137.22.22 3 8 689032 20190810162604
+66.249.93.69 1 6 714665 20190830135921
+66.249.85.25 0 1 432637 
+66.249.93.70 1 2 1852 20190830135834
+181.13.68.254 11 17 1461351 20190812082919
+186.143.133.223 9 9 138454 20190829132516
+181.13.65.167 1 1 718 20190809060111
+179.40.16.253 18 37 77846 20190824123527
+191.82.22.17 7 16 1431308 20190816064608
+190.11.143.78 173 211 6991029 20190829075403
+181.9.120.83 17 17 49473 20190830125247
+181.9.125.56 1 1 718 20190816063709
+201.250.169.171 94 118 3060940 20190811021045
+186.141.230.204 7 7 90088 20190820062053
+181.117.232.123 6 8 34930 20190810082810
+181.9.125.164 1 1 662 20190822142746
+45.178.1.53 0 3 1249246 
+186.143.137.148 16 17 71871 20190823150234
+181.167.254.225 72 136 12243019 20190830085244
+181.9.177.82 2 2 29784 20190825094934
+186.12.44.36 8 14 1455678 20190817115902
+186.12.44.96 5 14 1401462 20190816051923
+181.9.173.124 1 1 14047 20190817114418
+190.136.217.109 4 7 1389486 20190820162023
+186.143.138.12 2 2 1436 20190806121105
+190.226.105.111 2 2 29757 20190817120815
+128.201.110.1 23 41 2849966 20190823055215
+190.178.108.224 10 16 1456348 20190826110128
+190.190.99.175 2 2 1436 20190830175258
+186.141.231.92 9 18 1405636 20190809051937
+190.1.114.253 26 40 5712754 20190831170050
+190.8.62.120 4 7 1389176 20190818143804
+181.9.124.185 1 1 718 20190830142918
+186.108.91.2 6 14 698408 20190809142732
+181.84.223.16 5 11 1408315 20190827134048
+181.117.236.98 1 1 15754 20190815045315
+186.143.133.56 1 1 718 20190829113518
+181.92.234.183 1 1 1264 20190810163358
+52.32.33.48 1 1 662 20190829000136
+143.202.144.57 6 12 1424065 20190812173948
+181.101.220.171 2 5 1411222 20190815044021
+190.190.192.13 7 7 104772 20190824085304
+186.109.209.232 19 30 1434136 20190809144838
+186.39.248.38 8 14 1452358 20190829191630
+186.12.48.123 11 21 2046063 20190816045649
+186.12.171.201 1 3 2451 20190813192148
+131.161.237.105 9 17 1409809 20190821081917
+66.249.85.30 18 24 1284817 20190831033955
+45.178.1.52 1 1 15766 20190829041909
+45.175.150.8 4 4 59304 20190827200056
+190.183.210.106 7 14 1843214 20190827113311
+186.12.85.51 2 2 29833 20190812052452
+186.190.144.218 5 5 73590 20190824084837
+181.15.180.125 6 6 87574 20190817175929
+170.51.152.78 1 1 718 20190808134020
+186.143.161.62 6 6 25577 20190823052454
+181.13.79.5 7 15 699422 20190816061256
+181.9.155.171 3 3 45418 20190812043417
+186.12.48.82 4 10 1394358 20190816050749
+186.12.44.156 2 2 16525 20190830065204
+66.249.85.62 4 4 5049 20190812055835
+168.194.206.119 1 1 718 20190830101120
+181.118.72.241 0 1 704655 
+181.81.155.176 0 1 2890 
+23.239.180.248 1 1 1277 20190819112025
+186.190.135.202 4 4 59420 20190824085539
+181.97.221.4 1 1 662 20190826090329
+186.143.134.20 1 1 718 20190821134120
+66.249.85.3 21 24 132555 20190813071355
+34.220.115.131 1 1 662 20190818000644
+188.10.42.5 3 6 1387912 20190816161609
+186.143.134.38 16 24 2210948 20190810101128
+186.141.137.137 2 2 28222 20190824093343
+181.81.132.58 3 3 5797 20190828164609
+191.83.36.220 8 16 2562440 20190824094405
+138.59.1.229 42 58 2947396 20190828224024
+181.9.164.134 6 6 7584 20190830074657
+186.143.198.232 1 1 662 20190816114102
+186.143.164.222 45 45 137509 20190821100917
+181.170.237.59 7 16 1403722 20190809193638
+170.51.148.43 26 27 782804 20190813074422
+186.141.225.117 7 15 699112 20190816045544
+186.23.63.133 14 22 2845159 20190820095528
+168.194.235.217 1 3 705905 20190817113525
+190.110.240.2 30 43 4129199 20190817112318
+186.143.134.194 1 1 718 20190821135919
+181.170.170.9 25 36 1501925 20190824090847
+190.136.104.127 15 25 1420334 20190831071117
+186.143.138.150 4 4 46570 20190817114136
+186.12.20.21 3 3 45545 20190824093138
+186.111.157.117 18 26 1514281 20190812080507
+186.143.135.186 1 1 662 20190821055711
+181.13.76.78 3 3 30408 20190827083432
+186.143.201.167 1 1 718 20190821074046
+186.141.230.76 7 7 103048 20190827081935
+186.12.21.154 9 17 1409341 20190806121317
+186.143.164.101 1 2 1250 20190808062237
+181.13.79.167 1 1 15781 20190829040820
+186.111.149.16 6 11 1422691 20190812111421
+186.143.134.137 6 6 8035 20190813152126
+181.1.88.212 20 33 1447693 20190831174132
+181.9.125.172 6 12 1403798 20190826120752
+190.16.1.226 20 31 2183248 20190817143141
+36.110.147.96 1 3 705905 20190826065407
+190.188.112.188 13 28 2828057 20190830184709
+186.143.138.232 4 4 59558 20190812073500
+66.249.93.72 3 6 684975 20190830135848
+181.90.176.236 18 26 1486825 20190824112251
+181.117.228.75 2 2 29584 20190826035833
+170.51.185.219 11 16 1404109 20190815145031
+170.51.182.32 5 14 1401492 20190828085523
+186.141.231.67 2 2 29666 20190822041926
+181.91.70.69 15 27 2877139 20190817114853
+190.177.183.118 6 12 1424014 20190810074635
+152.170.46.204 18 30 2910406 20190831143435
+123.126.68.111 1 3 705905 20190808145800
+186.12.28.126 8 19 2109613 20190808121248
+66.249.83.72 1 1 662 20190830073303
+138.121.106.4 6 6 32821 20190831155126
+69.164.219.121 14 14 193301 20190830140806
+186.134.221.104 2 2 1711 20190816151356
+186.141.197.99 2 2 29704 20190813060614
+170.51.156.51 1 1 718 20190816070617
+66.249.83.200 6 7 5015 20190813203513
+190.8.62.165 2 2 29821 20190824094207
+181.171.68.133 23 35 26274510 20190831150001
+201.212.64.195 13 22 1452354 20190823150140
+190.139.84.49 6 12 1424064 20190824175031
+181.114.149.201 16 23 1536695 20190824152143
+35.161.128.110 1 1 662 20190824000151
+186.96.193.120 6 6 89520 20190829022430
+186.18.158.119 22 31 1518070 20190823181800
+181.13.72.95 3 3 45709 20190821035421
+186.143.197.165 1 1 718 20190829080642
+186.58.135.55 2 2 1986 20190816181442
+181.9.128.211 13 23 1418015 20190816162808
+170.51.173.147 7 10 14162 20190823123420
+181.44.116.46 14 30 2831970 20190820143111
+66.249.88.102 3 5 708433 20190812060233
+190.172.157.134 4 10 2118377 20190822184733
+186.143.201.253 1 1 718 20190830121533
+186.12.8.20 15 21 1448398 20190824090614
+186.141.197.231 1 1 14035 20190831143225
+186.12.36.144 2 2 29610 20190824090145
+186.141.226.230 14 22 776612 20190829055506
+181.94.78.229 19 19 24016 20190825180321
+200.125.65.67 23 42 3345484 20190821092131
+186.141.202.110 4 4 44617 20190823043549
+190.225.117.63 1 1 718 20190822195545
+186.141.202.218 2 2 29718 20190815112244
+201.217.236.76 54 83 7054693 20190831164051
+190.231.9.13 1 3 705905 20190817112449
+200.127.56.123 30 49 3605030 20190831142223
+138.94.12.7 7 10 1392697 20190829132757
+181.13.66.3 10 22 2818535 20190812062943
+161.22.6.107 8 8 117434 20190819171525
+186.143.133.83 1 3 705905 20190814060822
+186.12.77.10 3 6 1387912 20190812031556
+212.129.32.52 1 1 1277 20190826162926
+23.239.180.196 1 1 1277 20190817112257
+186.12.28.7 8 18 1411835 20190815073639
+176.100.191.79 1 1 1277 20190804074834
+181.90.166.59 1 1 1264 20190830160927
+200.3.219.61 2 2 29899 20190831162332
+190.231.22.208 1 1 662 20190826184416
+66.102.8.52 2 2 2528 20190828072735
+181.168.26.160 25 51 4022669 20190824112912
+170.51.174.23 20 29 1425941 20190805044059
+181.171.211.86 27 33 1503100 20190824085605
+181.209.95.210 14 26 6758935 20190806104754
+181.174.202.194 10 10 105295 20190824093758
+186.141.226.27 22 24 795553 20190829061513
+181.90.249.175 1 3 705905 20190824103821
+181.9.136.166 3 3 45623 20190824085709
+186.143.198.157 1 1 718 20190816083316
+186.111.155.183 1 1 14055 20190828112249
+186.12.68.38 2 2 28094 20190823072103
+186.109.210.202 5 7 707997 20190812105514
+190.18.243.65 4 4 44258 20190829031319
+186.138.89.207 21 31 795511 20190810081110
+186.141.200.192 3 4 707845 20190830063928
+128.201.109.22 30 58 4989864 20190826122313
+181.9.122.99 9 15 1454732 20190824122510
+181.97.221.133 3 3 3190 20190828163257
+181.9.132.53 4 4 46247 20190810102357
+45.178.1.9 4 4 33119 20190822043825
+186.111.155.214 9 9 120299 20190824095745
+46.4.33.48 1 1 1277 20190825032342
+186.12.65.7 8 17 1404750 20190822070837
+186.143.138.251 3 3 30555 20190817142700
+186.143.201.59 5 14 1401452 20190807092502
+201.159.56.192 2 4 682595 20190810174342
+186.141.199.136 2 2 29804 20190821034601
+190.139.59.154 15 21 1528970 20190831161120
+181.81.152.190 3 5 20562 20190818084341
+190.177.89.106 10 20 1441785 20190830162749
+181.9.133.71 1 1 718 20190816110931
+167.250.168.129 1 1 14047 20190819154925
+190.244.61.82 1 1 718 20190809185830
+186.22.253.72 187 265 10598123 20190826094201
+181.101.186.136 16 31 1428528 20190815101630
+200.89.147.242 1 2 18672 20190817140533
+181.170.177.58 7 12 735074 20190831143323
+181.13.75.61 2 2 29698 20190824100002
+186.141.229.125 17 30 8180676 20190809041900
+181.101.13.163 1 1 718 20190829071900
+181.13.67.110 1 1 15796 20190820060348
+186.12.101.180 6 8 1418754 20190826143235
+190.48.107.247 18 37 5712371 20190831144949
+201.252.64.226 9 19 1414369 20190830164209
+190.57.199.63 2 2 1324 20190829174415
+181.13.74.141 1 1 718 20190823062507
+181.13.76.166 0 1 432637 
+190.105.22.111 16 21 1472693 20190824085242
+191.83.52.174 7 14 1482209 20190809090806
+138.121.104.18 24 36 2888980 20190824065502
+54.193.117.153 1 1 662 20190828092915
+186.12.0.233 8 11 723583 20190822083615
+66.249.88.22 32 54 10872164 20190831103033
+186.58.227.39 81 98 1505543 20190809043745
+181.9.125.247 7 11 745338 20190812085934
+181.13.76.160 10 12 748080 20190817114259
+181.9.162.125 3 3 3792 20190828170206
+186.134.162.193 7 10 14169 20190823162315
+181.231.149.247 5 5 71827 20190831143854
+181.174.149.95 9 9 77853 20190817130152
+186.111.155.169 6 9 12599 20190829060218
+201.250.190.168 6 6 84095 20190817141541
+181.9.137.119 2 2 4205 20190830080204
+45.178.3.15 19 19 133696 20190828064439
+186.12.36.45 11 15 53744 20190830130511
+200.127.48.169 22 40 4304285 20190831145838
+186.12.20.124 4 4 44168 20190829055113
+186.143.138.67 12 18 1403668 20190823041801
+186.143.166.251 1 3 16299 20190829045732
+181.9.132.198 3 3 47196 20190830063552
+181.9.132.177 5 14 1645127 20190809052525
+181.101.56.70 7 10 740787 20190815092605
+170.51.173.251 6 12 1424087 20190824184511
+181.15.225.239 43 59 3213191 20190825104322
+45.160.199.4 9 17 1435259 20190817170937
+190.178.241.224 5 10 718985 20190831192556
+66.249.88.32 8 17 742681 20190812121513
+66.249.88.92 2 3 707481 20190814045424
+181.9.159.93 4 4 5056 20190820131551
+181.9.131.120 7 9 1393815 20190828073023
+181.9.182.15 1 1 718 20190821145402
+186.143.133.197 6 6 5958 20190817113238
+201.219.161.118 103 151 13578647 20190828021200
+186.12.64.170 7 9 703408 20190813075355
+190.139.66.9 205 243 5789045 20190826121818
+190.177.148.103 50 51 413462 20190823164108
+186.143.136.140 7 8 23664 20190813075006
+186.134.167.1 8 8 36359 20190823091437
+181.81.108.146 0 1 704655 
+181.169.238.250 22 42 4228401 20190824095453
+186.141.199.35 1 1 15709 20190829055846
+186.111.144.245 4 4 57931 20190810094031
+201.253.71.174 24 25 654363 20190819072347
+138.121.106.3 10 20 3465874 20190817121136
+186.12.16.14 2 2 29761 20190820080020
+181.228.224.65 7 13 1403756 20190821104053
+170.51.177.190 4 4 59455 20190812070922
+45.226.145.57 148 214 7487752 20190826064606
+170.51.173.246 12 16 724997 20190815133437
+131.108.142.14 4 4 59362 20190824091929
+186.141.137.19 3 3 45588 20190821074949
+181.101.236.134 2 2 1436 20190807085619
+181.93.28.78 2 2 29710 20190824114542
+186.182.229.169 91 140 8604489 20190830093100
+190.177.154.85 4 12 2183767 20190808183417
+181.13.76.95 1 1 718 20190823073212
+190.228.38.183 5 9 718088 20190817045527
+186.0.167.132 1 1 993 20190831195326
+181.9.177.11 6 6 8099 20190814073841
+186.143.164.228 1 5 27413 20190813050749
+181.168.26.191 17 27 2247358 20190831142107
+190.247.97.2 1 3 681331 20190812182940
+181.9.131.146 3 3 30459 20190822064348
+186.111.152.235 8 18 1411870 20190814065632
+66.249.88.94 5 9 725970 20190812115013
+66.249.88.34 3 9 2775133 20190812121455
+186.111.170.186 6 8 741484 20190812043003
+181.97.220.16 1 1 718 20190816103803
+191.81.206.68 48 54 1631944 20190823160241
+186.12.9.166 11 19 1414259 20190809071837
+190.244.115.95 9 16 1427294 20190817113612
+186.141.138.2 5 5 6049 20190813040418
+181.117.228.73 7 16 1403742 20190816082053
+181.117.216.206 9 15 1455496 20190817113148
+186.58.233.200 1 1 14001 20190823095332
+190.246.64.232 41 78 9443563 20190829100659
+186.141.134.171 2 2 29723 20190829041842
+181.9.176.249 5 5 60614 20190828094958
+186.141.162.135 6 15 1402175 20190809061351
+66.102.8.56 0 2 1358958 
+186.143.197.184 6 12 1424133 20190817113008
+190.191.164.230 17 30 1434197 20190808053029
+54.244.140.172 1 1 662 20190820004622
+106.120.188.133 1 3 705905 20190820004516
+201.250.161.212 49 58 2129801 20190831151255
+186.143.162.182 2 4 708276 20190823130236
+186.12.16.134 3 3 43733 20190822034311
+104.200.144.26 13 16 1321627 20190812120805
+66.249.88.24 33 55 5989220 20190831103046
+181.9.176.101 6 12 1425217 20190826165511
+186.141.197.251 7 9 69128 20190824085715
+181.170.251.45 5 5 75482 20190831143500
+181.92.172.194 14 25 2849458 20190820035044
+186.12.24.112 2 2 29664 20190810123908
+186.141.231.233 6 6 34611 20190824085939
+185.93.3.114 1 1 1277 20190805222305
+158.106.67.200 0 2 1384134 
+201.250.234.209 13 19 1430622 20190810145129
+201.250.102.103 31 41 991088 20190809151926
+186.12.53.70 6 9 1836347 20190822055025
+201.250.219.82 26 29 99295 20190831155742
+181.9.120.102 1 1 662 20190826082652
+186.143.136.185 5 9 9798 20190808073029
+181.117.232.110 8 18 1412825 20190823041732
+190.190.93.159 20 37 2917539 20190831171454
+186.12.0.28 6 12 1409119 20190829070653
+170.51.148.139 1 1 718 20190813063613
+190.245.161.213 6 6 89460 20190824094239
+181.9.166.57 6 6 7584 20190808054138
+181.80.78.167 2 2 14584 20190828164321
+181.92.236.241 3 3 3792 20190828083949
+181.13.65.61 12 21 712933 20190822052357
+186.12.8.166 22 24 39583 20190830161550
+66.249.83.68 1 1 1264 20190830084240
+170.51.144.98 11 17 1458928 20190810174509
+186.141.228.143 7 16 1403809 20190830064453
+190.188.77.101 37 56 6174301 20190829162006
+181.114.209.187 11 19 1452800 20190810083850
+186.141.232.54 6 6 9052 20190830113231
+190.226.5.120 26 41 2030823 20190825200648
+186.138.103.70 23 35 724654 20190830075051
+186.143.202.181 11 17 1442158 20190817150815
+35.203.178.127 3 3 3190 20190817085746
+186.111.145.67 13 25 2860291 20190824085550
+138.201.249.7 3 3 2588 20190810122318
+186.141.202.143 1 1 13853 20190815141753
+186.12.56.8 9 16 733644 20190821060753
+181.1.224.16 18 19 492397 20190817112922
+190.193.20.129 99 125 3984340 20190825182850
+186.19.126.250 6 14 1406128 20190816182052
+168.194.234.74 7 16 1403759 20190823142005
+186.111.171.75 7 7 8848 20190816162318
+181.13.66.202 1 1 718 20190823123603
+66.249.88.90 3 3 16524 20190814045533
+200.5.228.245 69 108 7744910 20190824090658
+186.12.52.50 2 2 29700 20190826041850
+190.190.96.220 1 1 718 20190815114603
+181.114.193.240 11 13 40552 20190824141142
+181.170.192.167 21 30 2852949 20190831164336
+186.143.162.251 6 9 704282 20190813050810
+191.81.193.79 14 18 1479370 20190826190921
+186.12.9.187 5 5 70162 20190812050010
+186.141.198.71 3 3 43342 20190812044506
+179.60.210.36 3 6 1387912 20190811185557
+190.188.55.252 14 19 797191 20190819162339
+186.143.166.87 4 8 690783 20190823063841
+186.182.180.77 0 1 704655 
+181.170.177.203 5 10 718769 20190817121606
+181.9.182.195 16 17 51095 20190821084007
+168.0.205.200 41 43 181380 20190816151659
+161.22.24.228 6 6 85752 20190812070647
+181.12.196.40 10 10 13168 20190816185100
+181.170.58.74 33 59 5787627 20190824094213
+82.80.249.243 1 1 662 20190805021412
+181.84.180.206 4 4 31075 20190816185058
+181.97.185.102 5 7 711972 20190824103904
+186.12.12.79 4 4 56369 20190831144756
+186.12.48.167 12 21 1409225 20190809064244
+186.58.144.72 1 3 705905 20190825194246
+190.136.107.36 3 3 3190 20190831143502
+186.182.224.120 12 30 2805154 20190809030333
+186.141.228.141 6 12 1424120 20190813083041
+181.9.167.223 1 1 1264 20190826073028
+181.94.74.82 2 6 1362662 20190815184455
+181.9.131.237 3 5 735656 20190822062458
+186.143.162.157 3 5 684786 20190824123036
+190.191.66.54 27 29 115707 20190831141617
+181.118.72.9 4 10 1394372 20190824090737
+201.159.60.12 9 15 5867865 20190815153808
+181.13.65.45 7 16 706669 20190829100129
+108.62.3.45 1 1 1277 20190827082235
+190.19.108.77 10 16 1426828 20190824101537
+190.173.123.41 3 3 45799 20190831143642
+181.46.168.236 20 38 3566056 20190819163930
+190.172.186.156 12 28 4244176 20190818122108
+170.51.173.233 2 2 16446 20190821073403
+181.230.21.167 19 28 727368 20190822172957
+186.12.24.167 17 27 1464088 20190824173849
+190.183.121.116 3 5 708433 20190817114808
+186.12.56.176 9 14 723239 20190812083201
+66.249.82.143 4 13 1399248 20190809195301
+45.232.18.70 4 4 59728 20190824091951
+186.138.103.123 57 91 5786904 20190831142324
+201.250.68.236 7 15 1433551 20190810153536
+149.56.143.166 15 16 27899 20190816210330
+185.9.19.149 42 52 1449782 20190821082536
+186.143.202.238 16 24 31044 20190809074836
+190.48.103.24 3 3 43947 20190820172129
+191.97.38.228 9 17 703560 20190809071204
+131.108.142.21 40 52 1945167 20190828050134
+186.12.28.75 3 3 45546 20190826061106
+186.12.113.160 9 11 21119 20190815144941
+191.81.247.167 2 2 27992 20190810164129
+186.139.36.69 13 14 38240 20190815100129
+181.9.122.195 6 15 1402174 20190808105949
+186.143.135.132 1 1 718 20190830112759
+181.9.131.113 7 7 9663 20190821072745
+190.183.223.13 34 42 2217424 20190831073307
+186.143.166.224 33 36 56336 20190814100407
+143.202.147.30 2 2 29801 20190817185931
+186.12.12.87 1 1 15805 20190822035733
+186.12.24.164 7 12 720677 20190822053241
+181.13.72.226 5 5 33638 20190810155744
+181.88.234.141 13 14 28685 20190808121942
+45.178.1.22 2 2 4191 20190822042729
+186.143.202.244 2 2 29723 20190820113927
+201.250.136.182 4 4 6817 20190803010735
+201.250.52.97 11 23 2818638 20190824102148
+181.5.209.172 2 2 2528 20190828035048
+186.141.165.174 7 11 717824 20190829061811
+186.141.199.160 6 15 1402174 20190809050745
+181.81.149.10 2 2 15626 20190831155830
+35.203.163.208 78 78 147571 20190829022940
+181.106.206.253 5 14 1401452 20190809092454
+179.36.137.182 1 1 718 20190808173309
+181.13.72.69 7 7 12581 20190829191119
+190.57.195.250 2 2 1324 20190815110647
+186.141.135.30 5 11 1396576 20190805093306
+186.134.252.180 6 10 1399010 20190812103619
+190.229.111.193 58 93 5730803 20190812100815
+179.40.50.25 4 4 55541 20190824093905
+190.190.248.225 19 19 282615 20190831173729
+186.141.199.14 1 1 718 20190823100346
+181.22.190.87 7 12 1393602 20190809180552
+181.13.76.192 3 3 30493 20190816102718
+181.228.109.140 177 253 14320244 20190831181240
+186.12.64.183 17 18 472935 20190823110931
+186.12.36.118 6 12 1424072 20190815034600
+181.46.137.80 9 19 1413370 20190815151142
+181.46.143.69 1 3 705905 20190811144450
+186.134.147.132 4 7 1388905 20190831144452
+190.48.86.66 24 27 80730 20190827091801
+181.94.124.136 1 1 1264 20190818182424
+181.44.129.128 14 23 2893739 20190824120353
+186.12.28.15 5 13 1404046 20190823083332
+138.121.105.1 191 245 13836992 20190831145218
+186.12.4.95 9 18 1407408 20190829063010
+186.109.15.113 16 32 3515524 20190831160709
+186.143.163.114 2 2 1926 20190817154336
+200.127.114.159 7 10 1390784 20190830183003
+201.178.56.214 4 4 31312 20190817114232
+181.13.79.46 5 10 689682 20190812060037
+181.90.82.226 1 1 1264 20190813163233
+181.9.171.162 6 12 1424242 20190817113504
+181.84.208.205 1 1 14002 20190818124659
+66.249.85.29 15 20 68079 20190831033927
+181.167.53.50 14 20 1474634 20190813091045
+186.141.228.111 2 2 29877 20190820055913
+186.12.117.128 2 2 29766 20190822124347
+186.137.97.101 6 13 696786 20190808200145
+190.139.121.246 11 21 56977 20190821103747
+168.194.206.140 44 58 2924347 20190831173631
+181.9.164.36 2 2 2528 20190828083243
+186.12.48.49 3 3 30765 20190812175047
+181.9.133.50 5 13 696882 20190829064536
+186.143.199.208 2 2 29876 20190822032816
+111.202.102.64 1 3 705905 20190802050616
+186.12.9.181 1 1 718 20190807130216
+181.170.23.225 2 2 29833 20190817113106
+181.90.40.144 37 44 768898 20190824135400
+190.173.83.46 2 2 29724 20190824105730
+181.171.139.248 23 32 1422040 20190809144615
+190.247.121.152 4 4 57796 20190831184535
+181.9.129.4 7 16 1403466 20190820061932
+190.229.75.8 148 157 625522 20190830071728
+186.12.0.7 8 17 1404725 20190822063519
+45.225.40.7 9 18 2811990 20190824085821
+34.83.198.116 50 50 353892 20190831154110
+186.12.97.189 11 24 1409443 20190822131336
+191.81.251.161 59 77 2998695 20190812082731
+186.12.36.119 5 7 685574 20190812073953
+181.13.70.78 8 14 1457368 20190815035117
+199.116.169.254 2 3 8193 20190822060058
+181.91.90.229 9 14 703172 20190802192636
+190.3.2.155 2 2 29716 20190819152706
+186.125.67.62 32 57 4966276 20190824091502
+190.18.185.62 2 3 2514 20190824170942
+186.141.133.73 8 8 119146 20190816103029
+186.12.44.78 10 19 710071 20190822063829
+201.250.195.106 142 152 2626643 20190818073959
+186.58.89.82 5 14 1401545 20190830083118
+181.228.198.68 2 2 29864 20190831041455
+181.9.123.147 7 9 731354 20190830124957
+190.138.99.107 4 4 59497 20190824091540
+190.3.133.190 4 4 2648 20190830111146
+181.9.121.159 1 1 718 20190829113226
+201.178.52.234 12 26 2122618 20190815113146
+181.169.133.178 8 15 1065601 20190808182851
+181.13.76.241 1 1 718 20190815061702
+181.15.182.199 25 37 2881450 20190824090515
+170.51.148.84 9 23 1413903 20190808131422
+181.21.232.193 9 15 1467988 20190819061533
+198.143.133.154 1 1 662 20190809070531
+201.213.136.198 18 30 2896306 20190824085708
+181.13.78.147 2 2 15061 20190810180012
+66.249.83.62 1 1 1264 20190830052715
+186.12.57.43 1 1 13946 20190824085945
+186.19.159.185 15 21 1448390 20190817135053
+186.124.48.240 1 1 1264 20190813152634
+186.141.226.99 2 2 29715 20190823041856
+181.81.132.110 12 18 1458378 20190811205129
+35.247.70.215 20 20 170101 20190817193208
+190.183.27.62 11 14 1395856 20190831150800
+186.138.159.224 3 3 17173 20190830200845
+34.222.80.16 1 1 662 20190819003500
+190.92.110.106 3 3 45703 20190817113910
+190.178.223.50 6 14 698410 20190808152240
+179.51.240.2 41 76 4369017 20190831152705
+170.51.185.210 6 6 77688 20190821080047
+186.134.223.130 61 71 1651174 20190830174835
+190.178.152.60 2 2 29829 20190824090320
+181.170.23.80 3 3 45549 20190810100338
+104.222.43.191 1 1 1277 20190827230511
+200.114.97.36 20 28 714796 20190810092923
+66.249.88.26 29 41 3370764 20190831103048
+190.17.213.187 15 20 818367 20190831144421
+168.194.232.239 1 1 718 20190822184926
+34.236.55.223 1 1 662 20190815123408
+201.251.17.240 18 29 1426601 20190809185545
+45.161.183.226 28 45 806859 20190830121313
+181.170.174.80 8 8 102558 20190824085507
+170.51.182.19 1 1 662 20190808090510
+186.58.174.60 8 16 1407501 20190827170947
+34.83.233.39 54 63 829101 20190812143506
+181.28.23.91 18 37 4245023 20190824085518
+179.62.11.135 48 85 10668882 20190826182051
+35.163.160.132 1 1 662 20190821003553
+181.9.131.188 1 1 718 20190809105025
+181.81.149.15 2 2 3808 20190828164511
+138.121.104.5 25 34 1684849 20190831160921
+186.141.227.156 10 18 1437701 20190826042044
+190.177.186.247 6 14 698432 20190809195528
+201.250.238.254 11 14 63912 20190812174454
+201.255.92.28 9 18 1855945 20190831052020
+181.13.65.211 9 17 1405233 20190809162506
+186.141.230.250 1 1 718 20190813084730
+181.9.167.210 6 12 1424213 20190826070254
+200.5.229.242 1 1 718 20190809065328
+186.12.104.41 15 25 1439836 20190830182804
+186.12.52.184 2 5 7839 20190809091944
+186.111.157.8 10 19 709961 20190808125951
+201.213.44.72 5 5 60118 20190816151543
+181.81.150.130 6 6 6380 20190831155810
+186.143.197.56 36 40 69660 20190816174324
+186.12.12.68 13 16 43748 20190829062438
+181.20.131.242 10 18 729917 20190830191429
+191.81.247.176 10 20 2316839 20190817170315
+190.115.43.232 1 1 1264 20190809115317
+186.141.134.72 6 12 1424204 20190812035329
+186.12.69.76 6 14 1406118 20190822054536
+190.175.22.192 12 22 1443910 20190813152149
+35.247.73.225 53 53 93654 20190809194649
+181.166.130.226 2 2 29517 20190812153203
+181.91.148.14 13 23 1420615 20190816071414
+66.249.83.202 6 6 5176 20190815053209
+161.22.2.248 2 2 1324 20190828151406
+181.119.162.82 1 1 1264 20190817132351
+190.11.96.125 15 23 2114658 20190811155646
+181.46.164.82 3 3 30842 20190815080251
+66.249.88.100 2 5 2090715 20190811185845
+186.111.172.131 2 2 2528 20190812125309
+186.143.133.220 16 18 93053 20190816144602
+190.173.118.225 2 2 29811 20190817115157
+181.13.72.245 3 3 5786 20190829051445
+186.12.56.231 4 4 59578 20190812084326
+186.12.24.89 6 10 1422821 20190822055211
+181.13.72.162 6 6 11405 20190830161232
+190.231.32.170 5 5 60210 20190823112229
+190.231.21.247 2 2 2528 20190822183721
+181.81.150.63 1 1 1264 20190831125140
+131.108.142.11 4 4 59606 20190831182204
+186.12.109.206 6 12 1425888 20190822124824
+52.11.94.217 2 2 1324 20190811113853
+186.143.164.32 2 6 710844 20190824122637
+181.13.71.185 3 4 10419 20190829071637
+186.111.169.205 1 1 1264 20190818161525
+181.13.76.66 8 14 1426068 20190831143715
+186.134.230.104 15 25 1455544 20190817123810
+54.213.8.115 1 1 662 20190827020904
+179.60.209.157 2 2 29769 20190824085218
+181.13.67.63 11 21 1415911 20190815053009
+186.143.198.80 6 8 10526 20190815122216
+186.141.226.14 4 4 59640 20190813044730
+190.230.235.46 22 26 1470819 20190831164726
+186.141.198.102 11 13 24893 20190831092041
+186.143.138.80 4 4 4751 20190816155456
+186.141.134.226 1 1 718 20190815121200
+190.175.63.101 23 31 1584990 20190813201710
+66.249.85.7 11 15 1446028 20190813071354
+181.117.228.35 1 1 14068 20190812153104
+66.249.83.83 17 18 695108 20190831170120
+181.9.159.227 1 2 1852 20190804123317
+186.12.52.73 10 10 148569 20190813070920
+186.143.161.145 4 8 686815 20190823112244
+186.141.229.89 7 9 950195 20190802043816
+181.91.221.96 4 4 45999 20190816194422
+170.51.160.105 5 11 1410164 20190813144107
+190.225.149.102 143 156 2488764 20190829110518
+190.224.84.234 10 14 1401315 20190808194119
+170.51.185.198 4 9 2069243 20190808135205
+186.58.87.139 1 1 15792 20190817112849
+186.143.137.235 18 26 1590005 20190816042217
+181.95.96.116 5 5 75445 20190824115638
+181.91.181.157 3 3 3792 20190831191504
+52.89.159.114 1 1 5126 20190822135605
+186.12.105.206 1 1 662 20190809040456
+186.12.80.154 1 1 14091 20190831144513
+190.48.125.54 13 23 1436975 20190814200713
+35.197.115.231 6 12 1424229 20190824132515
+201.250.250.156 41 64 2864625 20190809190815
+186.12.77.7 6 9 1391433 20190808131444
+186.141.230.22 2 2 29870 20190826044538
+186.143.198.195 3 3 30535 20190829132841
+181.1.76.187 1 1 1264 20190813171814
+170.51.181.245 1 1 718 20190821064044
+201.250.187.227 84 91 1095745 20190824182919
+181.114.204.118 4 7 1388905 20190817130927
+186.111.160.153 2 2 2528 20190820162456
+181.9.180.14 1 3 705905 20190808191550
+181.167.222.226 28 45 4365636 20190824085915
+190.48.92.74 8 18 1412608 20190810104137
+181.9.125.84 5 5 73438 20190812095530
+186.111.168.70 1 1 1264 20190830213959
+181.9.129.45 1 1 718 20190829063312
+181.169.102.137 1 3 681331 20190825114039
+212.92.119.23 2 2 1324 20190809172555
+181.9.121.96 2 2 29758 20190831165357
+181.46.161.49 5 8 713631 20190815192925
+181.13.71.41 6 6 6650 20190823203447
+177.12.161.240 1 1 1277 20190801142527
+181.46.131.144 33 54 6222042 20190811054346
+186.141.162.65 5 13 696889 20190829063042
+190.51.62.17 9 16 1844733 20190824093953
+191.83.221.239 1 3 705905 20190817120540
+186.0.171.208 2 5 1386648 20190818173834
+168.197.46.7 2 2 1324 20190811120119
+186.141.134.103 1 3 705905 20190812032731
+186.143.137.13 8 14 1425756 20190815034249
+186.141.201.140 2 2 2287 20190823080532
+201.212.220.34 14 26 2865386 20190810101108
+128.201.109.21 20 26 1495173 20190819093149
+66.249.83.79 1 1 662 20190808180426
+190.14.46.95 30 42 2883367 20190812042118
+186.111.168.71 6 8 729826 20190831165150
+181.81.150.35 9 9 52194 20190820151240
+186.12.171.93 1 2 4454 20190813193357
+35.233.217.117 28 28 50881 20190830191907
+66.249.81.104 8 17 1430574 20190823135421
+186.141.136.150 0 1 704655 
+186.122.134.88 0 2 705440 
+181.13.64.233 3 5 1387324 20190824115125
+181.111.55.145 10 16 1944922 20190810092927
+186.141.228.77 5 11 1394692 20190826205758
+186.58.33.184 35 40 57725 20190830181401
+201.250.3.17 1 1 662 20190812144101
+190.52.34.55 2 2 29838 20190831155030
+181.81.146.20 1 2 7603 20190828163535
+181.16.20.97 35 59 6514414 20190831155001
+186.108.64.156 11 15 2132558 20190824085758
+186.141.199.115 2 2 29800 20190821034631
+201.250.176.108 29 37 1607873 20190820080457
+186.56.133.143 2 6 1411810 20190824085809
+181.13.69.138 7 10 19536 20190815064133
+190.191.107.6 14 29 8756171 20190824091329
+181.9.179.5 1 3 705905 20190824141853
+190.226.104.142 10 18 1897927 20190823133929
+181.229.172.226 133 179 5540821 20190831085647
+66.249.83.60 1 1 662 20190830063357
+34.83.254.172 2 2 2528 20190811181931
+186.143.198.114 1 3 705905 20190820065125
+186.111.170.142 2 2 29746 20190825104319
+186.136.247.58 22 45 3613624 20190821080127
+181.209.79.66 3 3 2154 20190830063257
+186.143.162.88 1 1 662 20190823071316
+181.228.52.58 61 117 7850558 20190831152537
+35.197.105.36 21 21 42256 20190809163548
+201.250.198.69 131 140 2285591 20190810133515
+181.9.125.14 3 8 689020 20190809062845
+181.81.146.212 2 2 3488 20190828164520
+181.111.76.138 1 1 1264 20190806083029
+190.13.210.238 149 235 16045631 20190830064910
+181.93.141.235 14 16 135407 20190824093348
+138.121.104.17 24 44 2851874 20190824113613
+190.244.163.78 2 2 29751 20190810130720
+186.141.231.26 1 1 13945 20190811011627
+190.172.209.41 4 10 1394331 20190802152916
+191.81.207.221 13 19 702513 20190808160628
+181.117.236.20 16 25 1441587 20190827083347
+181.20.29.148 5 8 954896 20190812165914
+181.13.69.162 5 7 14524 20190830183950
+181.9.122.31 2 2 2271 20190808064713
+181.1.77.107 9 9 11376 20190808215956
+186.58.40.128 35 38 511325 20190826165932
+201.250.203.12 15 25 2125119 20190802174537
+181.13.71.167 5 13 696886 20190830151347
+181.9.154.33 1 1 1264 20190813150329
+186.13.113.234 4 4 5563 20190823194355
+181.80.78.145 8 8 36320 20190824152431
+186.141.232.247 7 9 725369 20190821062006
+35.233.240.78 10 10 17906 20190831095918
+181.177.56.59 11 23 2116627 20190831134841
+34.219.30.57 1 1 662 20190817005928
+186.12.28.42 10 20 1416326 20190809195623
+45.163.128.5 2 4 706567 20190817133835
+186.143.199.215 1 1 13934 20190823065559
+181.91.69.129 10 10 105527 20190830172057
+186.12.28.176 4 9 704884 20190829052831
+190.229.211.62 11 21 1468801 20190810125910
+181.10.36.140 10 14 26041 20190829083047
+186.141.136.30 11 13 1412806 20190823070559
+181.9.178.198 6 11 707366 20190823112153
+186.143.138.123 3 3 45633 20190822040826
+181.13.69.29 5 5 5097 20190831104133
+186.12.105.131 15 30 2831151 20190821083629
+181.9.133.113 15 15 73239 20190817122020
+35.230.61.130 15 15 29304 20190816172205
+181.9.120.136 2 2 29862 20190828132944
+186.141.202.52 1 1 718 20190815121650
+186.141.225.233 5 5 60299 20190813084211
+190.19.8.92 8 14 1455606 20190823095651
+186.141.136.83 1 1 1264 20190816112508
+190.178.115.43 4 4 3841 20190831135447
+170.51.152.58 12 22 1417985 20190823184621
+186.127.220.181 5 9 18963 20190802053641
+181.169.182.216 8 14 1453739 20190820162336
+181.171.32.115 34 41 73384 20190829201631
+138.121.104.7 10 16 1483601 20190824091031
+45.176.88.14 74 82 3412918 20190830093402
+181.9.162.203 6 6 7584 20190805195659
+186.111.149.60 8 11 1393419 20190805120421
+186.141.138.54 1 1 993 20190824090612
+177.12.161.63 1 1 1277 20190801150015
+181.9.140.160 1 1 718 20190830181020
+186.143.134.249 6 12 1424253 20190831142616
+181.166.215.196 19 34 2173135 20190829100518
+181.92.238.75 22 22 27808 20190818135232
+181.9.160.157 4 4 5056 20190804204922
+186.141.136.28 6 6 89346 20190815133557
+170.51.156.3 7 7 9690 20190821145254
+181.94.155.122 14 25 64370 20190830190127
+181.9.121.164 5 5 75264 20190812055550
+186.111.172.34 2 2 2528 20190826172259
+191.83.164.8 9 12 21950 20190830191338
+186.141.229.228 6 6 8115 20190822062707
+181.28.21.254 3 9 2117715 20190827140556
+190.5.178.175 16 29 3065290 20190821053740
+157.230.228.106 5 5 75559 20190831150628
+181.170.136.212 11 17 1429251 20190823095529
+186.12.52.217 13 19 1458841 20190824121907
+186.141.229.9 1 1 15756 20190815071043
+186.12.53.85 7 16 1403785 20190829035317
+186.143.198.227 9 10 19359 20190823070401
+186.141.138.169 4 11 698713 20190823173830
+181.117.228.49 3 3 5297 20190817070321
+186.141.164.8 6 15 1402197 20190822064013
+35.230.113.205 19 19 35691 20190809173516
+2.38.149.45 2 2 1926 20190815133053
+181.23.69.223 9 18 1405699 20190815174038
+186.12.109.63 2 2 29874 20190817155104
+181.89.132.149 9 17 1408683 20190831101229
+181.9.132.227 8 16 702585 20190809061814
+190.177.148.152 51 51 315083 20190818065348
+181.23.90.161 46 81 10813359 20190823145455
+181.9.125.196 2 2 29574 20190810114553
+181.9.164.58 1 1 1264 20190814033501
+54.202.26.108 1 1 662 20190831221241
+186.141.232.68 7 13 1439757 20190812034445
+186.12.60.249 7 19 1405524 20190822062416
+190.230.235.135 7 15 1433659 20190810102123
+186.143.138.58 5 9 19258 20190823045439
+45.176.88.1 24 35 785520 20190822135800
+186.111.155.211 5 8 1389292 20190808041845
+45.167.88.3 9 24 9158691 20190830074103
+186.141.202.183 7 16 1403751 20190815072506
+190.48.82.67 19 19 195785 20190801123418
+186.19.83.215 4 4 59551 20190824093348
+190.3.2.156 2 5 1386648 20190817132351
+186.12.4.208 6 9 1398601 20190821182455
+170.51.174.117 9 18 1406325 20190828200056
+181.1.237.141 6 15 1402184 20190816152752
+181.102.17.187 1 1 15745 20190812114551
+201.250.34.61 6 13 1637339 20190807091509
+138.117.48.3 31 45 3058574 20190824141348
+190.48.124.145 2 2 28150 20190824174140
+181.81.154.149 1 1 718 20190828163510
+186.39.131.30 15 25 1421486 20190809151612
+168.196.27.2 91 128 7518372 20190826075127
+152.168.150.239 22 36 4247661 20190830134802
+186.18.82.240 8 14 1426723 20190824085003
+190.139.6.128 5 5 75245 20190817114001
+186.122.135.133 4 6 714702 20190813192223
+200.89.150.50 0 2 5485496 
+190.48.100.236 6 12 1424023 20190812155102
+201.250.9.161 49 55 851113 20190816083004
+186.141.231.191 1 1 718 20190809195645
+186.143.135.49 3 5 683317 20190815125320
+190.55.188.5 1 1 662 20190819110111
+186.12.9.152 3 3 43911 20190813040913
+186.12.48.36 24 29 1427456 20190830075309
+181.84.220.106 1 1 13950 20190831121534
+181.9.152.227 1 3 1250 20190827081128
+186.141.168.120 5 13 696868 20190815063605
+181.20.212.53 8 17 1404107 20190823180235
+66.249.82.141 1 6 687606 20190809165413
+190.230.232.187 13 23 1458962 20190812072212
+168.194.206.17 1 3 705905 20190812111517
+186.143.202.198 9 9 80192 20190817114512
+181.44.187.17 6 12 1424219 20190822124439
+186.143.165.152 5 10 1872314 20190821094234
+186.12.60.206 6 14 697857 20190815064615
+190.245.173.99 2 2 27746 20190817114150
+186.12.60.162 3 6 1387912 20190824092814
+190.177.165.68 2 2 29715 20190818180537
+190.19.44.95 19 41 6083317 20190823182843
+181.80.76.216 6 12 1424097 20190824102307
+186.141.232.126 6 12 1411139 20190816050324
+60.191.38.77 4 4 5108 20190824160732
+186.12.104.115 5 9 1393972 20190830131748
+201.250.54.26 59 77 3065547 20190824090333
+186.143.137.252 15 15 87516 20190817103520
+190.244.105.134 6 6 76038 20190831142505
+190.107.216.1 178 217 7540019 20190828070908
+186.12.68.132 19 29 1429191 20190809072148
+190.15.220.207 1 3 705905 20190824085151
+190.139.16.177 26 39 2123084 20190816182202
+186.12.56.208 2 2 29787 20190824101052
+152.169.64.62 6 9 1419260 20190824094417
+181.101.1.38 6 9 1419291 20190818200202
+170.51.177.220 6 6 8078 20190809045347
+170.51.148.46 6 13 25328 20190808133101
+62.210.139.92 1 1 1277 20190807184522
+170.51.148.102 1 1 14027 20190824085852
+186.143.197.87 3 3 29618 20190831142554
+186.12.60.137 7 16 1403737 20190816105901
+148.251.151.40 1 1 1277 20190825173522
+186.12.65.40 2 4 697182 20190822034417
+190.231.20.9 50 74 6570569 20190824095630
+181.28.20.243 18 27 2822231 20190824153711
+201.253.69.196 5 5 69623 20190810090414
+190.8.51.209 7 9 1419989 20190825143010
+186.141.227.143 2 2 2528 20190828045205
+186.141.232.229 26 34 1587589 20190827082000
+66.102.8.146 1 2 705317 20190812080136
+201.250.176.89 134 141 959988 20190824040318
+186.12.52.47 8 9 691020 20190821061925
+190.48.67.109 8 10 689637 20190809195335
+186.12.32.140 1 1 718 20190822061216
+181.46.164.103 9 15 1469638 20190824101227
+190.229.72.108 7 7 10983 20190809174633
+186.12.65.31 2 2 29634 20190821105439
+45.162.91.210 5 8 1848364 20190817160943
+35.203.138.212 7 7 11475 20190831124406
+190.178.189.158 14 28 1427417 20190822152109
+186.141.227.172 7 13 1425005 20190812142927
+191.97.42.103 39 65 5022139 20190828060025
+181.102.11.238 1 1 14001 20190811090738
+138.186.161.2 24 35 3237368 20190826131711
+201.212.102.77 1 1 718 20190816150910
+186.143.133.136 10 16 1272122 20190809061043
+190.106.35.157 10 10 150852 20190824092313
+181.13.72.115 19 25 1524848 20190810104916
+181.229.178.140 1 1 718 20190809094832
+186.12.48.156 7 12 1398304 20190823081230
+35.227.144.6 11 17 1429300 20190828054754
+181.118.72.147 6 12 1424156 20190818082004
+190.138.97.17 15 25 1447696 20190818103242
+181.117.224.110 10 13 752441 20190831150809
+45.178.3.22 3 4 3778 20190829041938
+66.249.85.37 20 36 3463652 20190806152923
+181.9.166.179 1 1 1264 20190806145729
+181.23.123.71 3 6 1387912 20190817115051
+13.58.87.252 1 1 1277 20190813082238
+186.96.193.108 6 6 89665 20190831170133
+190.19.4.98 6 12 744671 20190821104343
+89.238.165.76 1 1 718 20190830140307
+181.9.130.31 5 5 76960 20190815040452
+181.9.133.222 3 3 45758 20190831142858
+186.141.227.71 5 11 1408422 20190826120343
+186.141.232.213 5 10 717113 20190816172901
+190.177.175.216 44 44 396226 20190813150048
+168.0.205.123 7 10 9394 20190805143429
+186.143.138.142 7 8 690571 20190816074441
+143.202.144.193 1 1 14055 20190817184309
+181.1.202.133 4 4 2872 20190823104405
+186.12.52.125 6 10 41511 20190829050436
+181.14.170.90 1 1 13946 20190824091541
+190.178.233.108 6 10 718703 20190817114756
+186.141.167.158 1 1 15788 20190815081241
+170.51.169.171 1 1 718 20190809104544
+186.141.225.69 4 4 6510 20190823050207
+191.81.227.1 60 72 2338556 20190817151432
+186.141.197.71 4 5 19826 20190811115527
+201.190.212.117 21 31 1538883 20190823155009
+190.106.37.219 7 8 740598 20190817115104
+186.141.200.137 5 5 6009 20190831081957
+181.9.138.241 32 33 1115135 20190824160523
+181.21.234.88 7 16 1403720 20190809053940
+181.31.0.133 16 24 2212049 20190824115955
+190.51.10.48 13 20 1850923 20190831155803
+181.209.72.138 2 2 29706 20190817141244
+201.216.197.39 23 55 10910144 20190829075906
+181.13.75.117 7 7 35844 20190810111441
+200.59.142.145 19 28 1447174 20190817112646
+191.103.109.71 16 21 2124246 20190817084622
+186.143.136.11 3 3 4549 20190829071114
+138.121.113.10 12 13 88789 20190828113938
+200.51.83.122 2 4 706593 20190801103318
+181.13.75.57 15 25 1422469 20190808090344
+168.194.233.18 7 15 1434087 20190830113615
+138.121.104.14 8 8 120872 20190824112431
+186.111.152.91 14 20 29828 20190802082826
+181.170.241.241 25 46 5648844 20190824085924
+181.171.17.53 8 16 2075792 20190824100621
+186.137.22.141 2 4 706567 20190817143327
+186.143.163.172 1 2 705317 20190808062308
+186.143.198.198 3 3 30796 20190817112434
+35.230.67.155 38 38 98229 20190830195602
+181.117.216.124 9 15 1466217 20190814065044
+190.51.8.67 8 11 40980 20190826072717
+186.141.137.109 15 19 21352 20190821072148
+45.232.19.11 65 77 1542855 20190824173238
+181.9.159.225 4 11 1635481 20190817173144
+170.51.144.38 10 19 1406773 20190808041453
+35.247.60.251 63 63 98237 20190830190256
+181.9.153.189 1 1 1264 20190823102127
+186.141.138.253 2 4 682595 20190829093038
+181.9.183.65 6 15 1402486 20190830145727
+181.164.38.21 1 1 718 20190809110642
+191.83.171.134 7 13 1426479 20190821124954
+190.177.131.146 37 44 972462 20190829175747
+151.82.37.100 3 6 1387912 20190808082920
+181.88.255.98 6 12 1396202 20190801061341
+190.17.242.67 10 18 1464944 20190817125337
+186.143.166.179 5 7 740414 20190823112259
+83.97.23.233 1 1 1277 20190811151331
+190.107.241.143 7 14 1639012 20190814183408
+181.20.164.146 1 1 718 20190830191445
+181.81.135.87 4 4 3818 20190831105945
+190.173.80.49 2 2 29863 20190824092648
+186.143.201.53 17 17 119590 20190831145903
+191.83.44.188 1 2 1250 20190814102348
+190.48.104.218 1 3 705905 20190824085302
+186.143.138.147 3 3 45320 20190821034640
+64.246.165.10 1 1 662 20190824110133
+186.12.88.197 12 20 35599 20190809084940
+45.238.8.10 1 3 705905 20190814174544
+186.12.28.46 5 11 1408290 20190813051959
+181.168.34.93 2 5 1386648 20190817140456
+181.105.66.144 11 19 2338014 20190817133526
+186.143.134.217 1 1 14055 20190821101436
+200.114.214.134 17 29 2897769 20190824111400
+181.170.241.229 6 8 1418745 20190824085658
+138.94.12.211 8 8 11810 20190821171221
+186.143.134.129 3 3 30484 20190817181125
+181.13.76.50 11 15 28641 20190830060825
+186.12.105.246 1 1 718 20190808122047
+190.30.83.247 2 2 1436 20190822120009
+190.225.135.109 17 35 2810954 20190829061957
+181.9.156.13 5 11 1408225 20190812060538
+181.9.133.149 6 15 1402751 20190828081050
+186.12.36.181 9 12 756416 20190831155121
+35.233.217.233 33 33 64384 20190808115443
+186.141.229.148 8 14 1414278 20190827081810
+181.13.68.35 3 6 9389 20190815061526
+190.188.210.71 3 6 1387912 20190825090425
+186.134.156.172 2 2 29710 20190821170921
+34.83.210.203 29 29 60157 20190830193013
+186.96.194.105 12 24 2848366 20190817152550
+45.178.1.54 2 4 682595 20190830162034
+37.46.114.73 5 5 60326 20190823135631
+186.12.36.15 8 11 1433062 20190822061821
+45.167.88.28 7 9 1420734 20190810091955
+186.122.135.233 1 2 2465 20190813192159
+186.138.143.112 9 14 708117 20190831091232
+186.143.137.189 5 5 7366 20190809065819
+186.141.198.33 10 20 1441583 20190816062730
+181.9.158.188 1 1 1264 20190807113020
+181.13.72.244 3 5 683859 20190829071242
+186.143.165.253 6 13 697064 20190823130228
+181.171.109.210 24 45 4244960 20190831161812
+201.212.91.254 19 39 4197871 20190829151149
+186.141.226.218 7 8 739411 20190822042400
+186.12.21.76 1 1 718 20190809060827
+168.227.97.228 6 12 1424142 20190817114135
+70.36.114.122 2 2 1324 20190820172708
+181.82.227.169 4 4 44439 20190812122520
+186.111.168.130 13 22 1424623 20190820051547
+181.9.152.31 5 5 75307 20190823051233
+190.177.148.75 191 203 3247811 20190813081324
+186.138.144.160 7 10 47332 20190820192730
+200.127.192.195 5 5 73746 20190831142313
+179.63.240.43 3 6 1387912 20190821145724
+181.9.140.26 17 18 737098 20190822181746
+66.249.85.31 15 18 735524 20190831033939
+186.39.144.61 7 7 35554 20190817112928
+181.13.69.122 5 5 45711 20190813075329
+181.14.168.202 7 7 37004 20190817170641
+181.9.123.34 3 10 1785893 20190808075132
+186.143.197.161 2 2 1711 20190809185900
+181.9.152.4 23 31 757474 20190809172514
+66.249.85.40 25 42 3820839 20190811101903
+200.127.37.175 30 54 4266065 20190828142251
+181.166.156.158 1 1 718 20190823162110
+186.12.56.190 6 6 34370 20190813120929
+186.108.65.100 3 3 30806 20190817120626
+186.12.40.138 4 4 61450 20190831145822
+200.122.77.79 30 44 4241754 20190811142902
+186.141.200.4 2 2 29732 20190822034447
+190.11.186.216 36 48 1601427 20190831150642
+181.13.78.252 2 2 29841 20190817115940
+181.9.179.66 28 36 1679476 20190822153242
+161.22.4.69 21 21 166959 20190824094642
+181.118.72.177 7 13 1412703 20190812174802
+188.165.192.220 1 1 662 20190820181227
+181.89.132.183 3 3 3492 20190831125157
+186.141.135.175 1 1 718 20190808075649
+181.117.224.53 6 6 46613 20190824092905
+201.177.225.71 6 8 34729 20190831145445
+186.143.138.85 2 2 29784 20190827081210
+186.19.104.221 3 6 1387912 20190818094834
+66.249.85.33 1 1 1676 20190810073627
+181.13.75.199 2 2 29740 20190829034353
+134.209.252.66 1 1 662 20190820222230
+191.82.103.123 3 3 44052 20190831174519
+181.9.171.224 2 2 29545 20190811171837
+181.209.88.170 46 62 3122151 20190831150056
+152.169.199.60 6 11 736474 20190811115936
+190.246.116.122 14 26 2878192 20190826191626
+186.12.64.114 1 1 718 20190809060630
+191.83.45.58 40 53 2443587 20190816122913
+186.137.24.39 14 24 1448709 20190828084421
+200.127.60.83 8 8 8552 20190816230922
+186.141.228.230 10 13 18655 20190829043118
+181.93.92.120 7 13 1439993 20190816173205
+138.94.12.27 2 2 29790 20190817114359
+66.249.88.50 10 20 4879129 20190830094617
+181.231.28.149 10 14 1421341 20190830035130
+168.194.234.94 6 12 1424168 20190815191202
+186.58.83.169 40 60 23287282 20190816062400
+170.51.160.88 8 9 12577 20190822044634
+190.231.23.141 7 12 720998 20190831144819
+186.111.152.253 8 17 1405283 20190809074459
+45.232.16.249 75 105 6180816 20190831164855
+181.9.128.108 2 2 2528 20190827054603
+54.201.238.240 1 1 662 20190827135713
+201.159.56.27 15 20 729276 20190831095652
+190.105.58.219 6 6 33746 20190816164958
+181.177.46.105 14 14 162722 20190831154314
+173.36.240.183 7 16 1403739 20190816181754
+186.124.25.58 8 16 706584 20190815082901
+186.141.198.138 26 33 1199007 20190812035313
+186.39.227.234 6 6 34569 20190814174105
+186.12.28.138 8 15 27081 20190809162247
+186.12.5.149 9 19 1421701 20190813052255
+186.109.218.109 1 1 1264 20190813150949
+66.102.8.144 0 1 588 
+181.13.70.119 5 7 18865 20190824095902
+186.58.248.242 2 2 29732 20190817132555
+190.172.241.236 10 20 2818701 20190819171846
+181.168.18.35 1 3 705905 20190818091203
+168.227.96.230 12 16 707321 20190816105909
+186.12.77.82 6 6 34604 20190824094023
+190.123.90.74 9 9 11376 20190816104944
+50.116.34.96 11 19 1423294 20190824115543
+186.12.20.90 2 2 29925 20190831150257
+181.9.178.208 9 19 1414340 20190801114200
+186.12.60.78 7 16 1403748 20190815052839
+186.143.202.86 6 12 1424204 20190831150643
+181.13.74.139 2 2 29681 20190824154201
+186.12.48.24 1 1 718 20190821055716
+186.143.197.61 1 1 718 20190808115927
+138.117.21.33 10 24 2106956 20190810085741
+186.143.198.164 6 12 1424133 20190820082047
+45.86.244.100 1 1 662 20190810003537
+181.9.157.162 4 4 59418 20190812061052
+186.143.162.242 28 28 82216 20190821100822
+190.112.90.237 21 41 2884370 20190823172902
+186.111.156.76 8 9 17834 20190823072337
+186.111.149.182 6 6 91162 20190824091748
+138.94.12.37 8 16 1435018 20190818064005
+190.5.178.97 53 67 7197070 20190831161516
+186.143.138.164 8 12 1476780 20190813081512
+186.141.228.114 2 2 29711 20190812035254
+201.250.239.0 28 36 1605520 20190813151507
+170.51.189.194 3 3 45439 20190821070114
+181.23.90.75 33 57 5741627 20190824153823
+190.247.121.72 50 88 8005638 20190830163253
+186.12.24.24 7 10 14165 20190823062340
+181.9.128.125 1 1 13910 20190813113821
+186.12.105.200 24 31 52627 20190812043321
+186.143.162.222 1 6 710686 20190823063703
+170.51.144.97 1 1 15720 20190813072725
+155.64.38.81 0 1 3313 
+186.23.120.181 2 2 29763 20190810174805
+181.9.120.103 2 2 29538 20190810100347
+181.9.161.254 1 3 705905 20190822154117
+181.97.184.72 4 4 61162 20190824115351
+181.9.177.189 5 5 20475 20190817113428
+190.191.42.245 86 114 5661320 20190831144525
+190.173.98.65 9 15 1427257 20190817113120
+201.213.134.83 30 52 5090181 20190831141437
+186.141.197.86 3 3 2979 20190830053529
+186.12.20.35 5 10 690964 20190824085948
+186.143.136.233 8 18 1411746 20190809065207
+181.13.77.174 6 6 34609 20190827040605
+170.51.174.5 1 1 718 20190805121735
+186.143.134.86 2 2 16808 20190822125930
+66.249.83.218 2 2 2528 20190815052430
+186.141.197.112 7 7 35607 20190817120005
+35.230.9.174 4 8 1413134 20190812055243
+186.111.157.239 13 13 151191 20190823114351
+186.143.135.30 3 3 45440 20190816041751
+186.111.163.31 4 4 5056 20190826182619
+186.111.162.83 1 1 1264 20190809055944
+181.169.46.142 115 129 4209150 20190831142114
+186.141.226.155 1 1 718 20190823051900
+201.178.56.65 7 16 1403730 20190808093103
+179.40.100.179 8 10 689637 20190805105330
+181.164.41.150 22 34 1531537 20190827112751
+181.20.164.80 12 29 2827554 20190816145756
+190.229.75.233 10 21 1410943 20190816151031
+45.178.1.15 9 11 717805 20190830070420
+186.12.100.17 7 7 9708 20190830155841
+181.229.211.13 17 28 1508203 20190809134023
+190.177.175.147 2 2 16484 20190816170214
+181.9.181.235 1 1 15801 20190827063228
+186.141.133.234 6 6 8083 20190808123006
+181.89.134.171 15 26 1758014 20190824090841
+186.111.170.179 12 22 1416138 20190828063448
+186.143.135.170 14 15 29922 20190821075418
+157.230.228.107 1 1 718 20190830135727
+186.12.48.92 5 6 12960 20190831071254
+181.9.168.7 6 12 1424084 20190824090220
+181.9.183.217 4 10 1394372 20190830182152
+170.51.148.68 6 9 1391433 20190810175958
+186.138.153.129 17 26 1443323 20190816183753
+186.141.227.102 12 22 2161386 20190827081718
+186.141.228.50 12 20 719786 20190816073835
+190.177.174.185 2 2 29897 20190824132315
+181.13.74.110 9 15 1414947 20190828132823
+181.9.156.50 3 3 43718 20190820080233
+186.58.130.34 129 140 2501994 20190816044128
+186.141.228.3 3 3 45582 20190823041908
+181.9.123.25 5 5 18906 20190831144659
+181.13.73.158 4 7 1388905 20190821062325
+186.141.198.78 3 3 43426 20190820092220
+186.12.117.135 7 16 1403745 20190815141913
+186.124.24.194 8 18 1411750 20190809132040
+181.9.157.225 1 1 718 20190815080525
+181.170.227.218 13 23 1457714 20190822104130
+190.224.233.61 1 1 662 20190825172718
+186.143.198.111 7 16 706461 20190809054738
+46.101.80.192 3 3 2588 20190807070745
+186.141.201.136 2 2 29748 20190829032906
+186.141.228.78 3 3 45531 20190813083319
+181.117.105.90 11 17 1442911 20190820043741
+186.12.4.210 3 3 30421 20190822063633
+181.92.45.21 2 2 29715 20190817114059
+186.111.171.217 8 14 1453647 20190812144540
+186.12.97.235 1 1 13991 20190810182922
+181.117.216.51 2 2 29757 20190822035903
+186.12.53.97 5 5 7455 20190826062610
+170.51.189.215 2 2 29806 20190817113422
+168.0.205.115 41 45 74477 20190806154832
+138.121.104.4 3 3 30487 20190817112949
+186.143.163.106 28 29 74422 20190814100353
+186.141.133.193 5 13 1403987 20190807065339
+181.230.232.2 6 9 35203 20190828074946
+188.92.72.129 1 1 662 20190812000137
+181.9.180.207 3 3 42078 20190817123848
+190.247.135.33 21 36 4815961 20190815171716
+181.23.86.214 7 10 511110 20190817121625
+181.170.23.7 73 93 3715664 20190831191144
+168.0.205.130 19 27 101734 20190812145738
+201.250.149.44 10 16 1472012 20190824090157
+152.168.68.165 4 11 5000 20190831161626
+186.143.133.150 8 15 1400560 20190809180222
+35.247.6.34 33 33 64460 20190809094918
+190.172.128.63 2 2 29811 20190814055931
+170.51.185.152 4 7 5340 20190810095337
+186.143.198.13 1 3 705905 20190828055711
+186.143.133.139 14 14 211916 20190831142627
+190.229.111.14 3 6 1387912 20190824141732
+201.219.173.94 45 73 6444804 20190830143654
+186.143.134.1 1 1 718 20190809100626
+186.109.14.146 6 11 719497 20190824091103
+181.114.42.100 34 60 11414490 20190830160706
+190.178.133.235 37 45 1230326 20190813023548
+34.83.181.247 41 41 81489 20190816174344
+186.12.28.116 2 2 1436 20190829192646
+190.2.112.50 1 2 662 20190818183208
+181.13.68.168 1 1 13973 20190826054905
+66.249.82.142 3 6 9487 20190809195313
+186.58.43.176 13 13 16432 20190803030206
+190.231.20.133 21 21 32995 20190816162042
+184.94.240.92 1 1 662 20190831085054
+190.139.207.68 8 11 1392815 20190818162451
+181.170.239.240 33 71 6347783 20190819145939
+190.188.224.67 9 16 1960727 20190824112833
+190.16.10.76 97 124 5277704 20190812115713
+45.178.3.9 12 12 15601 20190822044208
+186.143.198.66 23 29 1542358 20190821073228
+181.81.109.135 2 2 15509 20190826090355
+181.171.15.152 98 134 7197785 20190829071301
+190.183.223.3 5 5 73610 20190817113833
+190.106.32.173 12 14 798743 20190831153539
+186.158.250.147 25 37 1473731 20190830182956
+181.44.116.39 25 36 2021274 20190816195849
+200.127.49.157 42 69 5223915 20190830161844
+191.83.44.41 1 3 705905 20190822113416
+190.188.211.143 6 15 1404071 20190809164826
+186.12.17.126 8 9 79973 20190813075522
+191.81.245.95 6 12 1424153 20190817113600
+186.143.136.137 1 1 718 20190828164229
+186.12.117.239 8 9 17604 20190808193327
+45.176.88.16 210 282 1738289 20190830072645
+186.12.108.69 5 5 60188 20190830110531
+186.138.62.123 6 6 34509 20190817113738
+186.22.37.122 2 2 29877 20190831181345
+190.178.214.43 14 24 743122 20190830153813
+179.60.208.208 36 65 3911733 20190829095740
+181.170.94.55 37 70 6432954 20190831144316
+186.12.52.32 2 2 29795 20190831144420
+181.9.121.112 6 12 693866 20190822095013
+186.111.144.72 2 2 29898 20190831152818
+186.141.199.203 9 16 700131 20190815041526
+186.138.203.157 11 14 40858 20190824073318
+128.14.209.154 1 1 662 20190803153117
+190.224.126.133 5 7 708553 20190825151236
+186.12.68.88 7 14 699054 20190820072114
+186.141.232.197 3 3 45473 20190830063854
+170.51.144.12 2 2 29782 20190815133153
+186.0.168.149 7 16 1870877 20190810115543
+181.13.65.242 3 3 30797 20190822063052
+186.143.165.105 7 9 1421547 20190829050222
+181.117.236.78 1 1 718 20190829063735
+54.173.35.129 1 1 5126 20190801005736
+181.91.221.106 71 71 273925 20190824090525
+66.249.81.101 6 12 722377 20190823135400
+186.141.133.171 8 9 705052 20190829151554
+24.232.126.184 3 7 1412472 20190824102413
+186.111.170.228 8 11 717750 20190820083210
+200.126.245.9 14 31 3273281 20190816170156
+191.81.224.162 1 1 718 20190816101554
+191.81.224.215 3 3 45554 20190831144706
+201.217.227.85 65 86 5074511 20190827170759
+190.139.4.192 2 2 29597 20190812184133
+186.12.105.227 3 3 30467 20190815141411
+170.51.148.143 13 23 1418616 20190815113813
+181.167.10.144 17 22 1729423 20190810103433
+201.250.147.246 27 31 1594275 20190826144416
+186.111.144.129 12 12 41606 20190821125932
+190.195.47.176 3 5 18807 20190817140639
+201.250.160.175 124 144 2480003 20190831164653
+186.12.24.114 4 7 50344 20190824085942
+186.12.24.51 6 14 698470 20190829064224
+45.178.3.11 1 1 18722 20190821053047
+186.141.227.15 6 6 94314 20190813041554
+132.148.130.138 1 1 662 20190803071310
+186.141.231.72 11 11 166437 20190813083931
+181.44.188.145 2 2 31528 20190813154626
+170.51.189.138 3 3 45455 20190813072252
+131.108.142.13 5 5 73220 20190810080532
+66.249.85.5 10 16 1884197 20190813072252
+186.143.200.116 10 12 40777 20190823145253
+186.143.165.231 1 2 8142 20190823070456
+45.167.88.16 5 11 1064791 20190808135313
+186.111.154.65 1 1 718 20190802082729
+190.178.123.203 18 32 2879397 20190817112408
+181.118.72.30 1 1 662 20190815183323
+54.207.33.42 23 30 326026 20190826093421
+35.247.123.248 2 2 2528 20190810044409
+168.194.206.195 2 2 29715 20190823120920
+186.39.222.153 5 5 33946 20190824085611
+190.185.128.250 7 13 1440025 20190817113211
+186.134.182.187 2 2 29834 20190824133903
+186.111.156.14 9 9 37834 20190812035618
+186.111.169.56 1 1 1264 20190804134756
+181.13.66.176 3 3 45305 20190815035214
+181.111.178.194 48 87 6466496 20190829155449
+181.214.190.129 1 1 662 20190811001058
+35.230.22.147 43 44 787647 20190816150740
+181.28.6.138 2 2 27848 20190824095110
+186.12.64.169 3 3 17207 20190815072238
+181.97.222.115 6 13 1848924 20190812095142
+186.111.157.189 14 25 2092263 20190821205343
+138.117.20.177 6 15 1402183 20190815143814
+186.141.202.168 4 6 698263 20190820125338
+181.9.129.125 2 2 29717 20190813063738
+168.228.143.188 167 181 3002620 20190830192823
+36.99.136.130 1 1 662 20190801191229
+186.141.135.189 8 14 1426755 20190822040514
+186.56.226.148 4 4 57906 20190830173053
+186.141.138.125 2 2 29749 20190812142326
+181.9.178.128 1 1 662 20190806104055
+186.12.76.209 7 13 1439937 20190817163414
+181.46.161.75 53 61 1750400 20190825160310
+190.225.118.18 18 29 2487819 20190831175839
+186.111.160.228 2 2 2528 20190812074439
+186.141.200.80 1 1 1264 20190810134150
+186.12.96.20 10 19 1410642 20190830032216
+201.159.62.147 5 10 718901 20190831142606
+167.114.155.160 35 44 1436155 20190808191005
+186.12.32.122 8 8 5744 20190815064253
+181.209.85.146 8 10 741103 20190824104651
+190.178.140.243 1 1 1264 20190818143424
+181.13.74.236 2 5 706567 20190823043300
+181.170.23.254 31 42 2138248 20190819132332
+181.170.241.165 4 4 18686 20190831144634
+179.36.127.175 4 4 59668 20190825152614
+190.97.0.4 1 3 705905 20190826034951
+200.59.40.19 41 59 2991237 20190824121924
+181.228.214.36 5 5 7422 20190809203801
+186.111.161.31 1 1 1264 20190805081734
+170.51.156.94 7 10 13281 20190813074921
+181.177.55.44 6 19 2562121 20190809193013
+186.134.213.53 2 2 29650 20190818071813
+186.141.136.121 1 1 1264 20190830141416
+186.12.64.3 7 15 699425 20190829061836
+181.170.239.172 13 26 2849560 20190831102031
+173.252.87.22 0 1 704655 
+181.88.254.50 8 11 20232 20190823081618
+186.59.246.162 5 8 1403415 20190817113235
+186.141.137.9 2 2 29681 20190823042901
+181.9.158.76 2 2 2528 20190810182658
+45.178.3.53 18 26 1475435 20190813111719
+181.99.86.231 26 45 2832335 20190821190008
+181.102.93.112 12 16 709027 20190809040715
+190.225.25.223 2 2 29833 20190813154814
+186.143.199.84 8 11 15448 20190830113115
+190.48.109.4 6 9 1419314 20190829090749
+181.81.149.249 1 1 718 20190828163510
+186.12.64.62 3 3 45469 20190814045757
+190.124.159.26 6 12 1424117 20190824091218
+181.13.67.108 7 9 1420349 20190826052017
+190.30.180.201 17 26 718655 20190828114120
+181.9.128.39 13 13 193209 20190820062804
+190.5.178.236 18 34 4266788 20190825090553
+201.231.48.219 6 6 61030 20190831154109
+186.0.169.229 13 22 1412488 20190830112711
+66.249.83.46 12 15 716785 20190831115704
+201.250.191.109 10 17 736010 20190812155821
+190.31.93.55 1 1 1563 20190812201553
+190.225.150.166 4 4 31839 20190824100744
+186.141.133.211 5 11 1410129 20190824101804
+186.111.165.67 1 1 1264 20190816191830
+170.51.144.44 2 2 1982 20190823140431
+186.141.230.164 8 10 1422388 20190828021721
+186.141.226.71 23 27 1521179 20190814023012
+186.141.199.126 1 1 718 20190809081148
+186.143.202.5 22 28 1442147 20190816040921
+201.250.239.77 41 48 774982 20190822094709
+190.224.85.36 15 30 2830347 20190821090611
+186.12.52.15 1 1 718 20190823071633
+186.12.0.37 4 4 61207 20190815041503
+186.108.75.72 8 14 1413612 20190817122850
+190.191.15.165 2 2 2528 20190827162619
+186.111.164.105 2 2 2528 20190821192252
+181.110.28.5 4 7 1388905 20190817112619
+186.12.1.204 8 19 709648 20190809063609
+186.12.56.32 9 11 1425063 20190825124502
+181.1.223.101 7 10 1445721 20190824090204
+190.188.68.29 4 4 2872 20190828234743
+186.141.202.239 6 12 719628 20190830160321
+181.9.132.187 11 11 78776 20190810124936
+186.141.225.163 5 7 713913 20190813080640
+181.20.169.143 2 2 29776 20190824112031
+10.39.128.93 1 1 662 20190819105717
+181.3.119.227 1 1 14047 20190825185000
+181.99.51.153 2 2 1711 20190829025739
+45.178.2.20 16 23 1401364 20190820175526
+170.51.152.98 8 8 11816 20190828112924
+34.211.44.45 1 1 1277 20190812042211
+186.12.60.65 3 3 2704 20190816182916
+186.12.76.250 1 1 718 20190823140025
+201.250.191.44 2 2 29505 20190813155237
+186.138.141.217 6 11 720472 20190818051727
+181.13.67.96 2 2 1986 20190801124838
+186.141.231.66 6 15 1402186 20190808135511
+186.58.106.212 44 53 74784 20190810080609
+181.9.128.29 6 12 1425508 20190824085128
+181.13.76.33 8 8 11779 20190816061609
+45.178.3.10 37 63 8552307 20190830061002
+97.107.129.8 2 2 1711 20190812123616
+181.9.125.146 7 16 1403770 20190823063100
+186.143.199.75 1 1 14047 20190824152849
+181.13.72.5 15 24 1431086 20190816070813
+181.117.220.183 5 8 11925 20190814052146
+186.0.162.138 1 1 1264 20190811055754
+186.141.229.2 1 2 8190 20190831143928
+170.51.148.98 14 17 2040590 20190810153751
+186.141.230.149 3 3 43509 20190812054804
+170.51.160.5 10 14 1442197 20190816193221
+186.148.129.111 27 40 2874585 20190831145221
+128.201.80.52 9 15 1440697 20190829200443
+186.143.134.185 6 12 1424166 20190817114115
+190.107.217.66 1 1 718 20190816175602
+34.83.6.110 11 11 16437 20190817050238
+170.51.185.241 1 1 718 20190808131527
+46.42.171.9 1 2 1250 20190822031720
+181.171.63.5 1 1 718 20190830090756
+181.101.52.185 2 2 2528 20190805064241
+181.171.29.218 9 18 1406251 20190809120457
+181.117.232.153 5 13 696887 20190829052917
+152.169.148.198 61 104 7854551 20190831152415
+186.141.134.239 1 1 718 20190828140957
+35.233.150.165 41 41 74928 20190822050015
+186.141.228.237 2 2 29822 20190817113037
+186.141.231.127 2 2 16508 20190827083808
+181.81.140.84 5 14 1401493 20190826155601
+201.213.198.149 26 47 4249138 20190831142946
+190.48.65.72 6 12 1424355 20190831144635
+186.122.133.86 1 2 4154 20190813193342
+181.91.216.98 46 89 10814359 20190831185941
+192.99.100.98 1 1 1264 20190824073146
+201.159.59.20 1 3 705905 20190807152429
+190.105.127.228 4 6 711831 20190830045344
+191.83.172.123 8 17 1404879 20190807024526
+34.83.71.245 2 2 2528 20190825173254
+186.12.16.11 6 6 34527 20190824092608
+181.170.58.57 4 4 6436 20190808181702
+186.143.161.111 6 12 472550 20190821094203
+181.46.164.1 15 40 12429833 20190831080755
+173.36.240.166 9 15 1442961 20190831182017
+181.117.216.180 5 14 697466 20190822062959
+181.118.72.153 4 9 2093817 20190820182235
+66.102.8.54 0 2 1176 
+181.165.108.238 5 10 718850 20190824100410
+186.12.60.113 4 4 31545 20190829063209
+181.13.64.236 3 3 30784 20190813081122
+186.12.108.5 2 2 1436 20190829120421
+190.52.37.227 18 33 2240754 20190824130621
+148.101.251.68 6 9 1389898 20190812095337
+186.12.171.90 0 1 704655 
+186.143.199.214 1 1 718 20190830081551
+54.201.12.85 1 1 662 20190822000522
+186.111.172.106 2 2 2528 20190821123250
+181.117.224.77 1 3 705905 20190817112634
+181.9.153.228 1 1 15746 20190830123420
+201.190.201.131 93 109 4068731 20190829061641
+186.141.231.154 3 4 5664 20190816093750
+190.185.181.105 28 57 7160367 20190827145040
+186.111.147.33 1 3 705905 20190828051623
+181.13.73.249 2 2 29734 20190817113209
+161.22.9.134 3 6 1387912 20190810074434
+190.8.51.139 23 44 3649934 20190830155845
+186.143.134.210 2 2 29756 20190817150240
+186.141.134.24 1 1 718 20190828073629
+181.89.104.191 14 26 1426206 20190829191949
+181.97.178.5 4 4 46247 20190817140720
+190.172.241.67 9 19 2822067 20190824232959
+62.210.157.10 1 1 1277 20190827160258
+181.167.107.176 2 2 27930 20190824101857
+181.118.72.103 1 1 718 20190816175704
+186.56.77.250 78 103 4986203 20190830191821
+186.143.197.24 1 2 705317 20190814041202
+186.12.12.82 7 16 1403760 20190822082756
+181.228.23.106 10 10 14824 20190823183604
+181.20.133.248 6 17 1403386 20190830155515
+186.141.226.107 5 5 32634 20190816042703
+18.237.165.186 1 1 662 20190827215554
+186.141.226.146 11 11 145961 20190816042641
+179.40.45.13 12 25 4187185 20190824115233
+186.141.199.71 5 5 61931 20190816044139
+190.177.63.163 8 18 1411784 20190809165005
+186.12.64.22 1 1 13784 20190815074727
+186.141.225.91 8 18 1411943 20190823043733
+152.168.143.231 70 112 6727884 20190831151027
+186.58.93.152 30 34 482127 20190806182157
+181.84.221.176 25 32 753170 20190831142513
+186.141.168.203 8 9 715286 20190822055727
+186.141.199.212 5 5 6009 20190831104550
+186.12.24.1 13 17 1410831 20190829070910
+170.51.170.57 13 22 1412975 20190815140355
+66.249.83.86 1 1 662 20190811054335
+186.141.226.126 27 36 1640099 20190817140232
+201.159.62.170 9 14 723958 20190817113402
+181.167.202.201 10 19 1467553 20190825074445
+201.212.32.116 7 16 1403768 20190823152736
+201.159.57.179 1 3 1250 20190810081851
+186.12.4.222 1 1 718 20190822061337
+181.20.155.67 6 15 1402184 20190808151340
+200.114.214.129 4 8 2093229 20190810094826
+190.51.20.155 8 15 1837536 20190810125243
+181.230.29.64 2 2 1436 20190808074630
+186.141.226.229 9 16 1906027 20190828061414
+181.28.28.22 3 3 30456 20190830175551
+173.232.219.237 2 2 1926 20190819100516
+181.229.175.110 37 45 1520245 20190831140858
+201.250.229.208 6 6 34492 20190810151329
+181.46.139.102 1 3 705905 20190810084233
+186.111.157.90 6 8 1392254 20190830151349
+186.12.168.26 16 28 2852082 20190829074603
+186.124.173.41 1 1 1264 20190803150237
+190.177.190.200 8 11 1447245 20190817132544
+200.3.169.134 1 3 705905 20190815034035
+186.143.162.30 2 2 29703 20190821043902
+181.88.207.22 97 138 6923053 20190816121747
+181.13.68.198 6 12 1424194 20190822062715
+181.9.162.59 4 4 5056 20190812163826
+186.141.228.10 1 1 718 20190806050406
+186.141.199.202 2 2 29716 20190820153159
+181.170.192.6 4 6 684852 20190824090844
+181.9.175.229 4 4 59484 20190824120803
+181.80.76.63 11 21 1415168 20190823134229
+200.124.183.6 4 9 689370 20190824065710
+181.9.177.152 10 13 107274 20190817113837
+138.94.12.239 28 36 50082 20190819161550
+191.97.36.146 8 13 1407216 20190810142254
+186.141.201.90 1 1 718 20190830094927
+186.134.197.106 2 2 29669 20190814100642
+181.84.222.191 7 9 687560 20190817131223
+190.177.164.223 37 41 1689201 20190808081101
+186.111.153.236 1 1 718 20190828145133
+186.134.137.88 20 26 837614 20190825160801
+186.141.227.26 7 17 1411557 20190809071059
+181.13.77.43 1 1 662 20190815050106
+181.9.159.125 2 2 1436 20190830084849
+186.134.221.241 26 34 2209527 20190821095414
+181.9.160.116 1 1 1264 20190831092843
+186.58.61.5 19 19 51069 20190831130453
+186.128.102.192 6 12 1424253 20190831181819
+186.138.75.51 2 2 29699 20190810090501
+186.124.25.136 5 8 728631 20190817135834
+138.121.104.253 2 2 29839 20190831154626
+190.230.138.9 1 1 1264 20190831181419
+186.143.201.47 5 10 720538 20190820061459
+186.141.231.203 5 5 20572 20190822053411
+186.143.161.68 5 7 10091 20190829060929
+152.169.91.141 47 55 1730739 20190817133027
+45.167.88.12 8 8 120819 20190817114611
+186.109.17.27 5 8 471816 20190810101102
+186.12.4.51 1 1 718 20190829055902
+186.12.13.113 5 14 704122 20190809042400
+190.191.8.198 1 1 13890 20190813100015
+186.141.225.92 4 9 2093817 20190820074020
+186.143.134.148 5 7 713834 20190818125839
+186.141.199.72 3 3 45445 20190813081824
+186.143.135.39 6 14 698414 20190815121751
+191.97.34.69 10 19 1407306 20190830073636
+190.173.73.3 2 2 29538 20190810113827
+66.249.83.84 22 25 700196 20190831045015
+181.90.58.206 19 35 2825901 20190829061121
+201.250.249.58 158 169 4916365 20190817134835
+191.83.42.76 4 4 17973 20190825122805
+66.249.88.48 10 16 1437533 20190830094616
+181.164.39.219 13 19 730585 20190825140153
+186.141.226.127 10 16 1445240 20190813083749
+201.213.110.158 17 30 3182231 20190831150720
+191.81.225.68 39 59 3613213 20190830072251
+186.12.16.127 6 8 1418683 20190817114510
+181.215.81.148 1 1 662 20190812012859
+186.141.229.41 3 3 2704 20190813083920
+181.9.155.201 1 1 1264 20190831233808
+181.9.128.10 3 3 43811 20190823041951
+201.250.252.216 6 12 1424219 20190831144051
+181.13.76.136 1 1 718 20190829114643
+200.59.158.90 55 83 4191993 20190824085700
+163.172.71.49 2 2 2554 20190824173155
+191.81.203.216 60 81 5481509 20190821081309
+186.0.236.114 6 9 10414 20190816191349
+66.249.83.204 4 6 1388294 20190813182341
+181.169.215.41 31 47 2642437 20190830165720
+186.141.231.98 1 1 14053 20190815070721
+190.177.156.143 122 125 1773412 20190817112000
+191.81.244.197 42 50 2953811 20190830160153
+181.30.13.218 6 9 1419336 20190831150150
+186.141.230.143 21 25 1440304 20190815181138
+181.9.124.127 7 7 6676 20190808131709
+201.180.72.129 14 26 2794301 20190805070844
+181.46.140.117 41 49 2235642 20190824092755
+181.167.74.149 7 13 1424782 20190824085422
+181.29.150.58 12 23 1409728 20190816035614
+104.245.39.230 1 1 662 20190827132112
+186.12.32.137 5 13 696856 20190809061701
+181.81.143.228 11 17 1430048 20190817185949
+186.18.188.201 2 2 27960 20190811194607
+181.9.120.17 11 21 1416094 20190829051716
+186.134.181.194 8 9 44131 20190824085959
+51.68.152.26 1 1 662 20190815181848
+181.117.232.183 1 1 718 20190823151852
+190.8.62.203 7 13 2800458 20190820174435
+181.9.166.253 1 3 705905 20190824085443
+186.141.226.164 11 11 10923 20190820061022
+138.255.170.106 1 1 14039 20190824091907
+35.230.112.96 30 32 10953902 20190817200637
+181.13.67.60 3 3 30378 20190816135720
+186.143.134.25 3 5 5623262 20190823144929
+181.9.178.169 16 25 1413980 20190816065752
+181.165.206.86 9 19 1412564 20190816171546
+170.51.173.92 4 5 553191 20190813144354
+23.226.211.32 1 1 1277 20190826081813
+201.178.52.125 7 16 1403771 20190823082935
+52.90.194.168 1 1 1277 20190812143651
+186.141.199.55 6 8 950105 20190813090344
+186.137.122.210 99 138 7843040 20190829152441
+181.9.178.222 1 3 705905 20190826080114
+181.14.104.26 9 9 11376 20190829114047
+190.244.204.202 8 8 11833 20190829091726
+66.249.81.102 3 5 708444 20190823131509
+186.143.135.142 6 6 32953 20190824085741
+186.141.138.73 1 1 718 20190823143158
+181.167.37.52 19 19 158202 20190820094716
+152.168.142.168 23 30 2819644 20190831150930
+186.141.231.117 2 2 29885 20190827040927
+66.249.83.80 6 7 684655 20190813144402
+170.210.68.100 2 2 2528 20190826062803
+186.12.16.17 8 16 1827123 20190816051824
+186.143.137.7 1 1 662 20190816153442
+35.247.62.152 48 48 89360 20190830101957
+34.220.40.173 1 1 5126 20190829171715
+186.12.4.13 3 4 511209 20190824110636
+181.167.218.123 14 17 820807 20190825013501
+190.110.240.62 14 14 9268 20190825221835
+201.250.131.179 34 39 1448551 20190816071817
+186.141.230.141 5 11 1410072 20190816042633
+186.143.161.202 4 4 19847 20190829045740
+178.22.69.29 1 1 662 20190813112754
+45.32.129.1 1 1 1277 20190830212442
+186.137.152.122 19 27 2829686 20190823022804
+186.143.200.58 1 1 1264 20190809123512
+186.58.107.236 1 1 14000 20190817112528
+181.15.218.66 5 8 1632104 20190809132323
+186.141.230.44 2 2 29709 20190824090202
+181.9.176.112 8 17 1404652 20190808043233
+49.182.5.106 1 3 705905 20190831230530
+186.141.202.160 2 2 29804 20190826044021
+186.56.166.30 1 1 718 20190823163527
+181.1.181.134 25 25 31600 20190819131155
+186.143.161.70 1 1 718 20190809061653
+66.249.83.42 14 17 691729 20190831165222
+186.0.172.232 0 1 679479 
+186.143.164.78 1 1 15766 20190822055718
+190.191.132.210 32 49 4288362 20190828173918
+181.166.117.90 46 81 5732401 20190829214218
+186.141.230.121 1 1 15728 20190815042850
+186.141.230.109 4 4 31298 20190827083555
+181.91.216.21 11 19 2179458 20190831164329
+190.120.245.254 4 4 5056 20190825160058
+190.178.90.19 21 27 1468126 20190817195734
+181.209.72.45 27 33 1532520 20190826093446
+66.249.85.58 14 14 35646 20190812055953
+181.95.196.70 4 4 3697 20190801182124
+181.117.236.67 2 2 29795 20190817152353
+186.143.135.107 1 1 1264 20190816035100
+186.12.44.55 10 29 3080255 20190815063954
+186.143.197.115 2 2 29847 20190824122207
+106.120.188.149 1 3 705905 20190814170820
+200.12.137.16 11 11 30705 20190823151617
+181.117.232.144 18 23 1891185 20190829054616
+190.246.59.25 36 44 1612394 20190817120106
+181.169.12.191 12 18 1429953 20190831171116
+170.51.160.112 1 1 718 20190820055337
+186.141.230.39 17 24 1459311 20190829043332
+181.84.219.104 2 2 29828 20190828145041
+181.9.128.53 10 20 1415430 20190816050320
+181.117.104.174 35 58 4860073 20190817114315
+181.13.119.81 9 12 22360 20190830194853
+190.195.125.156 5 15 1513793 20190809132822
+181.13.77.214 13 14 32395 20190823060030
+186.12.8.18 8 15 722198 20190829042341
+181.44.184.19 64 95 6634149 20190830184334
+181.214.184.192 1 1 662 20190814232005
+143.202.144.2 35 67 6512051 20190831152947
+181.117.228.117 19 30 2192703 20190814054220
+181.9.132.58 20 20 280327 20190824091855
+186.134.166.157 3 6 1387912 20190809105534
+186.143.137.14 1 1 13919 20190813062030
+34.221.165.247 1 1 662 20190826004703
+181.9.152.49 1 1 1264 20190808120641
+186.12.5.80 31 39 723282 20190809052408
+186.141.136.41 3 3 45605 20190815034019
+186.141.227.191 15 23 2212829 20190820083357
+190.16.32.187 1 3 705905 20190824111021
+181.171.67.84 5 5 47032 20190829030433
+186.141.232.34 2 2 29732 20190830062430
+181.9.132.218 7 11 699172 20190829104544
+186.143.200.184 3 7 271069 20190808033928
+186.143.136.189 2 2 29608 20190816034639
+201.235.143.92 5 5 45992 20190824195120
+66.249.83.44 8 9 685377 20190829145226
+181.9.130.132 1 1 718 20190822064825
+186.12.68.23 9 10 19548 20190809051437
+66.249.88.88 2 2 16392 20190814045442
+181.117.216.194 1 1 718 20190815050642
+190.175.51.22 21 23 1524156 20190818081457
+181.97.222.79 2 4 681993 20190818084326
+181.230.160.3 175 230 10361686 20190831150820
+186.141.226.235 15 22 1784732 20190817140407
+190.177.181.152 5 10 718862 20190821123042
+186.134.199.200 3 3 43848 20190814152007
+181.89.248.2 1 1 718 20190830172051
+35.227.154.87 83 84 1221241 20190825172712
+186.158.189.97 8 8 37331 20190821091208
+45.224.203.231 53 69 1611068 20190831220144
+179.40.50.45 2 2 2286 20190823064037
+190.48.68.83 43 46 201828 20190831141808
+181.170.242.242 16 27 2222590 20190831150927
+186.12.48.200 2 2 1711 20190822060445
+186.143.133.33 6 12 1424132 20190827182535
+186.141.136.217 1 3 705905 20190815092303
+181.209.93.114 14 32 2834174 20190822160231
+186.12.28.112 2 2 29856 20190817121443
+186.12.4.135 2 4 706567 20190817201237
+186.141.202.194 6 6 8095 20190813074147
+186.19.2.217 38 63 5028197 20190831191410
+190.188.229.203 3 6 1387912 20190817122712
+186.111.155.234 2 2 29848 20190811161910
+186.141.225.214 2 2 16396 20190830094252
+66.249.88.97 1 3 1838 20190809060940
+190.245.236.122 8 17 707991 20190809141655
+186.141.227.208 7 12 1619121 20190827081659
+181.189.195.143 11 17 994359 20190812190308
+181.9.140.102 3 3 43456 20190816043541
+190.172.152.94 6 18 4235430 20190816132325
+167.71.90.52 1 1 1277 20190803114230
+190.172.208.157 13 30 3518120 20190831145045
+186.143.199.29 5 5 47467 20190823042043
+186.12.57.40 5 12 1696156 20190822051513
+181.13.74.132 6 6 34609 20190829042621
+181.171.131.14 117 141 3565049 20190831150636
+186.141.197.100 5 5 71848 20190824090921
+186.141.135.214 7 16 1403726 20190809063222
+186.141.231.172 18 24 1535617 20190829042433
+186.141.230.213 3 3 43921 20190822041219
+186.12.97.143 9 18 1422054 20190816191847
+190.7.16.40 10 18 2108946 20190831150415
+186.141.136.149 1 3 705905 20190828071625
+138.99.185.251 27 38 2297042 20190831152448
+186.143.161.213 5 5 32174 20190829050244
+181.119.81.7 3 3 45522 20190818120228
+45.178.3.17 19 34 2820424 20190816074303
+148.101.109.204 1 3 705905 20190831182709
+181.28.20.44 10 13 23174 20190830181721
+201.213.101.129 14 21 1489174 20190831141745
+186.12.109.141 1 1 662 20190814110807
+186.141.225.174 6 10 14316 20190806053458
+186.141.231.119 8 9 37042 20190830023301
+181.1.53.207 5 5 6320 20190823145825
+207.246.92.223 1 3 705905 20190809110752
+181.9.128.15 7 16 1403759 20190823090234
+186.12.4.181 1 1 718 20190816052000
+181.170.253.55 18 18 88994 20190831142546
+186.143.137.232 5 14 1401486 20190828073507
+154.0.162.70 1 1 1277 20190825034303
+190.92.110.117 1 3 705905 20190831145529
+66.249.88.46 8 14 1404830 20190830094758
+186.141.201.76 10 10 103962 20190831182937
+181.13.76.138 1 1 718 20190821111550
+181.13.76.27 1 2 662 20190826093453
+186.182.203.50 1 3 705905 20190824132833
+186.141.202.89 14 14 19069 20190831132127
+190.189.115.38 1 1 718 20190829174358
+190.55.67.155 6 12 1424191 20190825115446
+201.250.231.191 54 55 1461687 20190824131733
+190.31.93.218 2 2 15573 20190818085439
+170.51.190.27 3 3 3246 20190812102924
+186.141.228.7 9 15 740390 20190820061355
+186.12.36.120 1 1 14033 20190817112755
+181.94.153.249 3 3 2429 20190816181212
+200.122.73.8 14 23 1454858 20190829184858
+186.12.56.146 9 12 1466592 20190810103356
+186.143.201.119 4 4 59528 20190817141130
+190.188.222.117 17 33 3130656 20190817120820
+186.12.113.207 2 2 2257 20190811092235
+186.58.61.223 31 31 39184 20190813110127
+190.178.123.243 35 44 1436904 20190809103402
+190.17.233.121 1 1 14039 20190824085037
+181.81.154.236 4 4 31710 20190831143535
+186.143.200.198 8 8 104170 20190813065536
+181.170.6.130 14 24 1422227 20190806103226
+181.117.232.67 7 13 1439987 20190822055835
+181.91.69.151 1 3 681331 20190818204951
+181.13.75.47 7 12 721115 20190812035731
+186.18.50.242 14 22 2125975 20190814133507
+186.141.230.107 12 18 1475081 20190816045938
+201.250.186.174 7 21 1397366 20190802150045
+201.178.38.151 19 37 4247444 20190830130920
+186.141.134.225 6 11 11656 20190830183806
+190.137.181.217 2 2 2577 20190828163635
+191.82.117.62 2 2 31556 20190825070139
+190.173.118.56 2 2 29830 20190810102639
+66.249.83.82 17 17 16392 20190828072822
+186.143.135.202 4 4 59511 20190822125158
+186.141.231.70 6 7 739257 20190831143538
+181.9.179.76 14 14 73714 20190829152328
+201.250.178.140 53 73 2934587 20190818172646
+186.143.197.245 14 24 3533965 20190821064908
+190.194.67.237 1 1 1264 20190811070952
+170.51.190.11 8 10 1420566 20190812143411
+186.141.230.198 10 12 45540 20190816045900
+186.134.186.19 13 28 2827920 20190824195735
+186.58.219.221 96 107 2238809 20190823043657
+181.117.236.48 6 8 688172 20190823060240
+181.117.232.84 17 30 2435096 20190815064945
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20190801 147 229 16219010 52
+20190802 174 267 14008981 30
+20190803 50 75 6325224 22
+20190804 50 65 2865440 21
+20190805 161 258 18810557 45
+20190806 276 443 32375575 41
+20190807 443 734 69389598 75
+20190808 1062 1792 115807281 147
+20190809 2819 4302 222978851 244
+20190810 1672 2352 159585607 190
+20190811 494 730 54185289 99
+20190812 1538 2126 144687821 201
+20190813 1114 1569 96833976 157
+20190814 559 796 43947277 94
+20190815 1488 2353 189050982 181
+20190816 3552 4826 201204777 261
+20190817 3500 4706 327866915 352
+20190818 468 635 41496086 85
+20190819 258 353 21219098 63
+20190820 983 1434 105879661 150
+20190821 1217 1758 110033515 159
+20190822 1831 2675 247336566 189
+20190823 3087 4194 213097470 273
+20190824 3367 4448 298814484 349
+20190825 404 556 38274802 74
+20190826 636 918 73772232 111
+20190827 543 762 45984591 96
+20190828 606 897 58149484 121
+20190829 1652 2351 124465237 185
+20190830 2977 4137 208155196 239
+20190831 3518 4495 308565198 269
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 298
+2mn-5mn 522
+5mn-15mn 496
+15mn-30mn 275
+30mn-1h 275
+0s-30s 1924
+30s-2mn 785
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 24
+/ingreso_certamen.php 10798 13656606 1279 870
+/mod_principal/menu_principal.php 9136 14701422 200 714
+/mod_principal/descargar_resultados.php 4582 61733508 420 514
+/mod_principal/descargar_informe.php 4353 55906382 212 1083
+/ 3626 2422603 2050 435
+/mod_profesores/empresa_listado_prof.php 2238 5124350 52 68
+/mod_principal/decisiones.php 1817 4737603 26 137
+/mod_principal/decisiones_historico.php 1766 3707833 21 278
+/mod_principal/decisiones_proc.php 1310 940580 217 397
+/acceso/login.php 662 678246 69 47
+/mod_administrador/menu_principal_admin.php 97 112374 2 2
+/mod_administrador/empresa_listado.php 79 2747880 0 5
+/index.php 42 27804 2 5
+/acceso/mensaje_ok.php 34 24448 1 2
+/mod_administrador/empresa_alta.php 25 46119 0 0
+/acceso/ 20 22340 20 14
+/mod_administrador/subir_datos.php 20 48714 0 0
+/mod_administrador/listado_ejercicios.php 18 39269 0 1
+/mod_profesores/menu_principal_prof.php 7 9719 0 0
+/mod_principal/cuestionario.php 5 17255 0 1
+/mod_principal/cuestionario_proc.php 4 3061 0 0
+/mod_principal/ 3 0 0 0
+/cpanel 2 25065 2 0
+// 2 1939 2 2
+END_SIDER
