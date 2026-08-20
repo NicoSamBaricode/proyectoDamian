@@ -36,9 +36,9 @@ function fechaToTimestamp ($cadena)
 
 
 //---------------------------------------------------------------------------
-
-	function conectarse(){
-		if (!($link=mysql_connect("localhost","perseo","cio154618135")))  {
+	function conectarse(){
+		$db_host = getenv('MYSQL_HOST') ?: 'db';
+		if (!($link=mysql_connect($db_host,"perseo","cio154618135")))  {
 		   echo "Error conectando a la base de datos.";
 		   exit();
 		   }
@@ -153,8 +153,8 @@ function fecha_normal_mysql($fechavieja){
 			   $ip = getenv("HTTP_X_FORWARDED_FOR");
 	   else if (getenv("REMOTE_ADDR") && strcasecmp(getenv("REMOTE_ADDR"), "unknown"))
 			   $ip = getenv("REMOTE_ADDR");
-	   else if (isset($_SERVER[´REMOTE_ADDR´]) && $_SERVER[´REMOTE_ADDR´] && strcasecmp($_SERVER[´REMOTE_ADDR´], "unknown"))
-			   $ip = $_SERVER[´REMOTE_ADDR´];
+	   else if (isset($_SERVER[ï¿½REMOTE_ADDRï¿½]) && $_SERVER[ï¿½REMOTE_ADDRï¿½] && strcasecmp($_SERVER[ï¿½REMOTE_ADDRï¿½], "unknown"))
+			   $ip = $_SERVER[ï¿½REMOTE_ADDRï¿½];
 	   else
 			   $ip = "unknown";
 	  
@@ -163,7 +163,7 @@ function fecha_normal_mysql($fechavieja){
 
 	function fecha()
 	{
-		/* Definición de los meses del año en castellano */
+		/* Definiciï¿½n de los meses del aï¿½o en castellano */
 		$mes[0]="-";
 		$mes[1]="enero";
 		$mes[2]="febrero";
@@ -178,23 +178,23 @@ function fecha_normal_mysql($fechavieja){
 		$mes[11]="noviembre";
 		$mes[12]="diciembre";
 
-		/* Definición de los días de la semana */
+		/* Definiciï¿½n de los dï¿½as de la semana */
 		$dia[0]="Domingo";
 		$dia[1]="Lunes";
 		$dia[2]="Martes";
-		$dia[3]="Miércoles";
+		$dia[3]="Miï¿½rcoles";
 		$dia[4]="Jueves";
 		$dia[5]="Viernes";
-		$dia[6]="Sábado";
+		$dia[6]="Sï¿½bado";
 		
-		/* Implementación de las variables que calculan la fecha */
+		/* Implementaciï¿½n de las variables que calculan la fecha */
 		$gisett=(int)date("w");
 		$mesnum=(int)date("m");
 		/* Variable que calcula la hora*/
 		$hora = date(" H:i",time());
 		
-		/* Presentación de los resultados en una forma similar a la siguiente:
-		Miércoles, 23 de junio de 2004 | 17:20
+		/* Presentaciï¿½n de los resultados en una forma similar a la siguiente:
+		Miï¿½rcoles, 23 de junio de 2004 | 17:20
 		*/
 		
 		return $dia[$gisett].", ".date("d")." de ".$mes[$mesnum]." de ".date("Y")." | ".$hora;

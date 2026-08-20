@@ -53,7 +53,8 @@ function send($text){
 }
 //////////////function conectarse
 function conectarse(){
-	if (!($link=mysql_connect("localhost","root","cavaliere"))){
+	$db_host = getenv('MYSQL_HOST') ?: 'db';
+	if (!($link=mysql_connect($db_host,"root","cavaliere"))){
 	   echo "Error conectando a la base de datos.";
 	   exit();
 	   }
@@ -65,7 +66,8 @@ function conectarse(){
 }
 
 function conectarse_boletin(){
-	if (!($link=mysql_connect("localhost","juanma","nahuel"))){
+	$db_host = getenv('MYSQL_HOST') ?: 'db';
+	if (!($link=mysql_connect($db_host,"juanma","nahuel"))){
 	   echo "Error conectando a la base de datos.";
 	   exit();
 	   }
@@ -77,7 +79,8 @@ function conectarse_boletin(){
 }
 //////////////function conectarse_protocolo
 function conectarse_protocolo(){
-	if (!($link=mysql_connect("localhost","root","nahuel"))){
+	$db_host = getenv('MYSQL_HOST') ?: 'db';
+	if (!($link=mysql_connect($db_host,"root","nahuel"))){
 	   echo "Error conectando a la base de datos.";
 	   exit();
 	   }
@@ -126,8 +129,8 @@ function GetIP(){
 		   $ip = getenv("HTTP_X_FORWARDED_FOR");
    else if (getenv("REMOTE_ADDR") && strcasecmp(getenv("REMOTE_ADDR"), "unknown"))
 		   $ip = getenv("REMOTE_ADDR");
-   else if (isset($_SERVER[´REMOTE_ADDR´]) && $_SERVER[´REMOTE_ADDR´] && strcasecmp($_SERVER[´REMOTE_ADDR´], "unknown"))
-		   $ip = $_SERVER[´REMOTE_ADDR´];
+   else if (isset($_SERVER[ï¿½REMOTE_ADDRï¿½]) && $_SERVER[ï¿½REMOTE_ADDRï¿½] && strcasecmp($_SERVER[ï¿½REMOTE_ADDRï¿½], "unknown"))
+		   $ip = $_SERVER[ï¿½REMOTE_ADDRï¿½];
    else
 		   $ip = "unknown";
   
@@ -346,13 +349,13 @@ function fecha_enc(){
 						"Wed" => "Miercoles", 
 						"Thu" => "Jueves", 
 						"Fri" => "Viernes", 
-						"Sat" => "Sábado", 
+						"Sat" => "Sï¿½bado", 
 						"Sun" => "Domingo"); 
 		$mesReturn = $mesArray[$mes]; 
 		$semanaReturn = $semanaArray[$semana]; 
 		$dia = date("d"); 
-		$año = date ("Y"); 
-		return $dia." de ".$mesReturn." de ".$año; 
+		$aï¿½o = date ("Y"); 
+		return $dia." de ".$mesReturn." de ".$aï¿½o; 
 		}
 
 function fechanueva($fechavieja){
