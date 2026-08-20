@@ -37,6 +37,9 @@
                     <li class="nav-item">
                         <a class="nav-link" href="/ingreso_certamen.php"><i class="bi bi-trophy-fill me-1"></i> Certamen</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/informacion.php"><i class="bi bi-info-circle-fill me-1"></i> Información</a>
+                    </li>
                 </ul>
             </div>
         </div>
