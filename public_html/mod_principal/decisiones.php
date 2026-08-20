@@ -73,7 +73,7 @@ try {
 
 $pageTitle = 'Ingresar Decisiones - Ejercicio ' . $ejercicio;
 $currentPage = 'decisiones';
-require_once __DIR__ . '/../../layouts/header.php';
+require_once __DIR__ . '/../layouts/header.php';
 ?>
 
 <script>
@@ -318,7 +318,7 @@ function validar(frm) {
     </div>
 </div>
 
-<?php require_once __DIR__ . '/../../layouts/footer.php'; ?>
+<?php require_once __DIR__ . '/../layouts/footer.php'; ?>
 
 <script>
 // Client-side validation

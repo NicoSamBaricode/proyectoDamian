@@ -25,7 +25,7 @@ $ejercicio = $_SESSION['ejercicio'];
 
 $pageTitle = 'Cuestionario de Autoformación - Ejercicio ' . $ejercicio;
 $currentPage = 'cuestionario';
-require_once __DIR__ . '/../../layouts/header.php';
+require_once __DIR__ . '/../layouts/header.php';
 ?>
 
 <script>
@@ -135,7 +135,7 @@ function validar(frm) {
     </div>
 </div>
 
-<?php require_once __DIR__ . '/../../layouts/footer.php'; ?>
+<?php require_once __DIR__ . '/../layouts/footer.php'; ?>
 
 <script>
 function validar(frm) {
