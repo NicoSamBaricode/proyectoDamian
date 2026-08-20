@@ -17,8 +17,6 @@
                     <ul class="list-unstyled">
                         <li><a href="/index.php" class="text-muted text-decoration-none"><i class="bi bi-chevron-right me-1"></i> Inicio</a></li>
                         <li><a href="/ingreso_certamen.php" class="text-muted text-decoration-none"><i class="bi bi-chevron-right me-1"></i> Acceso al Certamen</a></li>
-                        <li><a href="/informacion.html" class="text-muted text-decoration-none"><i class="bi bi-chevron-right me-1"></i> Información</a></li>
-                        <li><a href="/comollegar.html" class="text-muted text-decoration-none"><i class="bi bi-chevron-right me-1"></i> Cómo Llegar</a></li>
                     </ul>
                 </div>
                 <div class="col-md-4">

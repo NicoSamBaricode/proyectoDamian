@@ -37,15 +37,6 @@
                     <li class="nav-item">
                         <a class="nav-link" href="/ingreso_certamen.php"><i class="bi bi-trophy-fill me-1"></i> Certamen</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/informacion.html"><i class="bi bi-info-circle-fill me-1"></i> Información</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/comollegar.html"><i class="bi bi-geo-alt-fill me-1"></i> Cómo llegar</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/regalos.html"><i class="bi bi-gift-fill me-1"></i> Regalos</a>
-                    </li>
                 </ul>
             </div>
         </div>
