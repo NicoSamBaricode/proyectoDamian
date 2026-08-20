@@ -1,186 +1,305 @@
-.estilo_body {
-	background-color: #FFFFFF;
-	margin-top: 20px;
+/* ========================================
+   Sapienter - Certamen Juvenil de Gestión
+   Estilos personalizados sobre Bootstrap 5
+   ======================================== */
+
+/* Variables CSS personalizadas */
+:root {
+    --sapienter-primary: #0d6efd;
+    --sapienter-warning: #ffc107;
+    --sapienter-dark: #212529;
+    --sapienter-light: #f8f9fa;
 }
 
-.estilo_body_2 {
-	background-color: #FFFFFF;
-	margin-top: 20px;
+/* Base Styles */
+body {
+    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+    line-height: 1.6;
+    color: #212529;
 }
 
-.etiquetas_encabezado {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
-	font-size: 14px;
-	font-weight: bold;
-	color: #333333;
+/* Navbar Customizations */
+.navbar-brand {
+    font-size: 1.5rem;
+    letter-spacing: -0.5px;
 }
 
-.datos_encabezado {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
-	font-size: 14px;
-	font-weight: normal;
-	color: #333333;
+.navbar-brand .text-warning {
+    color: var(--sapienter-warning) !important;
 }
 
-.etiquetas {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
-	font-size: 13px;
-	font-weight: bold;
-	color: #333333;
+.nav-link {
+    font-weight: 500;
+    padding: 0.5rem 1rem !important;
+    transition: color 0.2s ease;
 }
 
-.informacion {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
-	font-size: 13px;
-	font-weight: normal;
-	color: #333333;
+.nav-link:hover {
+    color: var(--sapienter-warning) !important;
 }
 
-.titulos_pantalla {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
-	font-size: 16px;
-	font-weight: bold;
-	color: #000000;
-	background-color: #A8B6C6;
-	text-align: center;
-	vertical-align: middle;
+/* Card Styles */
+.card {
+    border: none;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
-.titulo_seccion {
-	font-family: Verdana;
-	font-size: 16px;
-	font-weight: bold;
-	color: #000000;
-	text-align: left;
-	vertical-align: bottom;
-	border-bottom-width: 1px;
-	border-bottom-style: solid;
-	border-bottom-color: #00CC00;
+.card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
 }
 
-.titulos_pantalla_index {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
-	font-size: 16px;
-	font-weight: bold;
-	color: #000000;
-	background-color: #FFFFFF;
-	text-align: center;
-	vertical-align: middle;
-}
-A.menu_principal {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 15px;
-	color: #000000;
-	text-decoration: none;
-	font-weight: bold;
-}
-A.menu_principal:hover {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 15px;
-	color: #666666;
-	text-decoration: none;
+.card-header {
+    background-color: var(--sapienter-primary);
+    color: white;
+    border-bottom: none;
+    font-weight: 600;
 }
 
-A.enlace_opcion {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 15px;
-	color: #000000;
-	text-decoration: none;
-	font-weight: bold;
-}
-A.enlace_opcion:hover {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 15px;
-	color: #666666;
-	text-decoration: none;
+.card-header.bg-warning {
+    background-color: var(--sapienter-warning) !important;
+    color: var(--sapienter-dark);
 }
 
-.datos{
-	font-family: Verdana, Arial, Helvetica, sans-serif;
-	font-size: 11px;
-	font-style: normal;
-	color: #000000;
-	font-weight: normal;
+/* Button Styles */
+.btn-primary {
+    background-color: var(--sapienter-primary);
+    border-color: var(--sapienter-primary);
+    font-weight: 500;
+    padding: 0.5rem 1.5rem;
 }
 
-.datos_verde{
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 12px;
-	font-style: normal;
-	color: #009900;
-	font-weight: normal;
+.btn-primary:hover {
+    background-color: #0b5ed7;
+    border-color: #0a58ca;
+    transform: translateY(-1px);
 }
 
-.datos_rojo{
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 12px;
-	font-style: normal;
-	color: #FF0000;
-	font-weight: normal;
+.btn-warning {
+    background-color: var(--sapienter-warning);
+    border-color: var(--sapienter-warning);
+    color: var(--sapienter-dark);
+    font-weight: 500;
 }
 
-.datos_resaltado{
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 12px;
-	font-style: normal;
-	color: #D90000;
-	font-weight: normal;
+.btn-warning:hover {
+    background-color: #e0a800;
+    border-color: #d39e00;
+    color: var(--sapienter-dark);
 }
 
-.contnido_index{
-	font-family: Verdana;
-	font-size: 12px;
-	font-style: normal;
-	color: #000000;
-	font-weight: normal;
-	text-align: justify;
+/* Form Styles */
+.form-control, .form-select {
+    border-radius: 0.5rem;
+    border: 1px solid #dee2e6;
+    padding: 0.625rem 1rem;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease;
 }
 
-.datos_formulario{
-	font-family: Verdana;
-	font-size: 11px;
-	font-style: normal;
-	color: #000000;
-	font-weight: normal;
+.form-control:focus, .form-select:focus {
+    border-color: var(--sapienter-primary);
+    box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
 }
 
-
-.noticia {
-	font-family: Arial;
-	font-size: 12px;
-	font-weight: normal;
-	color: #FFFFFF;
+.form-label {
+    font-weight: 500;
+    color: #495057;
+    margin-bottom: 0.5rem;
 }
 
-A.menu_sup {
-	font-family: Arial;
-	font-size: 15px;
-	color: #990000;
-	text-decoration: none;
-	font-weight: bold;
+.input-group-text {
+    background-color: var(--sapienter-light);
+    border-color: #dee2e6;
 }
 
-A.menu_sup:hover {
-	font-family: Arial;
-	font-size: 15px;
-	color: #4F0000;
-	text-decoration: none;
-	font-weight: bold;
+/* Alert Styles */
+.alert {
+    border-radius: 0.5rem;
+    border: none;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
 }
 
-.encabezado {
-	color: #000000;
-	font-weight: normal;
-	font-size: 50px;
-	font-family: Arial;
+/* Table Styles */
+.table {
+    margin-bottom: 0;
 }
 
-.borde_inferior {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
-	font-size: 13px;
-	font-weight: bold;
-	color: #333333;
-	border-bottom-width: 1px;
-	border-bottom-style: solid;
-	border-bottom-color: #00CC00;
+.table thead th {
+    background-color: var(--sapienter-light);
+    border-bottom: 2px solid #dee2e6;
+    font-weight: 600;
+    color: #495057;
+    padding: 1rem;
+}
+
+.table tbody td {
+    padding: 1rem;
+    vertical-align: middle;
+}
+
+.table-hover tbody tr:hover {
+    background-color: rgba(13, 110, 253, 0.05);
+}
+
+/* Badge Styles */
+.badge {
+    font-size: 0.75rem;
+    padding: 0.5em 0.75em;
+    font-weight: 500;
+}
+
+/* Hero Section */
+.hero-section {
+    background: linear-gradient(135deg, var(--sapienter-primary) 0%, #0b5ed7 100%);
+    color: white;
+    padding: 4rem 0;
+    margin-bottom: 2rem;
+}
+
+.hero-section h1 {
+    font-weight: 700;
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+.hero-section .lead {
+    font-size: 1.25rem;
+    opacity: 0.9;
+}
+
+/* Feature Cards */
+.feature-card {
+    height: 100%;
+    padding: 2rem;
+    text-align: center;
+}
+
+.feature-card .icon {
+    font-size: 3rem;
+    color: var(--sapienter-primary);
+    margin-bottom: 1rem;
+}
+
+.feature-card h4 {
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+}
+
+/* Login Form */
+.login-card {
+    max-width: 450px;
+    margin: 2rem auto;
+}
+
+.login-card .card-header {
+    text-align: center;
+    padding: 1.5rem;
+}
+
+.login-card .card-body {
+    padding: 2rem;
+}
+
+/* Footer */
+footer a:hover {
+    color: var(--sapienter-warning) !important;
+    text-decoration: none;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .hero-section h1 {
+        font-size: 2rem;
+    }
+    
+    .hero-section .lead {
+        font-size: 1rem;
+    }
+    
+    .feature-card {
+        padding: 1.5rem;
+    }
+}
+
+/* Utility Classes */
+.text-primary-custom {
+    color: var(--sapienter-primary) !important;
+}
+
+.bg-primary-custom {
+    background-color: var(--sapienter-primary) !important;
+}
+
+.border-primary-custom {
+    border-color: var(--sapienter-primary) !important;
+}
+
+.shadow-custom {
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1) !important;
+}
+
+/* Loading Spinner */
+.spinner-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+}
+
+/* Print Styles */
+@media print {
+    .navbar, .btn, .card-header, footer {
+        display: none !important;
+    }
+    
+    .card {
+        box-shadow: none;
+        border: 1px solid #dee2e6;
+    }
+}
+
+/* Animation */
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.animate-fade-in-up {
+    animation: fadeInUp 0.5s ease-out forwards;
+}
+
+/* Focus Visible for Accessibility */
+:focus-visible {
+    outline: 2px solid var(--sapienter-primary);
+    outline-offset: 2px;
+}
+
+/* Skip Link for Accessibility */
+.skip-link {
+    position: absolute;
+    top: -40px;
+    left: 0;
+    background: var(--sapienter-primary);
+    color: white;
+    padding: 8px 16px;
+    z-index: 100;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.skip-link:focus {
+    top: 0;
 }
