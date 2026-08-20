@@ -1,109 +1,105 @@
-<?php
-//--------------------------------Inicio de sesion------------------------
-include("../lib/sesion.php"); 
-if ($_SESSION['permiso'] == 'autorizado' and $_SESSION['privilegio']=='3'){
-	
-//--------------------------------Fin inicio de sesion------------------------
-
-	include("../lib/funciones.php");
-	
-	$link=conectarse();
-
-$query_documentos="select * from archivos where habilitado='1' order by nombre"; 
-$documentos=mysql_query($query_documentos,$link);
-
-
-?>
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Sistema administrativo</title>
-<style type="text/css">
-<!--
-.style16 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; }
-.style21 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12; font-weight: bold; }
-.style22 {font-family: Verdana, Arial, Helvetica, sans-serif}
-.style25 {font-size: 12}
-.style4 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; }
-.style5 {font-size: 12px}
-.style9 {	font-family: Verdana, Arial, Helvetica, sans-serif;
-	font-weight: bold;
-}
--->
-</style>
-<link href="estilos_relevamiento.css" rel="stylesheet" type="text/css" /><link href="../css/estilos.css" rel="stylesheet" type="text/css" />
-</head>
-
-<body>
-<table width="770" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="800" align="left" valign="middle"><?php include("../lib/encabezado_prof.php"); ?></td>
-  </tr>
-  <tr>
-    <td height="5" align="left" valign="middle"></td>
-  </tr>
-  <tr>
-    <td align="left" valign="middle" class="titulos_pantalla">Menú principal</td>
-  </tr>
-  <tr>
-    <td align="left" valign="middle"><table width="770" border="0" cellspacing="0" cellpadding="0">
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td><table width="400" border="0">
-          <tr>
-            <td><a href="empresa_listado_prof.php" class="enlace_opcion">Listado de empresas &gt;&gt;</a></td>
-          </tr>
-          <tr>
-            <td>&nbsp;</td>
-          </tr>
-
-        </table></td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td><table width="500" border="0" cellspacing="0" cellpadding="0">
-          <?php
-	  	$query_descargas="select titulo,archivo from informacion order by titulo";
-		$rec_descargas=mysql_query($query_descargas,$link);
-	  ?>
-          <tr>
-            <td class="titulo_seccion">Informativos y tutoriales</td>
-          </tr>
-          <?php
-	  	while($descargas=mysql_fetch_array($rec_descargas)){
-	  ?>
-          <tr>
-            <td><a href="<?php echo "../informacion/".$descargas['archivo']; ?>" target="_blank" class="enlace_opcion"><?php echo $descargas['titulo']." (".$descargas['archivo'].")";  ?></a></td>
-          </tr>
-          <?php
-	  	}
-	?>
-        </table></td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td><a href="../../acceso/logout.php" class="enlace_opcion"><img src="../images/salir.gif" alt="" width="50" height="50" border="0" title="Salir" /></a></td>
-      </tr>
-    </table></td>
-  </tr>
-</table>
-</body>
-</html>
-<?php
-}
-else
-{
-$mensaje="Usuario sin permisos";
-$destino="../ingreso_certamen.php";
-include("../includes/mensaje.php");
-}
-
+<?php
+
+//--------------------------------Inicio de sesion------------------------
+require_once __DIR__ . '/../lib/sesion.php'; 
+
+if ($_SESSION['permiso'] != 'autorizado' || $_SESSION['privilegio'] != '3'){
+    $mensaje = "Usuario sin permisos";
+    $destino = "../ingreso_certamen.php";
+    include("../includes/mensaje.php");
+    exit();
+}
+
+//--------------------------------Fin inicio de sesion------------------------
+require_once __DIR__ . '/../lib/funciones.php';
+
+try {
+    $pdo = conectarse();
+    
+    $stmt = $pdo->prepare("SELECT * FROM archivos WHERE habilitado='1' ORDER BY nombre");
+    $stmt->execute();
+    $documentos = $stmt->fetchAll(PDO::FETCH_ASSOC);
+    
+    $stmt = $pdo->prepare("SELECT titulo, archivo FROM informacion ORDER BY titulo");
+    $stmt->execute();
+    $rec_descargas = $stmt->fetchAll(PDO::FETCH_ASSOC);
+    
+} catch (PDOException $e) {
+    error_log("Profesor menu error: " . $e->getMessage());
+    $documentos = [];
+    $rec_descargas = [];
+}
+
 ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Sistema administrativo</title>
+<style type="text/css">
+<!--
+.style16 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; }
+.style21 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12; font-weight: bold; }
+.style22 {font-family: Verdana, Arial, Helvetica, sans-serif}
+.style25 {font-size: 12}
+.style4 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; }
+.style5 {font-size: 12px}
+.style9 {	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+-->
+</style>
+<link href="estilos_relevamiento.css" rel="stylesheet" type="text/css" /><link href="../css/estilos.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<table width="770" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="800" align="left" valign="middle"><?php include("../lib/encabezado_prof.php"); ?></td>
+  </tr>
+  <tr>
+    <td height="5" align="left" valign="middle"></td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle" class="titulos_pantalla">Menú principal</td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle"><table width="770" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td><table width="400" border="0">
+          <tr>
+            <td><a href="empresa_listado_prof.php" class="enlace_opcion">Listado de empresas >></a></td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td><table width="500" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td class="titulo_seccion">Informativos y tutoriales</td>
+          </tr>
+          <?php foreach($rec_descargas as $descargas): ?>
+          <tr>
+            <td><a href="<?php echo "../informacion/".$descargas['archivo']; ?>" target="_blank" class="enlace_opcion"><?php echo $descargas['titulo']." (".$descargas['archivo'].")";  ?></a></td>
+          </tr>
+          <?php endforeach; ?>
+        </table></td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td><a href="../../acceso/logout.php" class="enlace_opcion"><img src="../images/salir.gif" alt="" width="50" height="50" border="0" title="Salir" /></a></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+</body>
+</html>
